@@ -1,0 +1,499 @@
+Screen 0:
+
+<button id=0 class=bPlayback alt="['List']">  </button>
+<p id=1> Hi-Q MP3 Rec (Free) </p>
+<button id=2 class=bSettings alt="['Settings']">  </button>
+<button id=3 class=bFiletype> mp3 </button>
+<button id=4 class=bQuality> 128 kbps </button>
+<button id=5 class=bGain> 0.0 dB </button>
+<button id=6 class=bStopTimer> OFF </button>
+<img id=7>  </img>
+<img id=8 class=mic_decoration>  </img>
+<p id=9 class=lDuration> 00:09 </p>
+<p id=10 class=lFilename> recording-20170130-164157.mp3 </p>
+<div id=11 class=audioMeter>  </div>
+<button id=12 class=bRecord alt="['Record']">  </button>
+<button id=13 class=bStop alt="['Stop']">  </button>
+<img id=14>  </img>
+<p id=15 class=lSize> Current recording 150 kB </p>
+<p id=16 class=lDiskSpace> Free space 451 hours </p>
+<div id=17 class=navigationBarBackground>  </div>
+<div id=18 class=statusBarBackground>  </div>
+
+
+Screen 1:
+
+<div id=0 alt="['Navigate up']">  </div>
+<div id=1 class=menu_share alt="['Share']">  </div>
+<div id=2 class=menu_save_trip>  </div>
+<div id=3 class=menu_refresh alt="['Refresh']">  </div>
+<div id=4>  </div>
+<div id=5 alt="['Google Map']">  </div>
+<img id=6>  </img>
+<img id=7 alt="['Zoom in']">  </img>
+<img id=8 alt="['Zoom out']">  </img>
+<img id=9 alt="['Get directions']">  </img>
+<img id=10 alt="['Open in Google Maps']">  </img>
+<button id=11>  </button>
+<div id=12 class=traffic_toggle>  </div>
+<div id=13 class=locked_view>  </div>
+<div id=14 class=icons>  </div>
+<div id=15 class=time> 66 </div>
+<div id=16 class=walk_icon>  </div>
+<div id=17 class=walk_mins> min </div>
+<div id=18 class=total_mins> min </div>
+<div id=19 class=walk_time> 9 </div>
+<div id=20 class=price>  </div>
+<div id=21 class=step_icon>  </div>
+<div id=22 class=step_verb> Walk to Streetcar stop </div>
+<div id=23 class=step_noun> Galoppfältet </div>
+<div id=24 class=step_secondary_info>  </div>
+<div id=25 class=step_destination_message>  </div>
+<div id=26 class=step_icon>  </div>
+<div id=27 class=step_verb> Wait for </div>
+<div id=28 class=wait_large_live_blip>  </div>
+<div id=29 class=wait_large_live_main>  </div>
+<div id=30 class=step_route_icons> 21:58
+Stockholm Östra </div>
+<div id=31 class=wait_carriage_positions_view>  </div>
+<div id=32 class=wait_boarding_info_text> Best Section - Front </div>
+<div id=33 class=alternate_departures_header> More departures </div>
+<div id=34 class=departure_title> 22:13 - 22:33
+Östra </div>
+<div id=35 class=departure_title> 22:43 - 23:03
+Östra </div>
+<div id=36 class=departure_title> 23:13 - 23:33
+Östra </div>
+<div id=37 class=departure_title> 23:43 - 00:03
+Östra </div>
+<div id=38 class=departure_title>  </div>
+<div id=39 class=departure_title>  </div>
+<div id=40 class=alternate_departures_see_all> SEE ALL DEPARTURES </div>
+<div id=41 class=leave_at> Leave 9:58 PM </div>
+<div id=42 class=arrive_at> Arrive 11:04 PM </div>
+<div id=43 class=icons>  </div>
+<div id=44 class=time> ~26 </div>
+<div id=45 class=total_mins> min </div>
+<div id=46 class=price> 363-472 kr </div>
+<div id=47 class=wait_for_vehicle_get> Get an Uber </div>
+<p id=48 class=on_demand_row_title> uberX </p>
+<div id=49 class=on_demand_row_price> 363-472 kr </div>
+<div id=50 class=on_demand_row_live_indicator>  </div>
+<div id=51 class=on_demand_row_eta> 11 </div>
+<div id=52 class=on_demand_row_min> min </div>
+<div id=53 class=that_chevron>  </div>
+<p id=54 class=on_demand_row_title> uberBLACK </p>
+<div id=55 class=on_demand_row_price> 615-805 kr </div>
+<div id=56 class=on_demand_row_live_indicator>  </div>
+<div id=57 class=on_demand_row_eta> 12 </div>
+<div id=58 class=on_demand_row_min> min </div>
+<div id=59 class=that_chevron>  </div>
+<p id=60 class=on_demand_row_title> No UberLux available </p>
+<div id=61 class=step_icon>  </div>
+<div id=62 class=step_verb> Ride 28.6 km to </div>
+<div id=63 class=step_main_time> 26 min </div>
+<div id=64 class=result_title> Farsta </div>
+<div id=65 class=result_subtitle>  </div>
+<div id=66 class=place_no_info> No additional information available </div>
+<div id=67 class=place_description>  </div>
+<div id=68 class=result_rating>  </div>
+<div id=69 class=place_price>  </div>
+<p id=70 class=place_phone>  </p>
+<p id=71 class=place_website>  </p>
+<p id=72 class=place_menu> View Menu </p>
+<p id=73 class=place_open_status>  </p>
+<div id=74 class=place_opening_times>  </div>
+<div id=75> Saved </div>
+<div id=76> Share </div>
+<div id=77> Telescope </div>
+<div id=78 class=footer_item> Report Issue </div>
+<div id=79 class=leave_at> Leave 10:46 PM </div>
+<div id=80 class=arrive_at> Arrive 11:12 PM </div>
+<div id=81 class=icons>  </div>
+<div id=82 class=time> 63 </div>
+<div id=83 class=walk_icon>  </div>
+<div id=84 class=walk_mins> min </div>
+<div id=85 class=total_mins> min </div>
+<div id=86 class=walk_time> 10 </div>
+<div id=87 class=price>  </div>
+<div id=88 class=step_icon>  </div>
+<div id=89 class=step_verb> Walk to Streetcar stop </div>
+<div id=90 class=step_noun> Galoppfältet </div>
+<div id=91 class=step_secondary_info>  </div>
+<div id=92 class=step_destination_message>  </div>
+<div id=93 class=step_icon>  </div>
+<div id=94 class=step_verb> Wait for </div>
+<div id=95 class=wait_large_live_blip>  </div>
+<div id=96 class=wait_large_live_main>  </div>
+<div id=97 class=step_route_icons> 21:58
+Stockholm Östra </div>
+<div id=98 class=wait_carriage_positions_view>  </div>
+<div id=99 class=wait_boarding_info_text>  </div>
+<div id=100 class=alternate_departures_header> More departures </div>
+<div id=101 class=departure_title> 22:13 - 22:29
+Östra </div>
+<div id=102 class=departure_title> 22:43 - 22:59
+Östra </div>
+<div id=103 class=departure_title> 23:13 - 23:29
+Östra </div>
+<div id=104 class=departure_title> 23:43 - 23:59
+Östra </div>
+<div id=105 class=departure_title>  </div>
+<div id=106 class=departure_title>  </div>
+<div id=107 class=alternate_departures_see_all> SEE ALL DEPARTURES </div>
+<div id=108 class=leave_at> Leave 9:58 PM </div>
+<div id=109 class=arrive_at> Arrive 11:01 PM </div>
+<div id=110 class=navigationBarBackground>  </div>
+<div id=111 class=statusBarBackground>  </div>
+
+
+Screen 2:
+
+<img id=0 class=imageView>  </img>
+<img id=1>  </img>
+<img id=2 class=button_notifications>  </img>
+<img id=3 class=imageView4>  </img>
+<button id=4 class=button_myaccount>  </button>
+<p id=5> My Account </p>
+<button id=6 class=button_explore>  </button>
+<p id=7> Explore Games </p>
+<button id=8 class=button_mygames>  </button>
+<p id=9> My Games </p>
+<button id=10 class=button_transactions>  </button>
+<p id=11> Transactions </p>
+<img id=12 class=imageView>  </img>
+<img id=13>  </img>
+<img id=14 class=button_notifications>  </img>
+<img id=15 class=imageView4>  </img>
+<button id=16 class=button_myaccount>  </button>
+<p id=17> My Account </p>
+<button id=18 class=button_explore>  </button>
+<p id=19> Explore Games </p>
+<button id=20 class=button_mygames>  </button>
+<p id=21> My Games </p>
+<button id=22 class=button_transactions>  </button>
+<p id=23> Transactions </p>
+<div id=24 class=autoCompleteTittle>  </div>
+<button id=25 class=rightToggle>  </button>
+<div id=26 class=contain_menu>  </div>
+<img id=27 class=iconImgeView>  </img>
+<p id=28 class=dewey_cell_label> XBOX ONE </p>
+<img id=29 class=iconImgeView>  </img>
+<p id=30 class=dewey_cell_label> PLAYSTATION 4 </p>
+<img id=31 class=iconImgeView>  </img>
+<p id=32 class=dewey_cell_label> WII U </p>
+<img id=33 class=iconImgeView>  </img>
+<p id=34 class=dewey_cell_label> NINTENDO 3DS </p>
+<img id=35 class=iconImgeView>  </img>
+<p id=36 class=dewey_cell_label> XBOX 360 </p>
+<img id=37 class=iconImgeView>  </img>
+<p id=38 class=dewey_cell_label> PLAYSTATION 3 </p>
+<img id=39 class=iconImgeView>  </img>
+<p id=40 class=dewey_cell_label> WII </p>
+<img id=41 class=iconImgeView>  </img>
+<p id=42 class=dewey_cell_label> PS VITA </p>
+<img id=43>  </img>
+<p id=44> Are you sure this game exists? Our search robots found nothing.
+Try searching another game! </p>
+<img id=45 class=gameImageView>  </img>
+<p id=46 class=game_name_txt> Tom Clancy's Rainbow Six Siege </p>
+<img id=47 class=gameImageView>  </img>
+<p id=48 class=game_name_txt> Titanfall 2 </p>
+<img id=49 class=gameImageView>  </img>
+<p id=50 class=game_name_txt> Watch Dogs 2 </p>
+<img id=51 class=gameImageView>  </img>
+<p id=52 class=game_name_txt> Madden NFL 16 </p>
+<img id=53 class=gameImageView>  </img>
+<p id=54 class=game_name_txt> WWE 2K17 </p>
+<img id=55 class=gameImageView>  </img>
+<p id=56 class=game_name_txt> Titanfall </p>
+<img id=57 class=gameImageView>  </img>
+<p id=58 class=game_name_txt> NBA 2k17 </p>
+<img id=59 class=gameImageView>  </img>
+<p id=60 class=game_name_txt> Forza Horizon 3 </p>
+<img id=61 class=gameImageView>  </img>
+<p id=62 class=game_name_txt> Dying Light </p>
+<div id=63 class=progressBar2>  </div>
+<img id=64 class=shadowView>  </img>
+<div id=65 class=navigationBarBackground>  </div>
+<div id=66 class=statusBarBackground>  </div>
+
+
+Screen 3:
+
+<p id=0 class=title> Hide subject in notifications </p>
+<p id=1 class=summary> Never </p>
+<p id=2 class=title> Remove email User-Agent from mail headers </p>
+<div id=3 class=checkbox>  </div>
+<p id=4 class=title> Use UTC as time zone in mail headers </p>
+<div id=5 class=checkbox>  </div>
+<button id=6 class=back_button> Back </button>
+<button id=7 class=next_button> Next </button>
+<img id=8 class=home>  </img>
+<p id=9 class=action_bar_title> Privacy </p>
+<div id=10>  </div>
+
+
+Screen 4:
+
+<img id=0 class=imageView>  </img>
+<img id=1>  </img>
+<img id=2 class=button_notifications>  </img>
+<img id=3 class=imageView4>  </img>
+<button id=4 class=button_myaccount>  </button>
+<p id=5> My Account </p>
+<button id=6 class=button_explore>  </button>
+<p id=7> Explore Games </p>
+<button id=8 class=button_mygames>  </button>
+<p id=9> My Games </p>
+<button id=10 class=button_transactions>  </button>
+<p id=11> Transactions </p>
+<img id=12 class=imageView>  </img>
+<img id=13>  </img>
+<img id=14 class=button_notifications>  </img>
+<img id=15 class=imageView4>  </img>
+<button id=16 class=button_myaccount>  </button>
+<p id=17> My Account </p>
+<button id=18 class=button_explore>  </button>
+<p id=19> Explore Games </p>
+<button id=20 class=button_mygames>  </button>
+<p id=21> My Games </p>
+<button id=22 class=button_transactions>  </button>
+<p id=23> Transactions </p>
+<p id=24 class=navTitle> GAME DETAILS </p>
+<img id=25 class=share_item>  </img>
+<button id=26 alt="['Navigate up']">  </button>
+<div id=27 class=contain_menu>  </div>
+<img id=28 class=bg_header>  </img>
+<img id=29 class=bg_header>  </img>
+<img id=30 class=game_thumbnail>  </img>
+<img id=31 class=favorite_flag>  </img>
+<p id=32 class=game_title> Titanfall 2 </p>
+<div id=33>  </div>
+<p id=34 class=plateform_name> XBOX ONE </p>
+<p id=35> Available </p>
+<p id=36 class=noOfGames> 12 </p>
+<p id=37 class=info_button> Info </p>
+<p id=38 class=video_button> Videos </p>
+<img id=39 class=video_thumbnail>  </img>
+<p id=40 class=video_title> L3p D3sk 2016 - Titanfall 2 Gameplay </p>
+<p id=41 class=video_description> Just some Titanfall 2 gameplay on a nice Sundaymorning :) All maxed out @ 3440x1440/100Hz/Gsync Intel i7 5960X @ 4.4Ghz Intel 750 1,2TB Nvidia Titan X ... </p>
+<img id=42 class=video_thumbnail>  </img>
+<p id=43 class=video_title> TitanFall 1440p Gameplay on the LG 34UM95 Ultrawide QHD Monitor [4K] </p>
+<p id=44 class=video_description> Loot Crate: http://www.lootcrate.com/booredatwork 10% Code "booredatwork" Twitch: https://www.twitch.tv/booredatwork Youtube Booredgamer: ... </p>
+<img id=45 class=video_thumbnail>  </img>
+<p id=46 class=video_title> Titanfall 2 - GTX 1050 TI - i5-6400 - Benchmark </p>
+<p id=47 class=video_description> Buy Titanfall 2 @ Amazon http://amzn.to/2iz11gd - @ Kinguin http://bit.ly/2ilH5ho - @ G2A http://bit.ly/2iyVPZT Buy Acer Aspire T Desktop @ Amazon ... </p>
+<div id=48 class=progressBar2>  </div>
+<img id=49>  </img>
+<p id=50> Sorry, no data to display </p>
+<p id=51> Description </p>
+<p id=52 class=game_description> Pilot and Titan unite as never before in Respawn Entertainment's highly anticipated Titanfall® 2. Featuring a single player campaign that explores the unique bond between man and machine, and backed by a deeper multiplayer experience, Titanfall 2 delivers fast-paced action brimming with inventive twists.
+
+Features:
+Advanced, Action-Packed Gameplay - Whether fighting as a Pilot, the apex predators of The Frontier, or as a Titan, 20-foot tall war machines, Titanfall 2 provides an incredibly fun, fluid, and thrilling combat experience that is unmatched.
+Captivating Single Player Campaign - Step on to The Frontier as a Militia rifleman with aspirations of becoming a Pilot. Stranded behind enemy lines, and against overwhelming odds, you must team up with a veteran Vanguard-class Titan and uphold a mission you were never meant to carry out.
+Deeper Multiplayer Action - With six brand-new Titans, a host of deadly new Pilot abilities, an expanded customization system, new modes and much more, Titanfall 2 gives players the deeper MP experience they have been asking for.
+Play with Friends, or Make New Ones - The social tissue of Titanfall 2, Networks makes it fast and easy to play with friends old and new. Whether Social or Competitive, players </p>
+<p id=53> Rated </p>
+<img id=54 class=game_rated_image>  </img>
+<p id=55> Genre </p>
+<p id=56 class=game_generous> Action </p>
+<p id=57> Developer </p>
+<p id=58 class=game_developer> Respawn Entertainment </p>
+<p id=59> Released </p>
+<p id=60 class=game_released> April 2018 </p>
+<p id=61> Players </p>
+<p id=62 class=game_players> 4+ </p>
+<p id=63> Publisher </p>
+<p id=64 class=game_publisher> Electronic Arts </p>
+<p id=65 class=add_games> Add Game </p>
+<p id=66> Request Game </p>
+<img id=67 class=shadowView>  </img>
+<div id=68 class=navigationBarBackground>  </div>
+<div id=69 class=statusBarBackground>  </div>
+
+
+Screen 5:
+
+<img id=0 class=imgContent>  </img>
+<button id=1 class=bt_back>  </button>
+<div id=2>  </div>
+<button id=3 class=bt_forward>  </button>
+
+
+Screen 6:
+
+<div id=0 class=mnuSearch alt="['Search']">  </div>
+<div id=1 class=mnuFavorites alt="['Favorites']">  </div>
+<button id=2 class=planjourneyactionprovider_mainButton>  </button>
+<p id=3 class=planjourneyactionprovider_txtBadgeNumber> 3 </p>
+<button id=4 alt="['More options']">  </button>
+<img id=5>  </img>
+<button id=6 alt="['Close navigation drawer']">  </button>
+<div id=7 alt="['Google Map']">  </div>
+<img id=8>  </img>
+<img id=9 alt="['Zoom in']">  </img>
+<img id=10 alt="['Zoom out']">  </img>
+<img id=11 alt="['Get directions']">  </img>
+<img id=12 alt="['Open in Google Maps']">  </img>
+<button id=13 class=map_action_button_locate_me>  </button>
+<p id=14 class=lblZoomIn> Zoom in to see stops </p>
+<p id=15 class=lblArea> This area is not covered by NYC BusChecker </p>
+<div id=16 class=separatorLine>  </div>
+<img id=17>  </img>
+<p id=18 class=lblListViewEmptyHint> Use the map to find some transit stops </p>
+<div id=19 class=journeyListView>  </div>
+<button id=20 class=mapactivity_list_radiobutton> LIST </button>
+<button id=21 class=mapactivity_map_radiobutton> MAP </button>
+<div id=22>  </div>
+<img id=23>  </img>
+<img id=24>  </img>
+<div id=25 class=navigation_header_container>  </div>
+<p id=26 class=design_menu_item_text> Search </p>
+<p id=27 class=design_menu_item_text> Favorites </p>
+<p id=28 class=design_menu_item_text> Display options </p>
+<p id=29 class=design_menu_item_text> Settings </p>
+<p id=30 class=design_menu_item_text> Cut out the ads </p>
+<div id=31>  </div>
+<div id=32>  </div>
+<div id=33 class=navigationBarBackground>  </div>
+
+
+Screen 7:
+
+<div id=0 class=progress>  </div>
+<p id=1 class=title> Your star replies to you for real at
+Mydol Fan Letter </p>
+<div id=2 class=bar>  </div>
+<p id=3 class=des> Your dream of talking to your star
+will come true at Mydol Fan Letter </p>
+<p id=4 class=confirmIdol> Next </p>
+<img id=5 class=image>  </img>
+<div id=6 class=navigationBarBackground>  </div>
+<div id=7 class=statusBarBackground>  </div>
+
+
+Screen 8:
+
+<img id=0 class=imageView>  </img>
+<img id=1>  </img>
+<img id=2 class=button_notifications>  </img>
+<img id=3 class=imageView4>  </img>
+<button id=4 class=button_myaccount>  </button>
+<p id=5> My Account </p>
+<button id=6 class=button_explore>  </button>
+<p id=7> Explore Games </p>
+<button id=8 class=button_mygames>  </button>
+<p id=9> My Games </p>
+<button id=10 class=button_transactions>  </button>
+<p id=11> Transactions </p>
+<img id=12 class=imageView>  </img>
+<img id=13>  </img>
+<img id=14 class=button_notifications>  </img>
+<img id=15 class=imageView4>  </img>
+<button id=16 class=button_myaccount>  </button>
+<p id=17> My Account </p>
+<button id=18 class=button_explore>  </button>
+<p id=19> Explore Games </p>
+<button id=20 class=button_mygames>  </button>
+<p id=21> My Games </p>
+<button id=22 class=button_transactions>  </button>
+<p id=23> Transactions </p>
+<p id=24 class=navTitle> GAME DETAILS </p>
+<img id=25 class=share_item>  </img>
+<button id=26 alt="['Navigate up']">  </button>
+<div id=27 class=contain_menu>  </div>
+<img id=28 class=bg_header>  </img>
+<div id=29 class=image_slider>  </div>
+<img id=30 class=game_thumbnail>  </img>
+<img id=31 class=favorite_flag>  </img>
+<p id=32 class=game_title> Mario Party 10 </p>
+<div id=33>  </div>
+<p id=34 class=plateform_name> WII U </p>
+<p id=35> Available </p>
+<p id=36 class=noOfGames> 1 </p>
+<p id=37 class=info_button> Info </p>
+<p id=38 class=video_button> Videos </p>
+<img id=39 class=video_thumbnail>  </img>
+<p id=40 class=video_title> Mario Party 10 Gameplay: Bowser Party Mode </p>
+<p id=41 class=video_description> Shawn Long takes control of Bowser in the Bowser Party game mode for Mario Party 10! Check out the exclusive footage as Bowser tries to stop the party! </p>
+<img id=42 class=video_thumbnail>  </img>
+<p id=43 class=video_title> Mario Party 10 Wii U BOWSER PARTY 2 Player Chaos Castle PART 3 Gameplay Walkthrough Nintendo HD </p>
+<p id=44 class=video_description> Welcome to part 3 of Mario Party 10 for Nintendo Wii U, the newest in the Mario Party series! With new modes Bowser Party & Amiibo Party, we'll be playing ... </p>
+<img id=45 class=video_thumbnail>  </img>
+<p id=46 class=video_title> Let's Play MARIO PARTY 10 Part 1: Sause im Pilzpark </p>
+<p id=47 class=video_description> Let's Play MARIO PARTY 10 TOGETHER [Deutsch ♢ Blind ♢ 1080p@60FPS] Part 1: Sause im Pilzpark ▻ Meinen Kanal abonnieren: http://goo.gl/440Rdg ... </p>
+<div id=48 class=progressBar2>  </div>
+<img id=49>  </img>
+<p id=50> Sorry, no data to display </p>
+<p id=51> Description </p>
+<p id=52 class=game_description> Bowser crashes the latest Mario Party, the first installment of the series on the Wii U console. In the new Bowser Party mini-games, play as Bowser himself and face off against up to four others playing as Mario and friends. Control Bowser using the buttons, motion controls and touch screen of the Wii U GamePad controller in different ways, and wreak havoc as Bowser in each mini-game while the other players strive to survive. </p>
+<p id=53> Rated </p>
+<img id=54 class=game_rated_image>  </img>
+<p id=55> Genre </p>
+<p id=56 class=game_generous>  </p>
+<p id=57> Developer </p>
+<p id=58 class=game_developer> Nintendo </p>
+<p id=59> Released </p>
+<p id=60 class=game_released> August 2016 </p>
+<p id=61> Players </p>
+<p id=62 class=game_players> 4+ </p>
+<p id=63> Publisher </p>
+<p id=64 class=game_publisher> Nintendo </p>
+<p id=65 class=add_games> Add Game </p>
+<p id=66> Request Game </p>
+<img id=67 class=shadowView>  </img>
+<div id=68 class=navigationBarBackground>  </div>
+<div id=69 class=statusBarBackground>  </div>
+
+
+Screen 9:
+
+<img id=0 class=imageView>  </img>
+<img id=1>  </img>
+<img id=2 class=button_notifications>  </img>
+<img id=3 class=imageView4>  </img>
+<button id=4 class=button_myaccount>  </button>
+<p id=5> My Account </p>
+<button id=6 class=button_explore>  </button>
+<p id=7> Explore Games </p>
+<button id=8 class=button_mygames>  </button>
+<p id=9> My Games </p>
+<button id=10 class=button_transactions>  </button>
+<p id=11> Transactions </p>
+<img id=12 class=imageView>  </img>
+<img id=13>  </img>
+<img id=14 class=button_notifications>  </img>
+<img id=15 class=imageView4>  </img>
+<button id=16 class=button_myaccount>  </button>
+<p id=17> My Account </p>
+<button id=18 class=button_explore>  </button>
+<p id=19> Explore Games </p>
+<button id=20 class=button_mygames>  </button>
+<p id=21> My Games </p>
+<button id=22 class=button_transactions>  </button>
+<p id=23> Transactions </p>
+<div id=24 class=autoCompleteTittle>  </div>
+<button id=25 class=rightToggle>  </button>
+<div id=26 class=contain_menu>  </div>
+<img id=27 class=bg_header>  </img>
+<div id=28 class=image_slider>  </div>
+<img id=29 class=game_thumbnail>  </img>
+<img id=30 class=favorite_flag>  </img>
+<p id=31 class=game_title>  </p>
+<div id=32>  </div>
+<p id=33 class=plateform_name>  </p>
+<p id=34> Available </p>
+<p id=35 class=noOfGames>  </p>
+<p id=36 class=info_button> Info </p>
+<p id=37 class=video_button> Videos </p>
+<div id=38 class=details_pager>  </div>
+<p id=39 class=add_games> Add Game </p>
+<p id=40> Request Game </p>
+<img id=41 class=shadowView>  </img>
+<div id=42 class=navigationBarBackground>  </div>
+<div id=43 class=statusBarBackground>  </div>
+
+
+{'0': '56356', '1': '28913', '2': '36526', '3': '56235', '4': '36524', '5': '24666', '6': '27318', '7': '7428', '8': '36522', '9': '36523'}

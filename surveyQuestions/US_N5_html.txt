@@ -1,0 +1,137 @@
+Screen 0:
+
+<div id=0>  </div>
+<button id=1 alt="['Navigate up']">  </button>
+<img id=2 class=activity_login_background_image alt="['Login background image']">  </img>
+<img id=3 class=activity_login_logo alt="['Hudl logo']">  </img>
+<input id=4 class=activity_login_edittext_user> appcrawler5@gmail.com </input>
+<div id=5 class=activity_login_divider_user>  </div>
+<input id=6 class=activity_login_edittext_password>  </input>
+<div id=7 class=activity_login_divider_password>  </div>
+<img id=8 class=activity_login_image_need_help alt="['Help icon']">  </img>
+<p id=9 class=activity_login_text_need_help_detail> There is no Hudl account using that email. </p>
+<button id=10 class=activity_login_screen_button_submit> Log In </button>
+<p id=11 class=activity_login_text_need_help> Need Help Logging In? </p>
+<div id=12>  </div>
+<p id=13> Login Help </p>
+<p id=14> Password Reset </p>
+<input id=15 class=fragment_login_need_help_edittext_email> appcrawler5@gmail.com </input>
+<div id=16>  </div>
+<button id=17 class=fragment_login_need_help_button_reset> Send Password Reset </button>
+<div id=18>  </div>
+<p id=19> Email Help </p>
+<p id=20> Not sure which email to use? </p>
+<p id=21> A coach must first add you to the team's roster and include your email address. You should then receive an email from Hudl with instructions to set up your account. </p>
+<p id=22> Didn't receive that email from Hudl? </p>
+<p id=23> First things first: check your junk or spam folder. If it's not there, contact your coach to make sure your email was entered correctly on the Hudl roster. </p>
+<p id=24> Still having trouble? </p>
+<p id=25> Shoot an email to support@hudl.com and we'll check things out. </p>
+<div id=26 class=navigationBarBackground>  </div>
+<div id=27 class=statusBarBackground>  </div>
+
+
+Screen 1:
+
+<p id=0 class=tv_header> VISUAL ACUITY </p>
+<div id=1>  </div>
+<button id=2 class=btn_numbers> Numbers </button>
+<button id=3 class=btn_text> Letters </button>
+<div id=4>  </div>
+<button id=5 class=btn_black> B </button>
+<button id=6 class=btn_white> W </button>
+<p id=7> What is Visual Acuity? </p>
+<p id=8 class=tv_whatis> Visual acuity is a measure of how well you see or the sharpness and clarity of your vision. </p>
+<p id=9> Instructions </p>
+<p id=10 class=tvinstructions> 1. Place your phone approx. 30cm from your eyes.
+2. Cover your left eye with your left hand.
+Read the letters on the screen loud. Try not to squint.
+When you can no longer read more than half the letters press stop.
+The smallest letters you are able to read will be recorded as your acuity.
+Start the test again. Cover your right eye with your right hand and continue the steps from step 3. </p>
+<button id=11 class=btnLeftEye> Left eye </button>
+<button id=12 class=btnRightEye> Right eye </button>
+<div id=13 class=navigationBarBackground>  </div>
+<div id=14 class=statusBarBackground>  </div>
+
+
+Screen 2:
+
+<div id=0>  </div>
+<div id=1>  </div>
+
+
+Screen 3:
+
+<img id=0 class=application_root_view_background_holder_1>  </img>
+<div id=1>  </div>
+<div id=2 class=navigation_bar_divider>  </div>
+<p id=3 class=navigation_bar_item_text> Home </p>
+<p id=4 class=navigation_bar_item_text> Daily </p>
+<p id=5 class=navigation_bar_item_text> Hourly </p>
+<p id=6 class=navigation_bar_item_text> Closings </p>
+<div id=7 class=application_root_view_content_within_bars>  </div>
+<img id=8 class=station_logo>  </img>
+<p id=9 class=current_location_btn> Alexandria, LA </p>
+<img id=10 class=menu_button_icon>  </img>
+<div id=11 class=top_bar_bottom_divider>  </div>
+<img id=12 class=settings_button>  </img>
+<div id=13 class=drawer_header_separator>  </div>
+<p id=14 class=drawer_item_title> Locations </p>
+<img id=15 class=drawer_right_icon>  </img>
+<p id=16 class=drawer_right_indicator_text>  </p>
+<p id=17 class=drawer_item_title> Settings </p>
+<img id=18 class=drawer_right_icon>  </img>
+<p id=19 class=drawer_right_indicator_text>  </p>
+<p id=20 class=drawer_item_title> Feedback </p>
+<img id=21 class=drawer_right_icon>  </img>
+<p id=22 class=drawer_right_indicator_text>  </p>
+<p id=23 class=drawer_item_title> Help </p>
+<img id=24 class=drawer_right_icon>  </img>
+<p id=25 class=drawer_right_indicator_text>  </p>
+<p id=26 class=drawer_item_title> Privacy Policy </p>
+<img id=27 class=drawer_right_icon>  </img>
+<p id=28 class=drawer_right_indicator_text>  </p>
+<p id=29 class=drawer_item_title> Terms of Use </p>
+<img id=30 class=drawer_right_icon>  </img>
+<p id=31 class=drawer_right_indicator_text>  </p>
+<p id=32 class=drawer_item_title> About </p>
+<img id=33 class=drawer_right_icon>  </img>
+<p id=34 class=drawer_right_indicator_text>  </p>
+<p id=35 class=drawer_item_title>  </p>
+<img id=36 class=drawer_right_icon>  </img>
+<p id=37 class=drawer_right_indicator_text>  </p>
+<p id=38 class=locations_title> Add Location </p>
+<p id=39 class=location_nickname_view_done> Done </p>
+<p id=40 class=location_nickname_city> San Francisco, CA </p>
+<div id=41 alt="['Google Map']">  </div>
+<img id=42>  </img>
+<img id=43 alt="['Zoom in']">  </img>
+<img id=44 alt="['Zoom out']">  </img>
+<img id=45 alt="['Get directions']">  </img>
+<img id=46 alt="['Open in Google Maps']">  </img>
+<div id=47>  </div>
+<img id=48 class=location_nickname_map_marker>  </img>
+<input id=49 class=location_nickname_edit_field>  </input>
+<p id=50 class=location_nickname_help> Get more accurate conditions, forecasts, and alerts by selecting an exact location. </p>
+<div id=51 class=navigationBarBackground>  </div>
+<div id=52 class=statusBarBackground>  </div>
+
+
+Screen 4:
+
+<div id=0>  </div>
+<img id=1 class=activity_login_background_image alt="['Login background image']">  </img>
+<img id=2 class=activity_login_logo alt="['Hudl logo']">  </img>
+<input id=3 class=activity_login_edittext_user>  </input>
+<div id=4 class=activity_login_divider_user>  </div>
+<input id=5 class=activity_login_edittext_password>  </input>
+<div id=6 class=activity_login_divider_password>  </div>
+<img id=7 class=activity_login_image_need_help alt="['Help icon']">  </img>
+<p id=8 class=activity_login_text_need_help_detail>  </p>
+<button id=9 class=activity_login_screen_button_submit> Log In </button>
+<p id=10 class=activity_login_text_need_help> Need Help Logging In? </p>
+<div id=11 class=navigationBarBackground>  </div>
+<div id=12 class=statusBarBackground>  </div>
+
+
+{'0': '139', '1': '5579', '2': '24493', '3': '26227', '4': '141'}

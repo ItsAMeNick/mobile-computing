@@ -1,0 +1,159 @@
+Screen 0:
+
+<div id=0 class=button_divider>  </div>
+<div id=1 class=webview>  </div>
+<button id=2 class=btnAgree> I Agree </button>
+<div id=3 class=navigationBarBackground>  </div>
+<div id=4 class=statusBarBackground>  </div>
+
+
+Screen 1:
+
+<p id=0> Sign Up </p>
+<img id=1 class=imageViewVideo>  </img>
+<button id=2 class=button_banner_hiw alt="['TODO']">  </button>
+<div id=3>  </div>
+<img id=4 class=imageView5 alt="['TODO']">  </img>
+<p id=5 class=text_sync_devices> Snap to Save </p>
+<p id=6 class=text_sync_devices_subtext> Use your camera to magically turn any* offer into a mobile coupon. </p>
+<p id=7> *SnipSnap does not yet support manufacturer  coupons, though we will in a future update. </p>
+<img id=8>  </img>
+<img id=9 class=imageView6 alt="['TODO']">  </img>
+<p id=10 class=text_organize_savings> Never Forget a Coupon </p>
+<p id=11 class=text_organize_savings_subtext> Get expiration alerts and location reminders, so you remember your coupons at the store. </p>
+<div id=12 class=imageView4>  </div>
+<img id=13 class=imageView7 alt="['TODO']">  </img>
+<p id=14 class=text_share_follow_discover> Scan to Redeem </p>
+<p id=15 class=text_share_follow_discover_subtext> Present the coupon barcode, promo code, or image at checkout. </p>
+<div id=16>  </div>
+<img id=17 class=imageView8 alt="['TODO']">  </img>
+<p id=18> Get Social </p>
+<p id=19> Follow friends, share coupons, and search for any deal on demand. </p>
+<img id=20 class=home>  </img>
+<p id=21 class=action_bar_title>  </p>
+<div id=22 class=signIn alt="['Sign In']"> Sign In </div>
+
+
+Screen 2:
+
+<img id=0 class=cerca>  </img>
+<img id=1 class=crediti>  </img>
+<img id=2>  </img>
+<p id=3 class=lettera> a </p>
+<img id=4>  </img>
+<p id=5 class=lettera> b </p>
+<img id=6>  </img>
+<p id=7 class=lettera> c </p>
+<img id=8>  </img>
+<p id=9 class=lettera> d </p>
+<img id=10>  </img>
+<p id=11 class=lettera> e </p>
+<img id=12>  </img>
+<p id=13 class=lettera> f </p>
+<img id=14>  </img>
+<p id=15 class=lettera> g </p>
+<img id=16>  </img>
+<p id=17 class=lettera> h </p>
+<img id=18>  </img>
+<p id=19 class=lettera> i </p>
+<img id=20>  </img>
+<p id=21 class=lettera> j </p>
+<img id=22>  </img>
+<p id=23 class=lettera> k </p>
+<img id=24>  </img>
+<p id=25 class=lettera> l </p>
+<img id=26>  </img>
+<p id=27 class=lettera> m </p>
+<img id=28>  </img>
+<p id=29 class=lettera> n </p>
+<img id=30>  </img>
+<p id=31 class=lettera> o </p>
+<img id=32>  </img>
+<p id=33 class=lettera> p </p>
+<img id=34>  </img>
+<p id=35 class=lettera> r </p>
+<img id=36>  </img>
+<p id=37 class=lettera> s </p>
+<img id=38>  </img>
+<p id=39 class=lettera> u </p>
+<img id=40>  </img>
+<p id=41 class=lettera> y </p>
+<img id=42 class=immagine_erba>  </img>
+<p id=43 class=num_preparati>  </p>
+<p id=44 class=nome_erba> Absinthium
+(or Absinthe wormwood) </p>
+<img id=45 class=immagine_erba>  </img>
+<p id=46 class=num_preparati>  </p>
+<p id=47 class=nome_erba> Acacia
+(or Black locust,
+Robinia pseudoacacia) </p>
+<img id=48 class=immagine_erba>  </img>
+<p id=49 class=num_preparati>  </p>
+<p id=50 class=nome_erba> Acanthus </p>
+<img id=51 class=immagine_erba>  </img>
+<p id=52 class=num_preparati>  </p>
+<p id=53 class=nome_erba> Agnus castus </p>
+<img id=54 class=immagine_erba>  </img>
+<p id=55 class=num_preparati>  </p>
+<p id=56 class=nome_erba> Angelica </p>
+<img id=57 class=immagine_erba>  </img>
+<p id=58 class=num_preparati>  </p>
+<p id=59 class=nome_erba> Anise </p>
+<img id=60>  </img>
+<p id=61 class=numNovita> 59 </p>
+<img id=62>  </img>
+<p id=63 class=numlista> 6  </p>
+
+
+Screen 3:
+
+<img id=0 class=indietro>  </img>
+<p id=1 class=titolo_pianta> Chamomile </p>
+<img id=2>  </img>
+<p id=3 class=num_preparati>  </p>
+<img id=4 class=immagine_dettaglio>  </img>
+<img id=5 class=immagine_anteprima_1>  </img>
+<img id=6 class=immagine_anteprima_2>  </img>
+<p id=7 class=latino> Latin or scientific name: Matricaria chamomilla </p>
+<p id=8 class=famiglia> Family: Asteraceae </p>
+<p id=9 class=zona> Where it grows: Euroea and Asia </p>
+<p id=10 class=quando> When to pick it up: At the beginning of flowering, from middle June to middle August. Picking has to be done when dew has gone and has to be stopped around midday. </p>
+<p id=11 class=proprieta> Properties: Antiphlogistic, hypoallergenic, anti-inflammatory, antispasmodic, hunger stimulating, painkilling, digestive, emmenagogue, antipyretic, sedative, tonic </p>
+<p id=12 class=pianeti> Planets: Sun and Venus </p>
+<p id=13 class=elementi> Element: Water </p>
+<p id=14 class=spiegazione_dettaglio> It gives prosperity and fertility. </p>
+<p id=15 class=infolink> More info </p>
+<img id=16 class=social>  </img>
+<img id=17 class=note>  </img>
+
+
+Screen 4:
+
+<img id=0 class=play_button>  </img>
+<div id=1 class=photo_caption>  </div>
+<div id=2 class=webView1>  </div>
+<img id=3 class=up_next_image>  </img>
+<p id=4> Next </p>
+<p id=5 class=up_next_title> Send us your best inspirational photos (5 Photos) </p>
+<img id=6>  </img>
+<p id=7> Related </p>
+<img id=8 class=related_image_1>  </img>
+<p id=9 class=related_title_1>  </p>
+<img id=10 class=related_image_2>  </img>
+<p id=11 class=related_title_2>  </p>
+<p id=12 class=loadingText> Loading Gallery... </p>
+<div id=13 class=progressBar2>  </div>
+<img id=14 class=up>  </img>
+<img id=15 class=home>  </img>
+<p id=16 class=action_bar_title> World’s fastest spinning golfball (Video) </p>
+<div id=17 alt="['Share']">  </div>
+<div id=18 alt="['Rate']">  </div>
+<div id=19 alt="['Favorite']">  </div>
+<p id=20 class=tab_count>  </p>
+<p id=21 class=tab_text> Video </p>
+<p id=22 class=tab_count> 0 </p>
+<p id=23 class=tab_text> Comments </p>
+<p id=24 class=tab_text> Next </p>
+
+
+{'0': '69537', '1': '3731', '2': '49863', '3': '49865', '4': '19534'}

@@ -1,0 +1,177 @@
+Screen 0:
+
+<div id=0 class=r_layout>  </div>
+<img id=1 class=imageview_main>  </img>
+<div id=2 class=header_background>  </div>
+<p id=3 class=scroll_title> Episodes | 12 </p>
+<p id=4 class=textview_vikipass_title> Viki Pass Access </p>
+<p id=5 class=textview_vikipass_desc> Be the first to watch. No ads. HD. </p>
+<button id=6 class=button_vikipass> Start Your Free Trial </button>
+<div id=7 class=filler>  </div>
+<div id=8>  </div>
+<img id=9 class=imageview>  </img>
+<div id=10 class=watchmarker_progressbar>  </div>
+<p id=11 class=watchmarker_textview> -10:01 </p>
+<p id=12 class=textview_title> EP 12 </p>
+<p id=13 class=textview_subtitle> 0% EN </p>
+<p id=14 class=textview_duration> 00:00 </p>
+<p id=15 class=textview_upcoming> 3 </p>
+<p id=16 class=textview_days>  </p>
+<img id=17 class=imageview>  </img>
+<div id=18 class=watchmarker_progressbar>  </div>
+<p id=19 class=watchmarker_textview> -10:01 </p>
+<p id=20 class=textview_title> EP 11 </p>
+<p id=21 class=textview_subtitle> 0% EN </p>
+<p id=22 class=textview_duration> 46:06 </p>
+<p id=23 class=textview_upcoming> 3 </p>
+<p id=24 class=textview_days>  </p>
+<p id=25 class=video_scroll_count> 11 </p>
+<div id=26 class=video_scroll_seekbar>  </div>
+<div id=27>  </div>
+<div id=28>  </div>
+<p id=29> you may like </p>
+<div id=30>  </div>
+<div id=31> ➔ </div>
+<p id=32>  </p>
+<p id=33> Yidio </p>
+<p id=34> Watch your favorite TV Shows today! </p>
+<p id=35 class=scroll_title> Trailers </p>
+<img id=36 class=imageview>  </img>
+<div id=37 class=watchmarker_progressbar>  </div>
+<p id=38 class=watchmarker_textview> -10:01 </p>
+<p id=39 class=textview_title> 19 Minutes Trailer : All in 700 </p>
+<p id=40 class=textview_subtitle> 96% EN </p>
+<p id=41 class=textview_like> 3 </p>
+<p id=42 class=textview_duration> 18:45 </p>
+<p id=43 class=textview_upcoming> 3 </p>
+<p id=44 class=textview_days>  </p>
+<p id=45 class=scroll_title> Related Clips </p>
+<div id=46 class=progress_bar>  </div>
+<div id=47 class=scroll_gallery>  </div>
+<p id=48 class=scroll_title> All Seasons </p>
+<div id=49 class=progress_bar>  </div>
+<div id=50 class=scroll_gallery>  </div>
+<p id=51 class=scroll_title> Recommended </p>
+<img id=52 class=imageview>  </img>
+<div id=53 class=watchmarker_progressbar>  </div>
+<p id=54 class=watchmarker_textview> -10:01 </p>
+<p id=55 class=textview_title> EP 1 : Descendants of the Sun </p>
+<p id=56 class=textview_subtitle> 100% EN </p>
+<p id=57 class=textview_like> 14K </p>
+<p id=58 class=textview_duration> 59:16 </p>
+<p id=59 class=textview_upcoming> 3 </p>
+<p id=60 class=textview_days>  </p>
+<img id=61 class=imageview>  </img>
+<div id=62 class=watchmarker_progressbar>  </div>
+<p id=63 class=watchmarker_textview> -10:01 </p>
+<p id=64 class=textview_title> EP 1 : High Society </p>
+<p id=65 class=textview_subtitle> 100% EN </p>
+<p id=66 class=textview_like> 10K </p>
+<p id=67 class=textview_duration> 59:13 </p>
+<p id=68 class=textview_upcoming> 3 </p>
+<p id=69 class=textview_days>  </p>
+<div id=70 class=container_news>  </div>
+<div id=71 class=container_ad_bottom>  </div>
+<div id=72 class=filler>  </div>
+<img id=73 class=imageview_play>  </img>
+<p id=74 class=exclusive_marker> Exclusive </p>
+<p id=75 class=orange_marker> On Air </p>
+<p id=76 class=textview_country> TAIWAN | TV </p>
+<p id=77 class=textview_title> All in 700 </p>
+<p id=78 class=rating_result_text> 7.8 </p>
+<img id=79>  </img>
+<p id=80 class=rating_count_text> 5 </p>
+<img id=81>  </img>
+<p id=82> Submit a Copyright Complaint </p>
+<p id=83> Info </p>
+<p id=84> Videos </p>
+<p id=85> Reviews </p>
+<p id=86> Comments </p>
+<p id=87> Volunteers </p>
+<div id=88>  </div>
+<div id=89>  </div>
+<div id=90>  </div>
+<p id=91 class=textview_reviews> Reviews | 5 </p>
+<div id=92 class=divider3>  </div>
+<div id=93 class=spinner_language>  </div>
+<div id=94 class=spinner_sort>  </div>
+<img id=95 class=imageview_pen>  </img>
+<p id=96 class=textview_comment> Add a comment... </p>
+<img id=97 class=imageview_image>  </img>
+<p id=98 class=textview_name> zano_v </p>
+<p id=99 class=textview_desc> Channel Manager </p>
+<button id=100 class=button_join> Join The Community </button>
+<p id=101 class=textview_moderators> Moderators </p>
+<p id=102 class=textview_segmenters> Segmenters </p>
+<p id=103 class=textview_subtitlers> Top Subtitlers </p>
+<img id=104 class=imageview_close>  </img>
+<p id=105 class=textview_language> 8 </p>
+<img id=106 class=imageview_share>  </img>
+<button id=107 class=media_route_button alt="['Cast button']">  </button>
+<img id=108 class=imageview_follow>  </img>
+<img id=109 class=imageview_action>  </img>
+<div id=110 class=toolbar>  </div>
+<img id=111 class=icon_view>  </img>
+<img id=112 class=play_pause>  </img>
+<p id=113 class=title_view>  </p>
+<p id=114 class=subtitle_view> Casting to Living Room </p>
+<div id=115 class=progressBar>  </div>
+<div id=116 class=navigationBarBackground>  </div>
+<div id=117 class=statusBarBackground>  </div>
+
+
+Screen 1:
+
+<img id=0 class=ac1>  </img>
+<img id=1 class=ac2>  </img>
+<p id=2 class=txt_title>  </p>
+<p id=3 class=title>  </p>
+<img id=4 class=ac3>  </img>
+<img id=5 class=ac4>  </img>
+<div id=6>  </div>
+<p id=7>  </p>
+
+
+Screen 2:
+
+<p id=0 class=text_view_tap> Tap some fun into your photos! </p>
+<p id=1> choose photo </p>
+<img id=2 class=iconChoosePhoto>  </img>
+<p id=3> take photo </p>
+<img id=4 class=iconTakePhoto>  </img>
+<img id=5>  </img>
+<div id=6 class=navigationBarBackground>  </div>
+<div id=7 class=statusBarBackground>  </div>
+
+
+Screen 3:
+
+<div id=0>  </div>
+
+
+Screen 4:
+
+<p id=0 class=txt_title_fan>  </p>
+<p id=1 class=title>  </p>
+<button id=2 class=backBtn>  </button>
+<div id=3>  </div>
+<button id=4 class=mediumButton>  </button>
+<button id=5 class=fastButton>  </button>
+<button id=6 class=slowButton>  </button>
+<button id=7 class=increment alt="['Increase hour']">  </button>
+<input id=8 class=numberpicker_input> 00 </input>
+<button id=9 class=decrement alt="['Decrease hour']">  </button>
+<button id=10 class=increment alt="['Increase minute']">  </button>
+<input id=11 class=numberpicker_input> 00 </input>
+<button id=12 class=decrement alt="['Decrease minute']">  </button>
+<p id=13 class=time_set> 00:00:29 </p>
+<img id=14 class=pausebtn>  </img>
+<img id=15 class=stopbtn>  </img>
+<button id=16 class=startspin_btn>  </button>
+<button id=17 class=stopspin_btn>  </button>
+<button id=18 class=timeButton>  </button>
+<div id=19>  </div>
+<p id=20>  </p>
+
+
+{'0': '23112', '1': '37', '2': '38348', '3': '49160', '4': '38'}

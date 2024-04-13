@@ -1,0 +1,289 @@
+Screen 0:
+
+<div id=0 class=webView>  </div>
+<p id=1 class=title> EU Privacy </p>
+<img id=2 class=image>  </img>
+<p id=3 class=description> As part of using this app, we hold only the information about you that save on the app using a unique random identifier. The advertising on the free version, used Google Ads which might use cookies to personalise advertising. </p>
+<p id=4> Hide Age Rating 18+ Books? </p>
+<img id=5 alt="['Hide Age Rating 18+ Books?']">  </img>
+<p id=6> Do you want to hide books with an Age Rating of 18+? </p>
+<div id=7 class=sw_hide_nsfw> Hide Age Rating 18+ Books? </div>
+<p id=8 class=bottom_separator>  </p>
+<img id=9>  </img>
+<img id=10>  </img>
+<img id=11>  </img>
+<button id=12 class=next>  </button>
+<p id=13> BookWriter Free </p>
+<div id=14>  </div>
+<div id=15 class=navigationBarBackground>  </div>
+<div id=16 class=statusBarBackground>  </div>
+
+
+Screen 1:
+
+<img id=0 class=todays_verse_list_icon>  </img>
+<p id=1 class=todays_verse_list_text> Aurora App Design </p>
+<img id=2 class=todays_verse_list_icon>  </img>
+<p id=3 class=todays_verse_list_text> Bible Gateway </p>
+<img id=4 class=todays_verse_list_icon>  </img>
+<p id=5 class=todays_verse_list_text> Bible Study Tools </p>
+<img id=6 class=todays_verse_list_icon>  </img>
+<p id=7 class=todays_verse_list_text> Christ Notes </p>
+<img id=8 class=todays_verse_list_icon>  </img>
+<p id=9 class=todays_verse_list_text> Crossway </p>
+<img id=10 class=todays_verse_list_icon>  </img>
+<p id=11 class=todays_verse_list_text> NET Bible </p>
+<img id=12 class=todays_verse_list_icon>  </img>
+<p id=13 class=todays_verse_list_text> Verse of the Day </p>
+<button id=14 class=todays_verse_show_bottom> Show verse </button>
+<button id=15 class=todays_verse_cancel_bottom> Cancel </button>
+<p id=16> Today's verse </p>
+<button id=17 alt="['Navigate up']">  </button>
+<div id=18>  </div>
+<div id=19 class=navigationBarBackground>  </div>
+<div id=20 class=statusBarBackground>  </div>
+
+
+Screen 2:
+
+<p id=0 class=title> ASOS </p>
+<button id=1 alt="['Navigate up']">  </button>
+<img id=2>  </img>
+<div id=3 class=action_search alt="['Search']">  </div>
+<div id=4 class=action_saved alt="['Saved']">  </div>
+<button id=5 class=notif_count> 0 </button>
+<div id=6 class=generic_progressbar>  </div>
+<p id=7 class=generic_textview> Sorry, we can't load this page right now. </p>
+<button id=8 class=generic_button> Retry </button>
+<div id=9 class=productImage>  </div>
+<p id=10 class=productTitle> ASOS Chelsea Boots In Black Suede With Strap Detail
+$76.00 </p>
+<div id=11 class=products_save_button>  </div>
+<div id=12 class=productImage>  </div>
+<p id=13 class=productTitle> ASOS Chelsea Boots In Black Suede With Double Zip
+$68.00 </p>
+<div id=14 class=products_save_button>  </div>
+<div id=15 class=productImage>  </div>
+<p id=16 class=productTitle> ASOS Chelsea Boots In Black Suede With Strap Detail
+$91.00 </p>
+<div id=17 class=products_save_button>  </div>
+<div id=18 class=productImage>  </div>
+<p id=19 class=productTitle> ASOS Chelsea Boots in Brown Faux Suede With Strap Detail
+$43.00 </p>
+<div id=20 class=products_save_button>  </div>
+<p id=21 class=products_title> asos chelsea boots men </p>
+<p id=22 class=products_count> 132 Styles </p>
+<button id=23 class=single_button>  </button>
+<button id=24 class=double_button>  </button>
+<button id=25 class=sort_button> Sort </button>
+<button id=26 class=refine_button> Refine </button>
+<div id=27 class=generic_progressbar>  </div>
+<p id=28 class=generic_textview> Sorry, we can't load this page right now. </p>
+<button id=29 class=generic_button> Retry </button>
+<div id=30 class=navigationBarBackground>  </div>
+<div id=31 class=statusBarBackground>  </div>
+<div id=32 class=peek_and_pop_image>  </div>
+<p id=33 class=peek_and_pop_action> See more </p>
+<div id=34 class=peek_and_pop_image>  </div>
+<p id=35 class=peek_and_pop_action> See more </p>
+<div id=36 class=peek_and_pop_image>  </div>
+<p id=37 class=peek_and_pop_action> See more </p>
+<div id=38 class=peek_and_pop_image>  </div>
+<p id=39 class=peek_and_pop_action> See more </p>
+
+
+Screen 3:
+
+<button id=0 class=back>  </button>
+<p id=1 class=title> Menu </p>
+<img id=2 class=restaurant_toolbar_search>  </img>
+<img id=3 class=cart>  </img>
+<p id=4> Talabat </p>
+<div id=5>  </div>
+<img id=6 class=rest_logo>  </img>
+<p id=7 class=restaurant_name> Casper & Gambinis </p>
+<p id=8 class=status_text> Open </p>
+<p id=9 class=cuisines_text> International, Healthy Food, Breakfast </p>
+<div id=10 class=ratingbar_restaurant_screen>  </div>
+<p id=11 class=rating_count> (730) </p>
+<p id=12 class=min_orderamt_txt> Min. order : </p>
+<p id=13 class=restaurant_min_orderamt> KD 0.000 </p>
+<img id=14 class=restaurant_cash>  </img>
+<img id=15 class=restaurant_knet>  </img>
+<p id=16 class=rest_summary_txt>  </p>
+<p id=17 class=talabat_tab_text_view> Menu </p>
+<p id=18 class=talabat_tab_text_view> Reviews </p>
+<p id=19 class=talabat_tab_text_view> Info </p>
+<button id=20>  </button>
+<p id=21> No reviews </p>
+<p id=22> There are no reviews found for this restaurant </p>
+<div id=23>  </div>
+<p id=24 class=name> عبدالعزيز بن ناصر </p>
+<div id=25 class=ratingBar>  </div>
+<p id=26 class=date> 05 December 2016 </p>
+<p id=27 class=review> الذ واخف باجيت بالكويت  </p>
+<img id=28>  </img>
+<p id=29 class=review_restaurant_name>  </p>
+<p id=30 class=review_reply>  </p>
+<p id=31 class=name> Fahad AlFalah </p>
+<div id=32 class=ratingBar>  </div>
+<p id=33 class=date> 04 November 2016 </p>
+<p id=34 class=review> Great chicken noodle soup highly recommend and the penne arabiata was super. </p>
+<img id=35>  </img>
+<p id=36 class=review_restaurant_name>  </p>
+<p id=37 class=review_reply>  </p>
+<p id=38 class=name> michael holland </p>
+<div id=39 class=ratingBar>  </div>
+<p id=40 class=date> 03 November 2016 </p>
+<p id=41 class=review> Mushroom soup was a bit oily... </p>
+<img id=42>  </img>
+<p id=43 class=review_restaurant_name>  </p>
+<p id=44 class=review_reply>  </p>
+<p id=45 class=name> Zi Far </p>
+<div id=46 class=ratingBar>  </div>
+<p id=47 class=date> 02 November 2016 </p>
+<p id=48 class=review> Good food but a bit expensive  </p>
+<img id=49>  </img>
+<p id=50 class=review_restaurant_name>  </p>
+<p id=51 class=review_reply>  </p>
+<p id=52 class=name> Faisal A. </p>
+<div id=53 class=ratingBar>  </div>
+<p id=54 class=date> 02 November 2016 </p>
+<p id=55 class=review> It sure is a very fine and quality food but the price is way high for some items </p>
+<img id=56>  </img>
+<p id=57 class=review_restaurant_name>  </p>
+<p id=58 class=review_reply>  </p>
+<p id=59 class=section_name> Most Selling </p>
+<img id=60 class=list_specifier>  </img>
+<p id=61 class=section_name> C&G Catering Menu </p>
+<img id=62 class=list_specifier>  </img>
+<p id=63 class=section_name> Casper Diet Menu </p>
+<img id=64 class=list_specifier>  </img>
+<p id=65 class=section_name> Breakfast </p>
+<img id=66 class=list_specifier>  </img>
+<p id=67 class=section_name> Sides To Share </p>
+<img id=68 class=list_specifier>  </img>
+<p id=69 class=section_name> Salads </p>
+<img id=70 class=list_specifier>  </img>
+<p id=71 class=section_name> Potatoes </p>
+<img id=72 class=list_specifier>  </img>
+<p id=73 class=section_name> Soups </p>
+<img id=74 class=list_specifier>  </img>
+<p id=75 class=section_name> Thinking Low-Fat (Pick Two) </p>
+<img id=76 class=list_specifier>  </img>
+<p id=77 class=section_name> Counting Calories (Pick Two) </p>
+<img id=78 class=list_specifier>  </img>
+<p id=79 class=section_name> Light Side Light Salads </p>
+<img id=80 class=list_specifier>  </img>
+<p id=81 class=cart_text>  </p>
+<button id=82 class=go_to_view_cart> View Cart </button>
+<div id=83 class=navigationBarBackground>  </div>
+<div id=84 class=statusBarBackground>  </div>
+
+
+Screen 4:
+
+<button id=0 class=back>  </button>
+<p id=1 class=title> Menu </p>
+<img id=2 class=restaurant_toolbar_search>  </img>
+<img id=3 class=cart>  </img>
+<p id=4 class=cart_count> 1 </p>
+<p id=5> Talabat </p>
+<div id=6>  </div>
+<img id=7 class=rest_logo>  </img>
+<p id=8 class=restaurant_name> Casper & Gambinis </p>
+<p id=9 class=status_text> Open </p>
+<p id=10 class=cuisines_text> International, Healthy Food, Breakfast </p>
+<div id=11 class=ratingbar_restaurant_screen>  </div>
+<p id=12 class=rating_count> (730) </p>
+<p id=13 class=min_orderamt_txt> Min. order : </p>
+<p id=14 class=restaurant_min_orderamt> KD 0.000 </p>
+<img id=15 class=restaurant_cash>  </img>
+<img id=16 class=restaurant_knet>  </img>
+<p id=17 class=rest_summary_txt>  </p>
+<p id=18 class=talabat_tab_text_view> Menu </p>
+<p id=19 class=talabat_tab_text_view> Reviews </p>
+<p id=20 class=talabat_tab_text_view> Info </p>
+<button id=21>  </button>
+<p id=22> No reviews </p>
+<p id=23> There are no reviews found for this restaurant </p>
+<div id=24>  </div>
+<p id=25 class=name> عبدالعزيز بن ناصر </p>
+<div id=26 class=ratingBar>  </div>
+<p id=27 class=date> 05 December 2016 </p>
+<p id=28 class=review> الذ واخف باجيت بالكويت  </p>
+<img id=29>  </img>
+<p id=30 class=review_restaurant_name>  </p>
+<p id=31 class=review_reply>  </p>
+<p id=32 class=name> Fahad AlFalah </p>
+<div id=33 class=ratingBar>  </div>
+<p id=34 class=date> 04 November 2016 </p>
+<p id=35 class=review> Great chicken noodle soup highly recommend and the penne arabiata was super. </p>
+<img id=36>  </img>
+<p id=37 class=review_restaurant_name>  </p>
+<p id=38 class=review_reply>  </p>
+<p id=39 class=name> michael holland </p>
+<div id=40 class=ratingBar>  </div>
+<p id=41 class=date> 03 November 2016 </p>
+<p id=42 class=review> Mushroom soup was a bit oily... </p>
+<img id=43>  </img>
+<p id=44 class=review_restaurant_name>  </p>
+<p id=45 class=review_reply>  </p>
+<p id=46 class=name> Zi Far </p>
+<div id=47 class=ratingBar>  </div>
+<p id=48 class=date> 02 November 2016 </p>
+<p id=49 class=review> Good food but a bit expensive  </p>
+<img id=50>  </img>
+<p id=51 class=review_restaurant_name>  </p>
+<p id=52 class=review_reply>  </p>
+<p id=53 class=name> Faisal A. </p>
+<div id=54 class=ratingBar>  </div>
+<p id=55 class=date> 02 November 2016 </p>
+<p id=56 class=review> It sure is a very fine and quality food but the price is way high for some items </p>
+<img id=57>  </img>
+<p id=58 class=review_restaurant_name>  </p>
+<p id=59 class=review_reply>  </p>
+<p id=60 class=section_name> Most Selling </p>
+<img id=61 class=list_specifier>  </img>
+<div id=62 class=progressBar>  </div>
+<img id=63 class=menu_image>  </img>
+<p id=64 class=title> Turkey Special </p>
+<p id=65 class=description> Parmesan, Smoked Turkey, Rocket Leaves, Lemon-Mustard Sauce, Crisp Multi-Grain Baguette </p>
+<p id=66 class=price> 3.150 </p>
+<img id=67 class=restaurant_menu_cart>  </img>
+<div id=68>  </div>
+<div id=69 class=progressBar>  </div>
+<img id=70 class=menu_image>  </img>
+<p id=71 class=title> Box Of Fries </p>
+<p id=72 class=description> Lamb Weston French Fries </p>
+<p id=73 class=price> 1.750 </p>
+<img id=74 class=restaurant_menu_cart>  </img>
+<div id=75>  </div>
+<div id=76 class=progressBar>  </div>
+<img id=77 class=menu_image>  </img>
+<p id=78 class=title> C&G Special </p>
+<p id=79 class=description> Asparagus, Palmito, Artichoke, Corn, Beetroot, Iceberg Lettuce, Cucumber, Tomato, Rocket Leaves, Citrus Dressing </p>
+<p id=80 class=price> 3.250 </p>
+<img id=81 class=restaurant_menu_cart>  </img>
+<div id=82>  </div>
+<div id=83 class=progressBar>  </div>
+<img id=84 class=menu_image>  </img>
+<p id=85 class=title> The Club </p>
+<p id=86 class=description> Chicken Or Roast Beef, Smoked Turkey, Boiled Egg, Turkey Bacon, Swiss Cheese, Lettuce, Tomato, Pickles, Mayonnaise, With Side Fries </p>
+<p id=87 class=price> 3.950 </p>
+<img id=88 class=restaurant_menu_cart>  </img>
+<div id=89>  </div>
+<div id=90 class=progressBar>  </div>
+<img id=91 class=menu_image>  </img>
+<p id=92 class=title> Santa-Fe Chicken </p>
+<p id=93 class=description> Mango Chicken,Tomato Salsa, Red Beans, Avocado, Iceberg Lettuce, Mesclun Greens, Mozzarella, Tortilla Crisps, Citrus Dressing </p>
+<p id=94 class=price> 3.850 </p>
+<img id=95 class=restaurant_menu_cart>  </img>
+<div id=96>  </div>
+<p id=97 class=cart_text> Total KD 3.150 </p>
+<button id=98 class=go_to_view_cart> View Cart </button>
+<div id=99 class=navigationBarBackground>  </div>
+<div id=100 class=statusBarBackground>  </div>
+
+
+{'0': '4483', '1': '4407', '2': '4331', '3': '24748', '4': '24744'}

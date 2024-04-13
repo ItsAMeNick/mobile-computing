@@ -1,0 +1,215 @@
+Screen 0:
+
+<img id=0>  </img>
+<p id=1 class=headerText> TaxCaster 2015 </p>
+<button id=2 class=doneButton> Done </button>
+<img id=3>  </img>
+<p id=4 class=detail_header> 2015 TAX ESTIMATE </p>
+<div id=5 class=refundLabel> $12,892 </div>
+<p id=6 class=refundLabelSubtitle> FED TAX REFUND </p>
+<p id=7 class=detailsRow1Field1>  </p>
+<p id=8 class=detailsRow1Field2> Total Income </p>
+<div id=9 class=detailsTotalIncome> $22,000 </div>
+<p id=10 class=detailsRow2Field1> - </p>
+<p id=11 class=detailsRow2Field2> Total Deductions </p>
+<div id=12 class=detailsTotalDeductions> $28,754 </div>
+<p id=13 class=detailsRow3Field1> - </p>
+<p id=14 class=detailsRow3Field2> Total Exemptions </p>
+<div id=15 class=detailsTotalExemptions> $0 </div>
+<img id=16>  </img>
+<p id=17 class=detailsRow9Field1>  </p>
+<p id=18 class=detailsRow4Field1> Taxable Income </p>
+<div id=19 class=detailsTaxableIncome> $0 </div>
+<img id=20>  </img>
+<p id=21 class=detailsRow5Field1>  </p>
+<p id=22 class=detailsRow5Field2> Taxes </p>
+<div id=23 class=detailsTaxes> $0 </div>
+<p id=24 class=detailsRow6Field1> + </p>
+<p id=25 class=detailsRow6Field2> AMT Tax </p>
+<div id=26 class=detailsAmtTax> $0 </div>
+<p id=27 class=detailsRow8Field1> + </p>
+<p id=28 class=detailsRow8Field2> Additional Taxes (SE, NIT ...) </p>
+<div id=29 class=detailsAdditionalTaxes> $3,108 </div>
+<p id=30 class=detailsRow7Field1> - </p>
+<p id=31 class=detailsRow7Field2> Credits (EITC, Child ...) </p>
+<div id=32 class=detailsCredits> $0 </div>
+<p id=33> - </p>
+<p id=34 class=detailsRow9Field2> Tax Payments (Withholdings ...) </p>
+<div id=35 class=detailsTotalPayments> $16,000 </div>
+<p id=36>  </p>
+<p id=37 class=detailsEstimatedRefund> Estimated Fed Tax Refund </p>
+<div id=38 class=detailsRefund> $12,892 </div>
+<img id=39>  </img>
+<p id=40 class=detailsRow11Field1> Marginal Tax Rate </p>
+<div id=41 class=detailsTaxRate> 10% </div>
+<img id=42>  </img>
+<img id=43>  </img>
+<p id=44 class=errorAlertText> NETWORK UNAVAILABLE </p>
+<p id=45 class=errorAlertDescription> Please wait a few minutes and retry </p>
+<button id=46 class=errorAlertButton>  </button>
+<button id=47 class=finalReviewButton>  </button>
+<img id=48 class=up>  </img>
+<img id=49 class=home>  </img>
+<p id=50 class=action_bar_title> Calculation Summary </p>
+<div id=51>  </div>
+
+
+Screen 1:
+
+<button id=0> Back </button>
+<p id=1 class=headerText> Other Taxes Paid </p>
+<button id=2 class=infoButton>  </button>
+<button id=3 class=wrenchButton>  </button>
+<div id=4 class=refundMeter>  </div>
+<div id=5 class=refundLabel> $3,108 </div>
+<p id=6 class=textViewTitle> FED TAX REFUND </p>
+<img id=7>  </img>
+<button id=8 class=detailsButton>  </button>
+<img id=9>  </img>
+<p id=10 class=errorAlertText> NETWORK UNAVAILABLE </p>
+<p id=11 class=errorAlertDescription> Please wait a few minutes and retry </p>
+<button id=12 class=errorAlertButton>  </button>
+<p id=13 class=unsupportedText> Sorry, your tax scenario is not covered as someone can claim you as a dependent. </p>
+<p id=14 class=unreachableText> Sorry, server unreachable. Please try again later. </p>
+<p id=15 class=label> Do not include withholdings from your income. </p>
+<p id=16 class=label> Estimated Federal Taxes Paid </p>
+<div id=17 class=slider>  </div>
+<p id=18 class=minValueLabel> $0 </p>
+<p id=19 class=maxValueLabel> $50k </p>
+<button id=20 class=sliderLabel> $16,000 </button>
+<p id=21 class=label> Estimated State Taxes Paid </p>
+<div id=22 class=slider>  </div>
+<p id=23 class=minValueLabel> $0 </p>
+<p id=24 class=maxValueLabel> $50k </p>
+<button id=25 class=sliderLabel> $17,000 </button>
+<img id=26>  </img>
+<button id=27 class=recommendation_small_button>  </button>
+<img id=28 class=boxShot>  </img>
+<p id=29>  </p>
+<p id=30 class=recomendText>  </p>
+<img id=31 class=up>  </img>
+<img id=32 class=home>  </img>
+<p id=33 class=action_bar_title> Other Taxes Paid </p>
+<div id=34 class=actionbar_help alt="['Help']">  </div>
+<button id=35 alt="['More options']">  </button>
+
+
+Screen 2:
+
+<button id=0> Back </button>
+<p id=1 class=headerText> Retirement </p>
+<button id=2 class=infoButton>  </button>
+<button id=3 class=wrenchButton>  </button>
+<div id=4 class=refundMeter>  </div>
+<div id=5 class=refundLabel> $4,391 </div>
+<p id=6 class=textViewTitle> FED TAX DUE </p>
+<img id=7>  </img>
+<button id=8 class=detailsButton>  </button>
+<img id=9>  </img>
+<p id=10 class=errorAlertText> NETWORK UNAVAILABLE </p>
+<p id=11 class=errorAlertDescription> Please wait a few minutes and retry </p>
+<button id=12 class=errorAlertButton>  </button>
+<p id=13 class=unsupportedText> Sorry, your tax scenario is not covered as someone can claim you as a dependent. </p>
+<p id=14 class=unreachableText> Sorry, server unreachable. Please try again later. </p>
+<p id=15 class=label> Are you eligible to be in a retirement plan at work? </p>
+<div id=16 class=booleanSwitch>  </div>
+<p id=17 class=label> Your maximum contribution is $5,500. Don't include 401K here, it should be excluded from taxable wages. </p>
+<p id=18 class=label> Traditional IRA Contribution </p>
+<div id=19 class=slider>  </div>
+<p id=20 class=minValueLabel> $0 </p>
+<p id=21 class=maxValueLabel> $6k </p>
+<button id=22 class=sliderLabel> $1,400 </button>
+<img id=23>  </img>
+<button id=24 class=recommendation_small_button>  </button>
+<img id=25 class=boxShot>  </img>
+<p id=26>  </p>
+<p id=27 class=recomendText>  </p>
+<img id=28 class=up>  </img>
+<img id=29 class=home>  </img>
+<p id=30 class=action_bar_title> Retirement </p>
+<div id=31 class=actionbar_help alt="['Help']">  </div>
+<button id=32 alt="['More options']">  </button>
+
+
+Screen 3:
+
+<p id=0 class=headerText> FAQs </p>
+<button id=1 class=doneButton> Done </button>
+<p id=2> What is TaxCaster? </p>
+<p id=3> TaxCaster is a FREE tax refund estimator made by TurboTax, the #1 name in tax software. TaxCaster let's you get a ballpark estimate of your refund any time of the year. </p>
+<p id=4> When should I use TaxCaster? </p>
+<p id=5> Use TaxCaster anytime to get an estimate of refund or the taxes you may owe. You can also use it to know where you stand for next year, and adjust your finances so you pay less tax (e.g. adjust a stock portfolio, or make charitable contributions).TaxCaster can also be used when you get your tax forms (W2, 1099) to get a quick read on your taxes before you spend a lot of time preparing your tax return. Some people use an estimate from TaxCaster to adjust their paycheck withholdings so they take home more money on each paycheck. </p>
+<p id=6> How accurate is TaxCaster? </p>
+<p id=7> TaxCaster is backed by TurboTax, so you know it's accurate. But it's designed to be quick and easy. So, while it includes the most common deductions and credits, it doesn’t cover every possible tax scenario. Most Taxcster users find that the estimate they get is very close to their actual federal tax return. </p>
+<p id=8> Do I have to do a lot of work to get a refund estimate? </p>
+<p id=9> No. It usually only takes a few minutes to get a good estimate. TaxCaster only collects the most relevant information to help you with a quick estimate. </p>
+<p id=10> Can I file my taxes with TaxCaster? </p>
+<p id=11> No. TaxCaster isn't designed to prepare and file your taxes. But it does recommend a TurboTax product based on the info you enter. You may even qualify for a FREE federal tax return. </p>
+<p id=12> How do I enter an exact amount without using the slider? </p>
+<p id=13> It's easy. Just tap on the description above the slider and you'll get a screen that allows you to enter a number using a keypad. </p>
+<p id=14> How do I enter a value that is larger than what the slider allows? </p>
+<p id=15> No problem. Just move the slider to the very end, the maximum value will automatically adjust to a larger number so you can keep sliding past the current value. Or you can tap on the description above the slider and you'll get a screen that allows you to enter an exact number using a keypad. </p>
+<p id=16> Why didn't my refund estimate change after I entered something? </p>
+<p id=17> Based on your tax situation, not everything you enter will affect your tax refund or the balance owed. For example, if your total itemized deductions (house mortgage interest, real estate taxes, etc.) are less than the standard deduction, the needle won't change, as TaxCaster has picked the larger of the two for you. </p>
+<p id=18> Why does TaxCaster need internet access? </p>
+<p id=19> TaxCaster uses an online TurboTax calculation service so you get the most up-to-date tax numbers. When there's no internet access, you can still use TaxCaster to enter all your info, then get the most up-to-date numbers when internet access is restored. </p>
+<p id=20> What do you do with the info I put into TaxCaster? </p>
+<p id=21> TaxCaster stores your info in the app and nowhere else. That's so you don't have to re-type everything when you want a fresh estimate. You can always erase all of your info by going to "Tools" in the upper right corner and tapping on "Clear and Start Over". </p>
+<p id=22> Does TaxCaster cover AMT? </p>
+<p id=23> TaxCaster covers Alternative Minimum Tax (AMT) calculation. For 2015, TaxCaster already includes "AMT patch" bill which was passed by Congress to protect you from a higher tax bill. </p>
+<p id=24> Why does TaxCaster only cover Qualified Dividends? </p>
+<p id=25> Qualified dividends are the most common form of dividends, and are taxed at a lower rate. To enter non-qualified dividends, you can add the amount to the "Miscellaneous Income" field under "Other Income". </p>
+<p id=26> Where do I enter 401K distribution? </p>
+<p id=27> 401K distribution should be excluded from your taxable wage amount. </p>
+<p id=28> Why do I see "Sorry, your tax scenario is not covered ..."? </p>
+<p id=29> This means you hit one of the rare tax scenarios that TaxCaster does not cover.This usually happens for people who can be claimed on their parents' returns while still earning their own income on interest/dividend/capital investments. Please use TurboTax for complete coverage. </p>
+<p id=30> Why is my actual federal tax refund much less than what TaxCaster estimated? </p>
+<p id=31> This means you may have entered different info on your actual return than what you entered in TaxCaster. One common mistake for overestimating refund is for single person to claim Head of Household while not qualified. A single person need to have qualified dependents living with him/her in order to claim Head of Household. You can always review all your data by clicking on 'Review What You Entered" under 'Final Result' and scroll down. </p>
+<img id=32 class=up>  </img>
+<img id=33 class=home>  </img>
+<p id=34 class=action_bar_title> FAQs </p>
+<div id=35>  </div>
+
+
+Screen 4:
+
+<button id=0> Back </button>
+<p id=1 class=headerText> Your Tax Breaks </p>
+<button id=2 class=infoButton>  </button>
+<button id=3 class=wrenchButton>  </button>
+<div id=4 class=refundMeter>  </div>
+<div id=5 class=refundLabel> $4,766 </div>
+<p id=6 class=textViewTitle> FED TAX DUE </p>
+<img id=7>  </img>
+<button id=8 class=detailsButton>  </button>
+<img id=9>  </img>
+<p id=10 class=errorAlertText> NETWORK UNAVAILABLE </p>
+<p id=11 class=errorAlertDescription> Please wait a few minutes and retry </p>
+<button id=12 class=errorAlertButton>  </button>
+<p id=13 class=unsupportedText> Sorry, your tax scenario is not covered as someone can claim you as a dependent. </p>
+<p id=14 class=unreachableText> Sorry, server unreachable. Please try again later. </p>
+<img id=15 class=icon>  </img>
+<p id=16 class=label> Education </p>
+<img id=17 class=icon>  </img>
+<p id=18 class=label> Home </p>
+<img id=19 class=icon>  </img>
+<p id=20 class=label> Donations </p>
+<img id=21 class=icon>  </img>
+<p id=22 class=label> Retirement </p>
+<img id=23 class=icon>  </img>
+<p id=24 class=label> Other Taxes Paid </p>
+<img id=25 class=icon>  </img>
+<p id=26 class=label> Other Deductions </p>
+<img id=27>  </img>
+<button id=28 class=recommendation_small_button>  </button>
+<img id=29 class=boxShot>  </img>
+<p id=30>  </p>
+<p id=31 class=recomendText>  </p>
+<img id=32 class=up>  </img>
+<img id=33 class=home>  </img>
+<p id=34 class=action_bar_title> Your Tax Breaks </p>
+<div id=35 class=actionbar_help alt="['Help']">  </div>
+<button id=36 alt="['More options']">  </button>
+
+
+{'0': '20850', '1': '20846', '2': '20847', '3': '20848', '4': '20845'}

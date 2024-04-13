@@ -1,0 +1,375 @@
+Screen 0:
+
+<button id=0 class=purchaseCloseButton alt="['더보기']">  </button>
+<button id=1 class=selectAllToggleButton>  </button>
+<div id=2 class=purchaseHeaderLineView>  </div>
+<img id=3 class=webtoonImageView>  </img>
+<div id=4 class=lineMovingPaddingView>  </div>
+<div id=5 class=lineView>  </div>
+<div id=6 class=lineMovingView>  </div>
+<p id=7 class=priceTextView> 0 </p>
+<p id=8> 원 결제하기 </p>
+<div id=9>  </div>
+<button id=10 class=goTopButton> TOP으로 </button>
+<img id=11 class=episodeImageView>  </img>
+<div id=12>  </div>
+<img id=13>  </img>
+<img id=14>  </img>
+<p id=15 class=titleTextView> 후기 </p>
+<p id=16 class=dateTextView> 17.01.03 </p>
+<img id=17>  </img>
+<img id=18>  </img>
+<div id=19 class=topLineView>  </div>
+<div id=20>  </div>
+<div id=21 class=leftLineView>  </div>
+<div id=22>  </div>
+<img id=23 class=episodeImageView>  </img>
+<div id=24>  </div>
+<img id=25>  </img>
+<img id=26>  </img>
+<p id=27 class=titleTextView> 마지막화 </p>
+<p id=28 class=priceTextView> ₩200 </p>
+<p id=29 class=dateTextView> 16.12.27 </p>
+<img id=30>  </img>
+<img id=31>  </img>
+<div id=32 class=topLineView>  </div>
+<div id=33>  </div>
+<div id=34>  </div>
+<img id=35 class=episodeImageView>  </img>
+<div id=36>  </div>
+<img id=37>  </img>
+<img id=38>  </img>
+<p id=39 class=titleTextView> 95화 </p>
+<p id=40 class=priceTextView> ₩200 </p>
+<p id=41 class=dateTextView> 16.12.20 </p>
+<img id=42>  </img>
+<img id=43>  </img>
+<div id=44 class=topLineView>  </div>
+<div id=45>  </div>
+<div id=46>  </div>
+<img id=47 class=episodeImageView>  </img>
+<div id=48>  </div>
+<img id=49>  </img>
+<img id=50>  </img>
+<p id=51 class=titleTextView> 94화 </p>
+<p id=52 class=priceTextView> ₩200 </p>
+<p id=53 class=dateTextView> 16.12.13 </p>
+<img id=54>  </img>
+<img id=55>  </img>
+<div id=56>  </div>
+<div id=57 class=leftLineView>  </div>
+<div id=58>  </div>
+<img id=59 class=episodeImageView>  </img>
+<div id=60>  </div>
+<img id=61>  </img>
+<img id=62>  </img>
+<p id=63 class=titleTextView> 93화 </p>
+<p id=64 class=priceTextView> ₩200 </p>
+<p id=65 class=dateTextView> 16.12.06 </p>
+<img id=66>  </img>
+<img id=67>  </img>
+<div id=68>  </div>
+<div id=69>  </div>
+<img id=70 class=episodeImageView>  </img>
+<div id=71>  </div>
+<img id=72>  </img>
+<img id=73>  </img>
+<p id=74 class=titleTextView> 92화 </p>
+<p id=75 class=priceTextView> ₩200 </p>
+<p id=76 class=dateTextView> 16.11.29 </p>
+<img id=77>  </img>
+<img id=78>  </img>
+<div id=79>  </div>
+<div id=80>  </div>
+<img id=81 class=episodeImageView>  </img>
+<div id=82>  </div>
+<img id=83>  </img>
+<img id=84>  </img>
+<p id=85 class=titleTextView> 91화 </p>
+<p id=86 class=priceTextView> ₩200 </p>
+<p id=87 class=dateTextView> 16.11.22 </p>
+<img id=88>  </img>
+<img id=89>  </img>
+<div id=90>  </div>
+<div id=91 class=leftLineView>  </div>
+<div id=92>  </div>
+<img id=93 class=episodeImageView>  </img>
+<div id=94>  </div>
+<img id=95>  </img>
+<img id=96>  </img>
+<p id=97 class=titleTextView> 90화 </p>
+<p id=98 class=priceTextView> ₩200 </p>
+<p id=99 class=dateTextView> 16.11.15 </p>
+<img id=100>  </img>
+<img id=101>  </img>
+<div id=102>  </div>
+<div id=103>  </div>
+<img id=104 class=episodeImageView>  </img>
+<div id=105>  </div>
+<img id=106>  </img>
+<img id=107>  </img>
+<p id=108 class=titleTextView> 89화 </p>
+<p id=109 class=priceTextView> ₩200 </p>
+<p id=110 class=dateTextView> 16.11.08 </p>
+<img id=111>  </img>
+<img id=112>  </img>
+<div id=113>  </div>
+<div id=114>  </div>
+<button id=115 class=scoreButton> 9.9 </button>
+<p id=116 class=titleTextView> 부암동 복수자 소셜클럽 </p>
+<p id=117 class=artistNameTextView> 사자토끼 </p>
+<button id=118> #드라마 </button>
+<button id=119> #가족 </button>
+<button id=120> #복수 </button>
+<img id=121 class=arrImageView alt="['뒤로가기']">  </img>
+<button id=122 class=purchaseAllButton>  </button>
+<button id=123 class=cabinetButton alt="['해제된 찜하기']">  </button>
+<button id=124 class=moreButton alt="['더보기']">  </button>
+<div id=125>  </div>
+<button id=126 class=continuouslyWebtoonShowButton> 첫 화 보기 </button>
+
+
+Screen 1:
+
+<div id=0 class=alertTitle> rey </div>
+<div id=1 class=titleDivider>  </div>
+<div id=2 class=scrollView>  </div>
+<p id=3 class=lblMessage> Date of birth: Dec 21, 1980
+Age: 36 years
+Zodiac: Sagittarius
+
+The next Birthday is on a Thursday. </p>
+<button id=4 class=btnGifts1> Send a Gift Card </button>
+<button id=5 class=btnGifts2> Send a FREE e-Card </button>
+<button id=6 class=button2> Cancel </button>
+<button id=7 class=button1> More options </button>
+
+
+Screen 2:
+
+<div id=0 class=content_back>  </div>
+<img id=1>  </img>
+<img id=2>  </img>
+<div id=3 class=circle_page_indicator>  </div>
+<p id=4 class=product_detail_type> Chair  </p>
+<p id=5 class=product_detail_name> JÄPPLING </p>
+<img id=6 class=shareicon>  </img>
+<p id=7 class=product_detail_regular_price_value> $169.00 </p>
+<p id=8 class=product_detail_family_price_value>  </p>
+<p id=9 class=product_detail_previous_price_value>  </p>
+<p id=10 class=color_diamension_cabinet_text> Skinnarp dark brown </p>
+<p id=11 class=product_detail_article_number> 202.934.60 </p>
+<p id=12 class=product_qty> 0 </p>
+<img id=13 class=button_icon alt="['Cart']">  </img>
+<p id=14 class=button_title> Collect </p>
+<img id=15 class=button_icon alt="['Cart']">  </img>
+<p id=16 class=button_title> Add to list </p>
+<img id=17 class=added_button_icon alt="['Cart']">  </img>
+<p id=18 class=added_button_title> Added! </p>
+<p id=19 class=stock_view_in_stock> Currently in stock in IKEA AZ, Tempe </p>
+<p id=20 class=art_department_name> Found in Self-serve department </p>
+<p id=21 class=aisle_value> 18 </p>
+<p id=22 class=aisle_level> AISLE </p>
+<p id=23 class=location_value> 38 </p>
+<p id=24 class=location_level> Location </p>
+<div id=25 class=buy_online_top_divider>  </div>
+<p id=26 class=product_detail_buy_online> Buy this product online </p>
+<p id=27 class=stock_last_line> Prices and products may vary in store and online. </p>
+<div id=28>  </div>
+<p id=29 class=product_deatils_item_title> Options </p>
+<img id=30 class=product_deatils_item_icon alt="['Cart']">  </img>
+<div id=31>  </div>
+<p id=32 class=product_deatils_item_title> PRODUCT DETAILS </p>
+<img id=33 class=product_deatils_item_icon alt="['Cart']">  </img>
+<p id=34 class=chucnk_title> Assembled size </p>
+<p id=35 class=chucnk_deatils> Width: 29 1/2 " (75 cm)
+Depth: 35 3/8 " (90 cm)
+Seat width: 20 1/2 " (52 cm)
+Seat depth: 22 " (56 cm)
+Seat height: 18 1/8 " (46 cm)
+Height: 31 7/8 " (81 cm)
+ </p>
+<p id=36 class=chucnk_deatils> This product requires assembly
+ </p>
+<p id=37 class=chucnk_title> Package measurement and weight </p>
+<p id=38 class=chucnk_deatils> Width: 30 ¾ " (78 cm)
+Height: 29 ¼ " (74 cm)
+Length: 33 " (84 cm)
+Weight: 65 lb 1 oz (29.50 kg)
+ </p>
+<p id=39 class=chucnk_link> 1 packages
+
+ </p>
+<div id=40>  </div>
+<p id=41 class=product_deatils_item_title> INCLUDED/NOT INCLUDED </p>
+<img id=42 class=product_deatils_item_icon alt="['Cart']">  </img>
+<div id=43>  </div>
+<p id=44 class=product_deatils_item_title> Good to know </p>
+<img id=45 class=product_deatils_item_icon alt="['Cart']">  </img>
+<p id=46 class=chucnk_title> Care Instructions </p>
+<p id=47 class=chucnk_deatils> Vacuum clean.
+Light stains can be removed with a damp sponge or a mild soapy solution.
+Protect from direct sunlight to prevent drying out.
+ </p>
+<div id=48>  </div>
+<p id=49 class=product_deatils_item_title> Technical information </p>
+<img id=50 class=product_deatils_item_icon alt="['Cart']">  </img>
+<div id=51>  </div>
+<p id=52 class=product_deatils_item_title> ENVIRONMENT & DETAILS </p>
+<img id=53 class=product_deatils_item_icon alt="['Cart']">  </img>
+<p id=54 class=chucnk_title> Materials </p>
+<p id=55 class=chucnk_deatils> Frame:Particleboard, Solid wood, Fiberboard
+
+Seat cushion:Polyurethane foam., Polyester wadding
+
+Back:Polyurethane foam., Polyester wadding
+
+Armrest:Polyurethane foam., Polyester wadding
+
+Foot:Solid birch
+
+Fabric:44 % cotton, 56 % polyester
+
+Coating:60 % acrylic, 40 % polyurethane
+
+ </p>
+<div id=56>  </div>
+<p id=57 class=product_deatils_item_title> SUPPORT </p>
+<img id=58 class=product_deatils_item_icon alt="['Cart']">  </img>
+<p id=59 class=chucnk_title> Assembly Instruction </p>
+<p id=60> JÄPPLING Chair (PDF for 202.934.60)
+ </p>
+<p id=61 class=chucnk_deatils> Only the latest versions of these documents are available for download. This means that there may sometimes be differences between the documents you download and the printed versions that come with the product.
+ </p>
+<div id=62>  </div>
+<img id=63 class=button_icon alt="['Cart']">  </img>
+<p id=64 class=button_title> Add to list </p>
+<img id=65 class=button_icon alt="['Cart']">  </img>
+<p id=66 class=button_title> Add to wishlist </p>
+<p id=67 class=error_messsge> Server is not responding. </p>
+<img id=68 class=error_img alt="['Home']">  </img>
+<p id=69 class=error_message1> Please try again later. </p>
+<button id=70 class=network_setting_button> NETWORK SETTINGS </button>
+<div id=71>  </div>
+<p id=72 class=activity_title>  </p>
+<img id=73 class=back alt="['Back']">  </img>
+<div id=74>  </div>
+<div id=75>  </div>
+<div id=76>  </div>
+<img id=77 class=cart_icon alt="['Cart']">  </img>
+<div id=78 class=dummy_view>  </div>
+<p id=79 class=badge_value> 1 </p>
+<p id=80 class=sc_title> Shopping list </p>
+<img id=81 class=sc_minimize alt="['Close']">  </img>
+<img id=82 alt="['Home']">  </img>
+<img id=83 class=pull_to_refresh_image>  </img>
+<p id=84 class=pull_to_refresh_text> Pull to refresh… </p>
+<img id=85 class=shopping_map_icon alt="['Cart']">  </img>
+<p id=86 class=shopping_header_value> AT IKEA AZ, TEMPE </p>
+<img id=87 class=select_arrow alt="['Cart']">  </img>
+<div id=88>  </div>
+<div id=89>  </div>
+<div id=90>  </div>
+<div id=91>  </div>
+<img id=92 alt="['Cart']">  </img>
+<p id=93 class=department_name> SELF-SERVICE </p>
+<p id=94 class=spr_title> Have you collected %s packages for this item in the self-service area? </p>
+<p id=95 class=spr_yes> Yes </p>
+<p id=96 class=spr_no> No </p>
+<img id=97 class=icon_collect_info alt="['Cart']">  </img>
+<img id=98 class=button_remove_right alt="['Cart']">  </img>
+<p id=99 class=productQty> 1x </p>
+<img id=100 class=package_card_image alt="['Package']">  </img>
+<p id=101 class=aisle_value> 18 </p>
+<p id=102 class=aisle_level> AISLE </p>
+<p id=103 class=location_value> 38 </p>
+<p id=104 class=location_level> Location </p>
+<p id=105 class=product_type> Chair </p>
+<p id=106 class=product_name> JÄPPLING </p>
+<p id=107 class=family_price_text> IKEA FAMILY member price </p>
+<p id=108 class=product_detail_family_price_value>  </p>
+<p id=109 class=product_detail_regular_price_value> $169.00 </p>
+<p id=110 class=product_detail_previous_price_value>  </p>
+<p id=111 class=product_article_nr> 202.934.60 </p>
+<div id=112>  </div>
+<img id=113>  </img>
+<div id=114 class=sl_item_divider>  </div>
+<button id=115 class=add_products> Add Products </button>
+<button id=116 class=remove_collected> Remove collected products </button>
+<button id=117 class=empty_bag> Clear Shopping List </button>
+<div id=118>  </div>
+<p id=119 class=SCR_STPData> $169.00 </p>
+<p id=120 class=SCR_STPLevel> Subtotal of products </p>
+<div id=121>  </div>
+<p id=122 class=sc_ikea_total_title> IKEA FAMILY savings </p>
+<p id=123 class=sc_ikea_total_price>  </p>
+<p id=124 class=sc_total_title> TOTAL TO PAY </p>
+<p id=125 class=sc_total_price> $169.00 </p>
+<p id=126 class=sc_ikea_message> Go to the IKEA FAMILY section and see your IKEA FAMILY benefits. </p>
+<div id=127 class=sc_sammary_layout_line>  </div>
+
+
+Screen 3:
+
+<input id=0 class=filter_text>  </input>
+<img id=1 class=filter_quit alt="['Close']">  </img>
+<img id=2 class=contactPhoto alt="["Contact's photo"]">  </img>
+<p id=3 class=toptext> rey </p>
+<p id=4 class=bottomtext> Dec 21, 1980 </p>
+<p id=5 class=subtext> today </p>
+<p id=6 class=newAgeVerb> turns </p>
+<p id=7 class=newAge> 36 </p>
+<button id=8 class=sub_menu_gifts> Gifts </button>
+<button id=9 class=sub_menu_search> Search </button>
+<button id=10 class=sub_menu_sync> Sync </button>
+<img id=11 class=home>  </img>
+<p id=12 class=action_bar_title> Birthdays </p>
+<div id=13 class=mode_add alt="['Add']">  </div>
+<div id=14 class=mode_preferences alt="['Preferences']">  </div>
+
+
+Screen 4:
+
+<img id=0 class=video>  </img>
+<div id=1 class=video_overlay>  </div>
+<div id=2 class=progress>  </div>
+<img id=3 class=forward alt="['Forward']">  </img>
+<img id=4 class=backward alt="['Backwards']">  </img>
+<p id=5 class=text1> Rest </p>
+<p id=6 class=text2> Next Exercise: </p>
+<p id=7 class=text_exercise> Lunges </p>
+<p id=8> • </p>
+<p id=9> Step forward with a leg and bend it until both legs are in a 90 degree angle. </p>
+<p id=10> • </p>
+<p id=11> Make sure your body stays in a straight line on top of your rear knee. </p>
+<p id=12> • </p>
+<p id=13> Push through your front heel to activate your glutes and get back to the starting position. </p>
+<img id=14 class=video>  </img>
+<p id=15 class=text_exercise> Lunges </p>
+<div id=16 class=progress>  </div>
+<img id=17 class=forward alt="['Forward']">  </img>
+<img id=18 class=backward alt="['Backwards']">  </img>
+<img id=19 class=video>  </img>
+<div id=20 class=video_overlay>  </div>
+<div id=21 class=progress>  </div>
+<img id=22 class=forward alt="['Forward']">  </img>
+<img id=23 class=backward alt="['Backwards']">  </img>
+<p id=24 class=text1> Rest </p>
+<p id=25 class=text2> Next Exercise: </p>
+<p id=26 class=text_exercise> Push-Ups With Rotation </p>
+<p id=27> • </p>
+<p id=28> Engage your core as you twist your torso. </p>
+<p id=29> • </p>
+<p id=30> As one hand is supporting your body move the other straight above your head. </p>
+<p id=31> ��� </p>
+<p id=32> Keep both arms in line with each other and your shoulders. </p>
+<p id=33> • </p>
+<p id=34> Make it easier by placing your knees on the ground. </p>
+<p id=35> Exercise 10 of 12 </p>
+<button id=36 alt="['Navigate up']">  </button>
+<div id=37>  </div>
+<div id=38 class=navigationBarBackground>  </div>
+<div id=39 class=statusBarBackground>  </div>
+
+
+{'0': '4315', '1': '51', '2': '65915', '3': '50', '4': '3'}

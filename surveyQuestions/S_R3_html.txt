@@ -1,0 +1,219 @@
+Screen 0:
+
+<img id=0 class=name_icon>  </img>
+<p id=1 class=name_text_title> Name </p>
+<p id=2 class=name_text_subtitle> John Smith  </p>
+<div id=3>  </div>
+<img id=4 class=mobile_icon>  </img>
+<p id=5 class=mobile_text_title> Mobile </p>
+<p id=6 class=mobile_text_subtitle> +14153402255 </p>
+<div id=7>  </div>
+<img id=8 class=email_icon>  </img>
+<p id=9 class=email_text_title> Email </p>
+<p id=10 class=email_text_subtitle> appcrawler4@gmail.com </p>
+<div id=11>  </div>
+<p id=12 class=textview_change_password> Change Password </p>
+<div id=13>  </div>
+<img id=14 class=home_icon>  </img>
+<p id=15 class=home_title> Set Home </p>
+<div id=16>  </div>
+<img id=17 class=work_icon>  </img>
+<p id=18 class=work_title> Set Work </p>
+<div id=19>  </div>
+<p id=20 class=loyalty_text_title>  </p>
+<p id=21 class=loyalty_text_subtitle>  </p>
+<div id=22 class=divider_logout>  </div>
+<p id=23 class=textview_logout> Logout </p>
+<p id=24> Profile </p>
+<button id=25 alt="['Navigate up']">  </button>
+<div id=26>  </div>
+<div id=27 class=navigationBarBackground>  </div>
+<div id=28 class=statusBarBackground>  </div>
+
+
+Screen 1:
+
+<p id=0 class=dashboard_stop_button_intensity_text> CONTRACTION INTENSITY </p>
+<div id=1 class=dashboard_stop_button_intensity_slider>  </div>
+<p id=2 class=smart_timer_view_singles> 6 </p>
+<p id=3 class=smart_timer_view_semicolons> : </p>
+<p id=4 class=smart_timer_view_first_dot> 4 </p>
+<p id=5 class=smart_timer_view_second_dot> 5 </p>
+<p id=6> (tap to stop) </p>
+<p id=7> START </p>
+<p id=8 class=smart_timer_view_tens>  </p>
+<p id=9 class=smart_timer_view_singles>  </p>
+<p id=10 class=smart_timer_view_semicolons> : </p>
+<p id=11 class=smart_timer_view_first_dot>  </p>
+<p id=12 class=smart_timer_view_second_dot>  </p>
+<p id=13> since last contraction </p>
+<div id=14 class=dashboard_shorttimeline>  </div>
+<div id=15>  </div>
+<p id=16 class=contraction_listing_contraction_event_time> 03:45pm </p>
+<div id=17>  </div>
+<div id=18>  </div>
+<div id=19>  </div>
+<div id=20>  </div>
+<p id=21 class=smart_timer_view_tens> 0 </p>
+<p id=22 class=smart_timer_view_singles> 6 </p>
+<p id=23 class=smart_timer_view_semicolons> : </p>
+<p id=24 class=smart_timer_view_first_dot> 4 </p>
+<p id=25 class=smart_timer_view_second_dot> 5 </p>
+<div id=26>  </div>
+<img id=27 class=navigation_drawer_row_icon>  </img>
+<p id=28 class=navigation_drawer_row_title> Contractions </p>
+<div id=29 class=row_seperator>  </div>
+<div id=30>  </div>
+<img id=31 class=navigation_drawer_row_icon>  </img>
+<p id=32 class=navigation_drawer_row_title> Averages </p>
+<div id=33 class=row_seperator>  </div>
+<div id=34>  </div>
+<img id=35 class=navigation_drawer_row_icon>  </img>
+<p id=36 class=navigation_drawer_row_title> Graphs </p>
+<p id=37 class=navigation_drawer_row_title> YOU WILL SOON NEED THIS APP </p>
+<img id=38>  </img>
+<p id=39> Feed Baby - Baby Tracker App </p>
+<p id=40> Prepare for your new baby by installing Feed Baby; the best Baby Tracker and Breastfeeding app on Android. </p>
+<p id=41> FREE! </p>
+<p id=42 class=navigation_drawer_row_title> MISCELLANEOUS </p>
+<img id=43 class=navigation_drawer_row_icon>  </img>
+<p id=44 class=navigation_drawer_row_title> Settings </p>
+<div id=45 class=row_seperator>  </div>
+<div id=46>  </div>
+<img id=47 class=navigation_drawer_row_icon>  </img>
+<p id=48 class=navigation_drawer_row_title> Rate Me </p>
+<div id=49 class=row_seperator>  </div>
+<div id=50>  </div>
+<img id=51 class=up>  </img>
+<img id=52 class=home>  </img>
+<p id=53 class=action_bar_title> Contractions </p>
+<div id=54 class=action_add alt="['Add']">  </div>
+<div id=55 class=action_clear_all alt="['Clear All']"> Clear All </div>
+
+
+Screen 2:
+
+<button id=0 class=back_button>  </button>
+<p id=1 class=toolbar_title>  </p>
+<p id=2 class=person_name> Jordan Small </p>
+<p id=3 class=preview_payperiod_label> Period </p>
+<p id=4 class=appPcsPayperiod> Mar 18 - Mar 24, 2017 </p>
+<p id=5 class=preview_date_label> Pay Date </p>
+<p id=6 class=appPcsPaydate> March 24, 2017 </p>
+<img id=7 class=pending_icon>  </img>
+<p id=8 class=approved_label> Approved </p>
+<p id=9 class=total_pay> TOTAL NET PAY </p>
+<p id=10 class=appPcsNetValue> $146.32 </p>
+<p id=11> GROSS PAY </p>
+<p id=12 class=checkTotalPay> $160.00 </p>
+<div id=13 class=payTitleLine>  </div>
+<p id=14 class=payitemname> Regular Pay - 10 h </p>
+<p id=15 class=payitemvalue> $160.00 </p>
+<p id=16> TAXES WITHHELD </p>
+<p id=17 class=empPaycheckTaxes> $13.68 </p>
+<div id=18 class=taxesTitleLine>  </div>
+<p id=19 class=payitemname> Federal Income Tax </p>
+<p id=20 class=payitemvalue> $0.00 </p>
+<p id=21 class=payitemname> Social Security </p>
+<p id=22 class=payitemvalue> $9.92 </p>
+<p id=23 class=payitemname> Medicare </p>
+<p id=24 class=payitemvalue> $2.32 </p>
+<p id=25 class=payitemname> CA Income Tax </p>
+<p id=26 class=payitemvalue> $0.00 </p>
+<p id=27 class=payitemname> CA State Disability Ins </p>
+<p id=28 class=payitemvalue> $1.44 </p>
+<p id=29> DEDUCTIONS </p>
+<p id=30 class=empPaycheckDeductions> $0.00 </p>
+<div id=31>  </div>
+<div id=32 class=navigationBarBackground>  </div>
+<div id=33 class=statusBarBackground>  </div>
+
+
+Screen 3:
+
+<p id=0 class=dashboard_stop_button_intensity_text> CONTRACTION INTENSITY </p>
+<div id=1 class=dashboard_stop_button_intensity_slider>  </div>
+<p id=2 class=smart_timer_view_singles> 6 </p>
+<p id=3 class=smart_timer_view_semicolons> : </p>
+<p id=4 class=smart_timer_view_first_dot> 4 </p>
+<p id=5 class=smart_timer_view_second_dot> 5 </p>
+<p id=6> (tap to stop) </p>
+<p id=7> START </p>
+<p id=8 class=smart_timer_view_tens> 0 </p>
+<p id=9 class=smart_timer_view_singles> 0 </p>
+<p id=10 class=smart_timer_view_semicolons> : </p>
+<p id=11 class=smart_timer_view_first_dot> 0 </p>
+<p id=12 class=smart_timer_view_second_dot> 4 </p>
+<p id=13> since last contraction </p>
+<div id=14 class=dashboard_shorttimeline>  </div>
+<div id=15>  </div>
+<p id=16 class=contraction_listing_contraction_event_time> 03:45pm </p>
+<div id=17>  </div>
+<div id=18>  </div>
+<div id=19>  </div>
+<div id=20>  </div>
+<p id=21 class=smart_timer_view_tens> 0 </p>
+<p id=22 class=smart_timer_view_singles> 6 </p>
+<p id=23 class=smart_timer_view_semicolons> : </p>
+<p id=24 class=smart_timer_view_first_dot> 4 </p>
+<p id=25 class=smart_timer_view_second_dot> 5 </p>
+<div id=26>  </div>
+<img id=27 class=navigation_drawer_row_icon>  </img>
+<p id=28 class=navigation_drawer_row_title> Contractions </p>
+<div id=29 class=row_seperator>  </div>
+<div id=30>  </div>
+<img id=31 class=navigation_drawer_row_icon>  </img>
+<p id=32 class=navigation_drawer_row_title> Averages </p>
+<div id=33 class=row_seperator>  </div>
+<div id=34>  </div>
+<img id=35 class=navigation_drawer_row_icon>  </img>
+<p id=36 class=navigation_drawer_row_title> Graphs </p>
+<p id=37 class=navigation_drawer_row_title> YOU WILL SOON NEED THIS APP </p>
+<img id=38>  </img>
+<p id=39> Feed Baby - Baby Tracker App </p>
+<p id=40> Prepare for your new baby by installing Feed Baby; the best Baby Tracker and Breastfeeding app on Android. </p>
+<p id=41> FREE! </p>
+<p id=42 class=navigation_drawer_row_title> MISCELLANEOUS </p>
+<img id=43 class=navigation_drawer_row_icon>  </img>
+<p id=44 class=navigation_drawer_row_title> Settings </p>
+<div id=45 class=row_seperator>  </div>
+<div id=46>  </div>
+<img id=47 class=navigation_drawer_row_icon>  </img>
+<p id=48 class=navigation_drawer_row_title> Rate Me </p>
+<div id=49 class=row_seperator>  </div>
+<div id=50>  </div>
+<img id=51 class=up>  </img>
+<img id=52 class=home>  </img>
+<p id=53 class=action_bar_title> Contractions </p>
+<div id=54 class=action_add alt="['Add']">  </div>
+<div id=55 class=action_clear_all alt="['Clear All']"> Clear All </div>
+
+
+Screen 4:
+
+<img id=0 class=background>  </img>
+<p id=1 class=titulo> iOS e Windows 10 </p>
+<img id=2 class=imagem>  </img>
+<img id=3 class=facebook>  </img>
+<img id=4 class=twitter>  </img>
+<p id=5 class=texto> Avisem aos seus amigos das outras terras que estamos a caminho!
+Vai ter que segurar a marimba e esperar! </p>
+<img id=6 class=background>  </img>
+<p id=7 class=titulo> PRONTO! </p>
+<img id=8 class=facebook>  </img>
+<img id=9 class=twitter>  </img>
+<div id=10 class=view>  </div>
+<p id=11 class=texto> Agora você já sabe de tudo sobre o aplicativo! Clique no botão abaixo para ir para a tela inicial! </p>
+<button id=12 class=entrar> Entrar </button>
+<div id=13>  </div>
+<div id=14>  </div>
+<div id=15>  </div>
+<div id=16>  </div>
+<div id=17>  </div>
+<div id=18>  </div>
+<div id=19>  </div>
+<div id=20>  </div>
+<div id=21 class=navigationBarBackground>  </div>
+
+
+{'0': '49283', '1': '36635', '2': '49213', '3': '36636', '4': '59599'}

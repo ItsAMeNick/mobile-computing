@@ -1,0 +1,308 @@
+Screen 0:
+
+<p id=0 class=title> Body Mass Index </p>
+<button id=1 alt="['Navigate up']">  </button>
+<div id=2 class=action_info_bmi alt="['help']">  </div>
+<div id=3 class=speedometer>  </div>
+<img id=4 class=popupBMIButton alt="['Body Mass Index']">  </img>
+<input id=5 class=ageEditText> 26 </input>
+<button id=6 class=gender_woman_button alt="['woman icon']">  </button>
+<div id=7>  </div>
+<button id=8 class=gender_man_button alt="['man icon']">  </button>
+<button id=9 class=measureSystemButton_metric> CM | KG </button>
+<button id=10 class=measureSystemButton_imperial> IN | LB </button>
+<input id=11 class=weightEditText> 53 </input>
+<p id=12> kg </p>
+<input id=13 class=heightEditText> 6 </input>
+<p id=14> cm </p>
+<input id=15 class=height_inch_EditText>  </input>
+<img id=16 class=idealWeightIcon alt="['Body Mass Index']">  </img>
+<p id=17 class=label_idealWeight> Ideal Weight </p>
+<p id=18 class=result_idealWeight_textView> 0.1 kg </p>
+<img id=19 class=overWeightIcon alt="['Body Mass Index']">  </img>
+<p id=20 class=label_overWeight> OverWeight </p>
+<p id=21 class=result_overWeight_textView> 52.9 kg </p>
+<img id=22 class=healthyWeightIcon alt="['Body Mass Index']">  </img>
+<p id=23 class=label_healthyWeight> Healthy Weight </p>
+<p id=24 class=result_healthyWeight_textView> 0.1-0.1 kg </p>
+<div id=25>  </div>
+<div id=26>  </div>
+<img id=27>  </img>
+<img id=28>  </img>
+<p id=29> Weight Tracker </p>
+<p id=30 class=design_menu_item_text> Weight Tracker </p>
+<p id=31 class=design_menu_item_text> Weight History </p>
+<p id=32 class=design_menu_item_text> Statistics </p>
+<div id=33>  </div>
+<p id=34> Standalone Calculators </p>
+<p id=35 class=design_menu_item_text> Body Mass Index </p>
+<p id=36 class=design_menu_item_text> Daily Calorie Intake </p>
+<p id=37 class=design_menu_item_text> Body Fat Percentage </p>
+<p id=38 class=design_menu_item_text> Waist to Height Ratio </p>
+<div id=39>  </div>
+<p id=40> Other </p>
+<p id=41 class=design_menu_item_text> Remove Ads </p>
+<div id=42 class=navigationBarBackground>  </div>
+<div id=43 class=statusBarBackground>  </div>
+
+
+Screen 1:
+
+<p id=0 class=title> Weight Tracker </p>
+<button id=1 alt="['Navigate up']">  </button>
+<div id=2 class=action_goal alt="['Goal']">  </div>
+<img id=3 class=icon>  </img>
+<p id=4 class=askToRateText> If you enjoy using this app, please take a moment to rate it. Thanks for your support! </p>
+<button id=5 class=btn_rater_later> Later </button>
+<button id=6 class=btn_rater_negative> No thanks </button>
+<button id=7 class=btn_rater_positive> Rate Now </button>
+<div id=8 class=arc_progress>  </div>
+<div id=9>  </div>
+<p id=10> Starting Weight </p>
+<p id=11> Current Weight </p>
+<p id=12> Weight Goal </p>
+<p id=13 class=startWeight_textView> 53 kg </p>
+<p id=14 class=currentWeight_textView> 50 kg </p>
+<p id=15 class=weightGoal_textView> 0.1 kg </p>
+<img id=16 class=icon_diet alt="['Body Mass Index']">  </img>
+<p id=17 class=label_diet> Diet </p>
+<p id=18 class=result_diet_textView> 339 </p>
+<p id=19 class=kcalLabel> Cals/day </p>
+<div id=20>  </div>
+<img id=21 class=icon_fat alt="['Body Mass Index']">  </img>
+<p id=22 class=label_fat> Body Fat </p>
+<p id=23 class=result_fat_textView> 6% </p>
+<img id=24 class=indicator_fat>  </img>
+<div id=25>  </div>
+<img id=26 class=icon_BMI alt="['Body Mass Index']">  </img>
+<p id=27 class=label_BMI> BMI </p>
+<p id=28 class=result_BMI_textView> 13888.9 </p>
+<img id=29 class=indicator_bmi>  </img>
+<button id=30 class=button_7d> 7d </button>
+<button id=31 class=button_1m> 1m </button>
+<button id=32 class=button_6m> 6m </button>
+<button id=33 class=button_1y> 1y </button>
+<div id=34 class=chart>  </div>
+<img id=35 class=chartCardMenu alt="['Body Mass Index']">  </img>
+<div id=36>  </div>
+<div id=37>  </div>
+<img id=38>  </img>
+<img id=39>  </img>
+<p id=40> Weight Tracker </p>
+<p id=41 class=design_menu_item_text> Weight Tracker </p>
+<p id=42 class=design_menu_item_text> Weight History </p>
+<p id=43 class=design_menu_item_text> Statistics </p>
+<div id=44>  </div>
+<p id=45> Standalone Calculators </p>
+<p id=46 class=design_menu_item_text> Body Mass Index </p>
+<p id=47 class=design_menu_item_text> Daily Calorie Intake </p>
+<p id=48 class=design_menu_item_text> Body Fat Percentage </p>
+<p id=49 class=design_menu_item_text> Waist to Height Ratio </p>
+<div id=50>  </div>
+<p id=51> Other </p>
+<p id=52 class=design_menu_item_text> Remove Ads </p>
+<div id=53 class=navigationBarBackground>  </div>
+<div id=54 class=statusBarBackground>  </div>
+
+
+Screen 2:
+
+<div id=0 class=cordova_webview>  </div>
+<p id=1> PayNearMe </p>
+<button id=2 alt="['PayNearMe']">  </button>
+<div id=3>  </div>
+<img id=4>  </img>
+<img id=5 class=settings_icon>  </img>
+<img id=6 class=side_menu_avatar>  </img>
+<p id=7 class=side_menu_name> View Profile </p>
+<img id=8 class=side_menu_row_icon>  </img>
+<p id=9 class=side_menu_row_label> Home </p>
+<div id=10 class=badge_view>  </div>
+<img id=11 class=side_menu_row_icon>  </img>
+<p id=12 class=side_menu_row_label> Bills </p>
+<div id=13 class=badge_view>  </div>
+<img id=14 class=side_menu_row_icon>  </img>
+<p id=15 class=side_menu_row_label> History </p>
+<div id=16 class=badge_view>  </div>
+<img id=17 class=side_menu_row_icon>  </img>
+<p id=18 class=side_menu_row_label> Locations </p>
+<div id=19 class=badge_view>  </div>
+<img id=20 class=side_menu_row_icon>  </img>
+<p id=21 class=side_menu_row_label> Rewards </p>
+<div id=22 class=badge_view>  </div>
+<img id=23>  </img>
+<div id=24>  </div>
+<p id=25 class=side_menu_version_label> 1.4.4.b392 </p>
+<div id=26 class=navigationBarBackground>  </div>
+<div id=27 class=statusBarBackground>  </div>
+
+
+Screen 3:
+
+<p id=0> Explore </p>
+<div id=1 class=action_search alt="['Search post']">  </div>
+<div id=2 class=view_pager>  </div>
+<p id=3 class=featuredListTitle> Featured </p>
+<p id=4> See All </p>
+<div id=5 class=gifView>  </div>
+<div id=6 class=image>  </div>
+<img id=7 class=badge>  </img>
+<img id=8 class=retryImage>  </img>
+<div id=9 class=mobileCoverSaw>  </div>
+<p id=10 class=mobileCoverMessage> Expand Post </p>
+<p id=11 class=featuredPostTitle> Photoshop Battle Of Taylor Swift Is Absolutely Outstanding </p>
+<p id=12 class=pointAndCommentCount> 9,884 Points 	 262 Comments </p>
+<div id=13 class=dividerTop>  </div>
+<p id=14 class=txtHeader> SECTIONS </p>
+<div id=15 class=dividerBottom>  </div>
+<p id=16 class=t1> Funny </p>
+<p id=17> See All </p>
+<div id=18 class=leftIcon>  </div>
+<div id=19 class=p1>  </div>
+<div id=20 class=p2>  </div>
+<div id=21 class=p3>  </div>
+<div id=22 class=divider>  </div>
+<p id=23 class=t1> School </p>
+<p id=24> See All </p>
+<div id=25 class=leftIcon>  </div>
+<div id=26 class=p1>  </div>
+<div id=27 class=p2>  </div>
+<div id=28 class=p3>  </div>
+<div id=29 class=divider>  </div>
+<div id=30>  </div>
+<div id=31 class=dividerTop>  </div>
+<p id=32 class=postTitle> Cappuccino... with eyes... and mouth... and ears... </p>
+<div id=33 class=gifView>  </div>
+<div id=34 class=image>  </div>
+<img id=35 class=badge>  </img>
+<img id=36 class=retryImage>  </img>
+<div id=37 class=mobileCoverSaw>  </div>
+<p id=38 class=mobileCoverMessage> Expand Post </p>
+<p id=39 class=commentCount> 2,121 Points 	68 Comments </p>
+<div id=40 class=upVoteBtn>  </div>
+<div id=41 class=downVoteBtn>  </div>
+<img id=42 class=commentBtn>  </img>
+<button id=43 class=btnMoreAction>  </button>
+<p id=44 class=btnMore> Share </p>
+<div id=45 class=divider>  </div>
+<div id=46 class=adDividerTop>  </div>
+<p id=47 class=adPostTitle>  </p>
+<img id=48 class=async_image>  </img>
+<p id=49 class=adBody>  </p>
+<p id=50> Sponsored </p>
+<div id=51>  </div>
+<p id=52 class=btnCTA>  </p>
+<div id=53 class=adDivider>  </div>
+<div id=54 class=dividerTop>  </div>
+<p id=55 class=postTitle> GaMe TroLLing </p>
+<div id=56 class=gifView>  </div>
+<div id=57 class=playerCover>  </div>
+<div id=58 class=image>  </div>
+<img id=59 class=badge>  </img>
+<img id=60 class=retryImage>  </img>
+<div id=61 class=mobileCoverSaw>  </div>
+<p id=62 class=mobileCoverMessage> Expand Post </p>
+<p id=63 class=commentCount> 10,703 Points 	124 Comments </p>
+<div id=64 class=upVoteBtn>  </div>
+<div id=65 class=downVoteBtn>  </div>
+<img id=66 class=commentBtn>  </img>
+<button id=67 class=btnMoreAction>  </button>
+<p id=68 class=btnMore> Share </p>
+<div id=69 class=divider>  </div>
+<div id=70 class=adDividerTop>  </div>
+<p id=71 class=adPostTitle>  </p>
+<img id=72 class=async_image>  </img>
+<p id=73 class=adBody>  </p>
+<p id=74> Sponsored </p>
+<div id=75>  </div>
+<p id=76 class=btnCTA>  </p>
+<div id=77 class=adDivider>  </div>
+<img id=78 class=newPostsButtonIcon>  </img>
+<p id=79 class=new_posts_button> New posts </p>
+<div id=80>  </div>
+<div id=81 class=dividerTop>  </div>
+<p id=82 class=postTitle> Fox thinks bed sheets are snow </p>
+<div id=83 class=gifView>  </div>
+<div id=84 class=playerCover>  </div>
+<div id=85 class=image>  </div>
+<img id=86 class=badge>  </img>
+<img id=87 class=retryImage>  </img>
+<div id=88 class=mobileCoverSaw>  </div>
+<p id=89 class=mobileCoverMessage> Expand Post </p>
+<p id=90 class=commentCount> 137 Points 	10 Comments </p>
+<div id=91 class=upVoteBtn>  </div>
+<div id=92 class=downVoteBtn>  </div>
+<img id=93 class=commentBtn>  </img>
+<button id=94 class=btnMoreAction>  </button>
+<p id=95 class=btnMore> Share </p>
+<div id=96 class=divider>  </div>
+<div id=97 class=adDividerTop>  </div>
+<p id=98 class=adPostTitle>  </p>
+<img id=99 class=async_image>  </img>
+<p id=100 class=adBody>  </p>
+<p id=101> Sponsored </p>
+<div id=102>  </div>
+<p id=103 class=btnCTA>  </p>
+<div id=104 class=adDivider>  </div>
+<img id=105 class=newPostsButtonIcon>  </img>
+<p id=106 class=new_posts_button> New posts </p>
+<p id=107> 9GAG </p>
+<div id=108 class=action_upload alt="['Upload']">  </div>
+<p id=109> Hot </p>
+<p id=110> Trending </p>
+<p id=111> Fresh </p>
+<img id=112 class=icon>  </img>
+<p id=113 class=label> Home </p>
+<img id=114 class=icon>  </img>
+<p id=115 class=label> Explore </p>
+<img id=116 class=icon>  </img>
+<p id=117 class=label> Videos </p>
+<img id=118 class=icon>  </img>
+<p id=119 class=label> News </p>
+<img id=120 class=icon>  </img>
+<p id=121 class=label> Profile </p>
+<div id=122 class=navigationBarBackground>  </div>
+<div id=123 class=statusBarBackground>  </div>
+
+
+Screen 4:
+
+<div id=0 class=menu_search alt="['Search']">  </div>
+<p id=1> French </p>
+<img id=2>  </img>
+<button id=3 alt="['Open navigation drawer']">  </button>
+<button id=4 class=speakbutton alt="['bader']">  </button>
+<p id=5 class=aword> bader </p>
+<button id=6 class=bookmarkbutton alt="['Add bookmark']">  </button>
+<div id=7>  </div>
+<div id=8>  </div>
+<div id=9>  </div>
+<button id=10 class=backbutton>  </button>
+<button id=11 class=fwdbutton>  </button>
+<p id=12 class=filler1>  </p>
+<button id=13 class=shufflebutton alt="['Random word']">  </button>
+<button id=14 class=copybutton>  </button>
+<button id=15 class=speakpagebutton alt="['Read Aloud']">  </button>
+<button id=16 class=sharebutton alt="['Share']">  </button>
+<p id=17 class=filler2>  </p>
+<img id=18 class=icon>  </img>
+<p id=19 class=text> History </p>
+<img id=20 class=icon>  </img>
+<p id=21 class=text> Bookmarks </p>
+<img id=22 class=icon>  </img>
+<p id=23 class=text> Random word </p>
+<img id=24 class=icon>  </img>
+<p id=25 class=text> Settings </p>
+<img id=26 class=icon>  </img>
+<p id=27 class=text> Backup </p>
+<img id=28 class=icon>  </img>
+<p id=29 class=text> Restore </p>
+<img id=30 class=icon>  </img>
+<p id=31 class=text> About </p>
+<img id=32 class=icon>  </img>
+<p id=33 class=text> Exit </p>
+<div id=34 class=navigationBarBackground>  </div>
+<div id=35 class=statusBarBackground>  </div>
+
+
+{'0': '122', '1': '113', '2': '53869', '3': '59025', '4': '35303'}

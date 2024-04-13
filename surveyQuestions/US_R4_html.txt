@@ -1,0 +1,418 @@
+Screen 0:
+
+<img id=0 class=application_root_view_background_holder_1>  </img>
+<img id=1 class=menu_button_icon>  </img>
+<img id=2 class=page_header_find>  </img>
+<img id=3 class=page_header_icon>  </img>
+<p id=4 class=page_header_location> MEMPHIS, TN </p>
+<div id=5 class=page_header_menu_click>  </div>
+<div id=6 class=page_header_icon_click>  </div>
+<div id=7 class=page_header_find_click>  </div>
+<p id=8 class=current_location_btn> Memphis, TN </p>
+<img id=9 class=menu_button_icon>  </img>
+<div id=10 class=top_bar_bottom_divider>  </div>
+<img id=11 class=application_root_view_advertising_separator>  </img>
+<div id=12 class=application_root_view_advertising_bottom_holder>  </div>
+<div id=13>  </div>
+<button id=14> Home </button>
+<button id=15> Hourly </button>
+<button id=16> Daily </button>
+<button id=17> Radar </button>
+<div id=18 class=application_root_view_content_within_bars>  </div>
+<img id=19 class=settings_button>  </img>
+<img id=20 class=drawer_left_icon>  </img>
+<p id=21 class=drawer_item_title> Use Current Location </p>
+<img id=22 class=drawer_right_icon>  </img>
+<p id=23 class=drawer_right_indicator_text>  </p>
+<img id=24 class=drawer_left_icon>  </img>
+<p id=25 class=drawer_item_title> Memphis, TN </p>
+<img id=26 class=drawer_right_icon>  </img>
+<p id=27 class=drawer_right_indicator_text>  </p>
+<div id=28 class=drawer_separator_in_list>  </div>
+<img id=29 class=drawer_left_icon>  </img>
+<p id=30 class=drawer_item_title> Manage Locations </p>
+<img id=31 class=drawer_right_icon>  </img>
+<p id=32 class=drawer_right_indicator_text>  </p>
+<img id=33 class=drawer_left_icon>  </img>
+<p id=34 class=drawer_item_title> Settings </p>
+<img id=35 class=drawer_right_icon>  </img>
+<p id=36 class=drawer_right_indicator_text>  </p>
+<img id=37 class=drawer_left_icon>  </img>
+<p id=38 class=drawer_item_title> Feedback </p>
+<img id=39 class=drawer_right_icon>  </img>
+<p id=40 class=drawer_right_indicator_text>  </p>
+<img id=41 class=drawer_left_icon>  </img>
+<p id=42 class=drawer_item_title> Help </p>
+<img id=43 class=drawer_right_icon>  </img>
+<p id=44 class=drawer_right_indicator_text>  </p>
+<div id=45 class=drawer_separator_in_list>  </div>
+<p id=46 class=drawer_item_title>  </p>
+<p id=47 class=drawer_item_title2>  </p>
+<img id=48 class=drawer_right_icon>  </img>
+<p id=49 class=drawer_right_indicator_text>  </p>
+<p id=50 class=locations_title> Select a Location </p>
+<div id=51>  </div>
+<img id=52 class=location_spec_icon>  </img>
+<p id=53 class=location_item_alias> Use Current Location </p>
+<div id=54 class=location_screen_list_item_separator>  </div>
+<p id=55 class=location_item_alias> Memphis, TN </p>
+<div id=56 class=locations_selection_filler_line>  </div>
+<div id=57>  </div>
+<div id=58>  </div>
+<div id=59>  </div>
+<button id=60 class=locations_add> Add Location </button>
+<div id=61>  </div>
+<div id=62 class=navigationBarBackground>  </div>
+<div id=63 class=statusBarBackground>  </div>
+
+
+Screen 1:
+
+<p id=0 class=title> Refresh </p>
+<p id=1 class=title> Forward </p>
+<p id=2 class=title> Bookmarks </p>
+<p id=3 class=title> Save to bookmarks </p>
+<p id=4 class=title> Share page </p>
+<p id=5 class=title> Find on page </p>
+<p id=6 class=title> Request desktop site </p>
+<div id=7 class=checkbox>  </div>
+<p id=8 class=title> Settings </p>
+
+
+Screen 2:
+
+<p id=0 class=title> Laser | Pac-Man Wiki | Fandom powered by Wikia </p>
+<img id=1 class=closetab alt="['Close tab']">  </img>
+<img id=2 class=tab_view alt="['Laser | Pac-Man Wiki | Fandom powered by Wikia']">  </img>
+<p id=3 class=title> The Tomb of Sargeras™ </p>
+<img id=4 class=closetab alt="['Close tab']">  </img>
+<img id=5 class=tab_view alt="['The Tomb of Sargeras™']">  </img>
+<p id=6 class=title> 37.7754277, -122.4200587 to Dr Carlton B Goodlett Pl, San Francisco, CA 94102 - Google Maps </p>
+<img id=7 class=closetab alt="['Close tab']">  </img>
+<img id=8 class=tab_view alt="['37.7754277, -122.4200587 to Dr Carlton B Goodlett Pl, San Francisco, CA 94102 - Google Maps']">  </img>
+<p id=9 class=title> Kaizen for your work place </p>
+<img id=10 class=closetab alt="['Close tab']">  </img>
+<img id=11 class=tab_view alt="['Kaizen for your work place']">  </img>
+<p id=12 class=title> Kaizen for your work place </p>
+<img id=13 class=closetab alt="['Close tab']">  </img>
+<img id=14 class=tab_view alt="['Kaizen for your work place']">  </img>
+<p id=15 class=title> Loading… </p>
+<img id=16 class=closetab alt="['Close tab']">  </img>
+<img id=17 class=tab_view alt="['Loading…']">  </img>
+<p id=18 class=title> Loading… </p>
+<img id=19 class=closetab alt="['Close tab']">  </img>
+<img id=20 class=tab_view alt="['Loading…']">  </img>
+<button id=21 class=newtab alt="['Open new tab']">  </button>
+<button id=22 class=bookmarks alt="['Bookmarks']">  </button>
+<button id=23 class=more alt="['More options']">  </button>
+<div id=24 class=error_console>  </div>
+<img id=25 class=favicon>  </img>
+<img id=26 class=stop alt="['Stop page load']">  </img>
+<div id=27 class=url> m.finishline.com/store/girls/_/N-goias6Z1slvvuc?icid=GA_GP_springessentialsgirls </div>
+<button id=28 class=tab_switcher alt="['Page manager']">  </button>
+<button id=29 class=more alt="['More options']">  </button>
+<div id=30 class=progress>  </div>
+<div id=31>  </div>
+
+
+Screen 3:
+
+<img id=0 class=ivBlockIcon>  </img>
+<p id=1 class=tvBlockName> Wheat </p>
+<p id=2 class=tvBlockMinecraftID> minecraft:wheat </p>
+<p id=3 class=tvBlockID> 296 </p>
+<div id=4>  </div>
+<p id=5 class=tvBlockStackableTitle> Stackable </p>
+<p id=6 class=tvBlockStackableValue> Yes (64) </p>
+<p id=7 class=tvBlockProperty1Title> Burning Time </p>
+<p id=8 class=tvBlockProperty1Value> 15 sek. </p>
+<p id=9 class=tvBlockProperty2Title> Durability </p>
+<p id=10 class=tvBlockProperty2Value> 256 </p>
+<div id=11 class=vBlockInfoboxDivider>  </div>
+<p id=12 class=tvBlockGetInfoTitle> How to get it </p>
+<img id=13 class=ivCraftingChainBlock>  </img>
+<img id=14 class=ivCraftingChainArrow1>  </img>
+<img id=15 class=ivCraftingChainTool>  </img>
+<img id=16 class=ivCraftingChainToolSilk>  </img>
+<img id=17 class=ivCraftingChainArrow2>  </img>
+<img id=18 class=ivCraftingChainResult>  </img>
+<p id=19 class=tvCraftingChainResultCount>  </p>
+<p id=20> Destroy fully-grown wheat crops. </p>
+<p id=21 class=tvBlockGetInfoText>  </p>
+<div id=22 class=vBlockGetInfoDivider>  </div>
+<img id=23 class=ivBlockWiki>  </img>
+<p id=24 class=tvBlockWikiTitle> Visit Minecraft Wiki </p>
+<div id=25 class=app_statusbar>  </div>
+<p id=26> Blocks & Items </p>
+<button id=27 alt="['Navigate up']">  </button>
+<div id=28 class=action_block_favorite alt="['Add to favorites']">  </div>
+<div id=29>  </div>
+<img id=30 class=ivDrawerHeader>  </img>
+<p id=31 class=tvDrawerTitle> CleverBook for Minecraft </p>
+<img id=32 class=ivDrawerItemIcon>  </img>
+<p id=33 class=tvDrawerItemTitle> Get the Pro version! </p>
+<img id=34 class=ivDrawerItemIcon>  </img>
+<p id=35 class=tvDrawerItemTitle> Home </p>
+<img id=36 class=ivDrawerItemIcon>  </img>
+<p id=37 class=tvDrawerItemTitle> Blocks & Items </p>
+<img id=38 class=ivDrawerItemIcon>  </img>
+<p id=39 class=tvDrawerItemTitle> Mobs </p>
+<img id=40 class=ivDrawerItemIcon>  </img>
+<p id=41 class=tvDrawerItemTitle> Biomes </p>
+<img id=42 class=ivDrawerItemIcon>  </img>
+<p id=43 class=tvDrawerItemTitle> Generated Structures </p>
+<img id=44 class=ivDrawerItemIcon>  </img>
+<p id=45 class=tvDrawerItemTitle> Enchantments </p>
+<img id=46 class=ivDrawerItemIcon>  </img>
+<p id=47 class=tvDrawerItemTitle> Potions </p>
+<img id=48 class=ivDrawerItemIcon>  </img>
+<p id=49 class=tvDrawerItemTitle> Redstone Circuits </p>
+<img id=50 class=ivDrawerItemIcon>  </img>
+<p id=51 class=tvDrawerItemTitle> Achievements </p>
+<img id=52 class=ivDrawerItemIcon>  </img>
+<p id=53 class=tvDrawerItemTitle> Commands </p>
+<div id=54>  </div>
+<img id=55 class=ivDrawerItemIcon>  </img>
+<p id=56 class=tvDrawerItemTitle> Settings </p>
+<div id=57 class=navigationBarBackground>  </div>
+
+
+Screen 4:
+
+<img id=0 class=ivBlockIcon>  </img>
+<p id=1 class=tvBlockName> Stone </p>
+<p id=2 class=tvBlockMinecraftID> minecraft:stone </p>
+<p id=3 class=tvBlockID> 1 </p>
+<div id=4>  </div>
+<p id=5 class=tvBlockStackableTitle> Stackable </p>
+<p id=6 class=tvBlockStackableValue> Yes (64) </p>
+<p id=7 class=tvBlockProperty1Title> Blast resistance </p>
+<p id=8 class=tvBlockProperty1Value> 30 </p>
+<p id=9 class=tvBlockProperty2Title> Durability </p>
+<p id=10 class=tvBlockProperty2Value> 256 </p>
+<div id=11 class=vBlockInfoboxDivider>  </div>
+<p id=12 class=tvBlockGetInfoTitle> How to get it </p>
+<img id=13 class=ivCraftingChainBlock>  </img>
+<img id=14 class=ivCraftingChainArrow1>  </img>
+<img id=15 class=ivCraftingChainTool>  </img>
+<img id=16 class=ivCraftingChainToolSilk>  </img>
+<img id=17 class=ivCraftingChainArrow2>  </img>
+<img id=18 class=ivCraftingChainResult>  </img>
+<p id=19 class=tvCraftingChainResultCount>  </p>
+<p id=20> Smelt cobblestone. </p>
+<img id=21 class=ivCraftingChainBlock>  </img>
+<img id=22 class=ivCraftingChainArrow1>  </img>
+<img id=23 class=ivCraftingChainTool>  </img>
+<img id=24 class=ivCraftingChainToolSilk>  </img>
+<img id=25 class=ivCraftingChainArrow2>  </img>
+<img id=26 class=ivCraftingChainResult>  </img>
+<p id=27 class=tvCraftingChainResultCount>  </p>
+<p id=28> Destroy stone using a pickaxe enchanted with silk touch. </p>
+<p id=29 class=tvBlockGetInfoText>  </p>
+<div id=30 class=vBlockGetInfoDivider>  </div>
+<img id=31 class=ivBlockWiki>  </img>
+<p id=32 class=tvBlockWikiTitle> Visit Minecraft Wiki </p>
+<div id=33 class=app_statusbar>  </div>
+<p id=34> Blocks & Items </p>
+<button id=35 alt="['Navigate up']">  </button>
+<div id=36 class=action_block_favorite alt="['Add to favorites']">  </div>
+<div id=37>  </div>
+<img id=38 class=ivDrawerHeader>  </img>
+<p id=39 class=tvDrawerTitle> CleverBook for Minecraft </p>
+<img id=40 class=ivDrawerItemIcon>  </img>
+<p id=41 class=tvDrawerItemTitle> Get the Pro version! </p>
+<img id=42 class=ivDrawerItemIcon>  </img>
+<p id=43 class=tvDrawerItemTitle> Home </p>
+<img id=44 class=ivDrawerItemIcon>  </img>
+<p id=45 class=tvDrawerItemTitle> Blocks & Items </p>
+<img id=46 class=ivDrawerItemIcon>  </img>
+<p id=47 class=tvDrawerItemTitle> Mobs </p>
+<img id=48 class=ivDrawerItemIcon>  </img>
+<p id=49 class=tvDrawerItemTitle> Biomes </p>
+<img id=50 class=ivDrawerItemIcon>  </img>
+<p id=51 class=tvDrawerItemTitle> Generated Structures </p>
+<img id=52 class=ivDrawerItemIcon>  </img>
+<p id=53 class=tvDrawerItemTitle> Enchantments </p>
+<img id=54 class=ivDrawerItemIcon>  </img>
+<p id=55 class=tvDrawerItemTitle> Potions </p>
+<img id=56 class=ivDrawerItemIcon>  </img>
+<p id=57 class=tvDrawerItemTitle> Redstone Circuits </p>
+<img id=58 class=ivDrawerItemIcon>  </img>
+<p id=59 class=tvDrawerItemTitle> Achievements </p>
+<img id=60 class=ivDrawerItemIcon>  </img>
+<p id=61 class=tvDrawerItemTitle> Commands </p>
+<div id=62>  </div>
+<img id=63 class=ivDrawerItemIcon>  </img>
+<p id=64 class=tvDrawerItemTitle> Settings </p>
+<div id=65 class=navigationBarBackground>  </div>
+
+
+Screen 5:
+
+<div id=0 class=camSurface>  </div>
+<img id=1 class=camOverlay>  </img>
+<img id=2 class=camFlip>  </img>
+<div id=3 class=zoom_seekbar>  </div>
+<p id=4 class=capturemenulabel> Capture </p>
+<img id=5 class=capturemenuitemicon>  </img>
+<p id=6 class=capturemenulabel> Every 2 secs </p>
+<img id=7 class=capturemenuitemicon>  </img>
+<p id=8 class=capturemenulabel> 480P </p>
+<img id=9 class=capturemenuitemicon>  </img>
+<p id=10 class=capturemenulabel> More </p>
+<img id=11 class=capturemenuitemicon>  </img>
+<p id=12 class=capturemenulabel> Cancel </p>
+<img id=13 class=capturemenuitemicon>  </img>
+<p id=14>  </p>
+<div id=15 class=navigationBarBackground>  </div>
+
+
+Screen 6:
+
+<img id=0 class=ivBlockIcon>  </img>
+<p id=1 class=tvBlockName> Wooden Pickaxe </p>
+<p id=2 class=tvBlockMinecraftID> minecraft:wooden_pickaxe </p>
+<p id=3 class=tvBlockID> 270 </p>
+<p id=4 class=tvBlockSpecialtyTitle> Damage per second </p>
+<p id=5 class=tvBlockSpecialtyValue> 2.4 </p>
+<div id=6>  </div>
+<p id=7 class=tvBlockStackableTitle> Stackable </p>
+<p id=8 class=tvBlockStackableValue> No </p>
+<p id=9 class=tvBlockProperty1Title> Burning Time </p>
+<p id=10 class=tvBlockProperty1Value> 10 sec. </p>
+<p id=11 class=tvBlockProperty2Title> Durability </p>
+<p id=12 class=tvBlockProperty2Value> 60 </p>
+<div id=13 class=vBlockInfoboxDivider>  </div>
+<p id=14 class=tvBlockGetInfoTitle> How to get it </p>
+<img id=15 class=ivCraftingGrid1>  </img>
+<img id=16 class=ivCraftingGrid2>  </img>
+<img id=17 class=ivCraftingGrid3>  </img>
+<img id=18 class=ivCraftingGrid4>  </img>
+<img id=19 class=ivCraftingGrid5>  </img>
+<img id=20 class=ivCraftingGrid6>  </img>
+<img id=21 class=ivCraftingGrid7>  </img>
+<img id=22 class=ivCraftingGrid8>  </img>
+<img id=23 class=ivCraftingGrid9>  </img>
+<img id=24 class=ivCraftingGridArrow>  </img>
+<img id=25 class=ivCraftingGridResult>  </img>
+<p id=26 class=tvCraftingGridResultCount>  </p>
+<p id=27 class=tvCraftingGridDesc>  </p>
+<p id=28 class=tvBlockGetInfoText>  </p>
+<div id=29 class=vBlockGetInfoDivider>  </div>
+<img id=30 class=ivBlockWiki>  </img>
+<p id=31 class=tvBlockWikiTitle> Visit Minecraft Wiki </p>
+<div id=32 class=app_statusbar>  </div>
+<p id=33> Blocks & Items </p>
+<button id=34 alt="['Navigate up']">  </button>
+<div id=35 class=action_block_favorite alt="['Add to favorites']">  </div>
+<div id=36>  </div>
+<img id=37 class=ivDrawerHeader>  </img>
+<p id=38 class=tvDrawerTitle> CleverBook for Minecraft </p>
+<img id=39 class=ivDrawerItemIcon>  </img>
+<p id=40 class=tvDrawerItemTitle> Get the Pro version! </p>
+<img id=41 class=ivDrawerItemIcon>  </img>
+<p id=42 class=tvDrawerItemTitle> Home </p>
+<img id=43 class=ivDrawerItemIcon>  </img>
+<p id=44 class=tvDrawerItemTitle> Blocks & Items </p>
+<img id=45 class=ivDrawerItemIcon>  </img>
+<p id=46 class=tvDrawerItemTitle> Mobs </p>
+<img id=47 class=ivDrawerItemIcon>  </img>
+<p id=48 class=tvDrawerItemTitle> Biomes </p>
+<img id=49 class=ivDrawerItemIcon>  </img>
+<p id=50 class=tvDrawerItemTitle> Generated Structures </p>
+<img id=51 class=ivDrawerItemIcon>  </img>
+<p id=52 class=tvDrawerItemTitle> Enchantments </p>
+<img id=53 class=ivDrawerItemIcon>  </img>
+<p id=54 class=tvDrawerItemTitle> Potions </p>
+<img id=55 class=ivDrawerItemIcon>  </img>
+<p id=56 class=tvDrawerItemTitle> Redstone Circuits </p>
+<img id=57 class=ivDrawerItemIcon>  </img>
+<p id=58 class=tvDrawerItemTitle> Achievements </p>
+<img id=59 class=ivDrawerItemIcon>  </img>
+<p id=60 class=tvDrawerItemTitle> Commands </p>
+<div id=61>  </div>
+<img id=62 class=ivDrawerItemIcon>  </img>
+<p id=63 class=tvDrawerItemTitle> Settings </p>
+<div id=64 class=navigationBarBackground>  </div>
+
+
+Screen 7:
+
+<img id=0>  </img>
+<p id=1 class=title> Lucky Blocks </p>
+<img id=2>  </img>
+<div id=3 class=wbdesc>  </div>
+<button id=4 class=btnNext> Install Mod </button>
+<div id=5>  </div>
+<div id=6 class=adAdmob>  </div>
+<p id=7> Lucky Blocks </p>
+<div id=8>  </div>
+<div id=9 class=navigationBarBackground>  </div>
+<div id=10 class=statusBarBackground>  </div>
+
+
+Screen 8:
+
+<div id=0 class=panelDefaultFocus>  </div>
+<p id=1> Add Father </p>
+<button id=2>  </button>
+<div id=3 class=action_save alt="['Save']"> Save </div>
+<p id=4 class=given_name> Timothy </p>
+<p id=5 class=surname> Lee </p>
+<img id=6 class=person_photo>  </img>
+<p id=7 class=linked_to_label> A %1$s relationship will be created between %2$s and: </p>
+<img id=8 class=profile_image>  </img>
+<p id=9 class=profile_name> (Facebook User) </p>
+<p id=10 class=profile_relationship> (Facebook relationship) </p>
+<div id=11 class=profile_divider>  </div>
+<button id=12 class=remove_button>  </button>
+<p id=13> Gender </p>
+<button id=14 class=radio_male> Male </button>
+<button id=15 class=radio_female> Female </button>
+<button id=16 class=radio_unknown> Unknown </button>
+<p id=17 class=label> Birth </p>
+<input id=18 class=edit_date> 8 Aug 1952 </input>
+<img id=19 class=button_show_date_keyboard>  </img>
+<img id=20 class=button_clear_date>  </img>
+<p id=21 class=auto_complete_location> San Francisco, San Francisco, California, USA </p>
+<img id=22 class=button_clear_location>  </img>
+<div id=23 class=add_person_living_switch> This person is living </div>
+<p id=24 class=label> Death </p>
+<input id=25 class=edit_date>  </input>
+<img id=26 class=button_show_date_keyboard>  </img>
+<p id=27 class=auto_complete_location>  </p>
+<div id=28 class=statusBarBackground>  </div>
+<div id=29 class=navigationBarBackground>  </div>
+
+
+Screen 9:
+
+<div id=0 class=error_console>  </div>
+<img id=1 class=favicon>  </img>
+<img id=2 class=lock>  </img>
+<div id=3 class=url> https://www.verizonwireless.com/plans/verizon-plan/?cmp=BAC-C-HQ-NON-A-AW-NONE-NONE-2K0PX0-PX-GAW-71700000015226434&cvosrc=display.gdn.GDN_TOFPlans_ActiveShoppersOtherProperties&cvo_pid=58700001474697899&cvo_campaign=71700000015226434&gclid=CKG517nY-dACFSoHMgodbUYCcQ&gclsrc=ds </div>
+<button id=4 class=tab_switcher alt="['Page manager']">  </button>
+<button id=5 class=more alt="['More options']">  </button>
+<div id=6 class=progress>  </div>
+<div id=7>  </div>
+<p id=8 class=title> Webpage not available </p>
+<img id=9 class=closetab alt="['Close tab']">  </img>
+<img id=10 class=tab_view alt="['Webpage not available']">  </img>
+<p id=11 class=title> Taptrip </p>
+<img id=12 class=closetab alt="['Close tab']">  </img>
+<img id=13 class=tab_view alt="['Taptrip']">  </img>
+<p id=14 class=title> Welcome to Facebook </p>
+<img id=15 class=closetab alt="['Close tab']">  </img>
+<img id=16 class=tab_view alt="['Welcome to Facebook']">  </img>
+<p id=17 class=title> GPS Status - MobiWIA </p>
+<img id=18 class=closetab alt="['Close tab']">  </img>
+<img id=19 class=tab_view alt="['GPS Status - MobiWIA']">  </img>
+<p id=20 class=title> Sign In </p>
+<img id=21 class=closetab alt="['Close tab']">  </img>
+<img id=22 class=tab_view alt="['Sign In']">  </img>
+<button id=23 class=newtab alt="['Open new tab']">  </button>
+<button id=24 class=bookmarks alt="['Bookmarks']">  </button>
+<button id=25 class=more alt="['More options']">  </button>
+
+
+{'0': '29801', '1': '39085', '2': '39082', '3': '65094', '4': '65097', '5': '65310', '6': '65096', '7': '20815', '8': '37918', '9': '32110'}

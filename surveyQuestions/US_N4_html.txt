@@ -1,0 +1,247 @@
+Screen 0:
+
+<p id=0> Favorites </p>
+<button id=1 alt="['FotMob']">  </button>
+<button id=2 alt="['More options']">  </button>
+<p id=3 class=txtRankValue> 2 </p>
+<p id=4 class=TextView02> Previous match </p>
+<p id=5 class=txtPrevMatch> Lost against Seattle Sounders FC 0 - 1 </p>
+<p id=6 class=lblTeam> Colorado Rapids </p>
+<p id=7 class=txtLeaguename> Next match </p>
+<p id=8 class=txtNextMatch>  </p>
+<img id=9 class=imgAlerts>  </img>
+<img id=10 class=itImageView>  </img>
+<p id=11 class=txtRank> Rank </p>
+<p id=12 class=txtRankValue> 6 </p>
+<p id=13 class=TextView02> Previous match </p>
+<p id=14 class=txtPrevMatch> Lost against Colorado Rapids 4 - 1 </p>
+<p id=15 class=lblTeam> LA Galaxy </p>
+<p id=16 class=txtLeaguename> Next match </p>
+<p id=17 class=txtNextMatch>  </p>
+<img id=18 class=imgAlerts>  </img>
+<img id=19 class=itImageView>  </img>
+<p id=20 class=txtRank> Rank </p>
+<div id=21 class=searchList>  </div>
+<button id=22>  </button>
+<div id=23>  </div>
+<input id=24 class=editText_search>  </input>
+<div id=25 class=navigation_header_container>  </div>
+<p id=26 class=txtLabel>  </p>
+<div id=27>  </div>
+<img id=28 class=imageView_icon>  </img>
+<p id=29 class=textView_menu_item> All matches </p>
+<img id=30 class=imageView_icon>  </img>
+<p id=31 class=textView_menu_item> Ongoing </p>
+<img id=32 class=imageView_icon>  </img>
+<p id=33 class=textView_menu_item> Top news </p>
+<img id=34 class=imageView_icon>  </img>
+<p id=35 class=textView_menu_item> TV schedules </p>
+<img id=36 class=imageView_icon>  </img>
+<p id=37 class=textView_menu_item> Profile </p>
+<p id=38 class=textView_menu_group_header> Tables & news </p>
+<img id=39 class=imageView_expand_collapse>  </img>
+<img id=40 class=imageView_icon>  </img>
+<p id=41 class=textView_menu_item> Select league... </p>
+<img id=42 class=imageView_icon>  </img>
+<p id=43 class=textView_menu_item> Europa League </p>
+<img id=44 class=imageView_icon>  </img>
+<p id=45 class=textView_menu_item> MLS </p>
+<p id=46 class=textView_menu_group_header> Favorite teams </p>
+<img id=47 class=imageView_expand_collapse>  </img>
+<img id=48 class=imageView_icon>  </img>
+<p id=49 class=textView_menu_item> View favorites </p>
+<img id=50 class=imageView_icon>  </img>
+<p id=51 class=textView_menu_item> Colorado Rapids </p>
+<img id=52 class=imageView_icon>  </img>
+<p id=53 class=textView_menu_item> LA Galaxy </p>
+<div id=54 class=footerSep>  </div>
+<img id=55 class=imageView_icon>  </img>
+<p id=56 class=textView_menu_item> Search </p>
+<img id=57 class=imageView_icon>  </img>
+<p id=58 class=textView_menu_item> Settings </p>
+<div id=59 class=navigationBarBackground>  </div>
+<div id=60 class=statusBarBackground>  </div>
+
+
+Screen 1:
+
+<div id=0 class=first_gradient_imageView>  </div>
+<div id=1 class=second_gradient_imageView>  </div>
+<img id=2 class=landing_logo_img>  </img>
+<img id=3 class=img_caption>  </img>
+<p id=4 class=txt_caption> Get active </p>
+<img id=5 class=img_caption>  </img>
+<p id=6 class=txt_caption> Eat better </p>
+<button id=7 class=btn_join_fitbit> Join Fitbit </button>
+<button id=8 class=btn_log_in> Log in </button>
+<div id=9 class=navigationBarBackground>  </div>
+
+
+Screen 2:
+
+<p id=0 class=textView1> Select Vehicle </p>
+<p id=1 class=icon_text> GENERIC </p>
+<p id=2 class=icon_text> ACURA </p>
+<p id=3 class=icon_text> ALFA ROMEO </p>
+<p id=4 class=icon_text> ASTON MARTIN </p>
+<p id=5 class=icon_text> AUDI </p>
+<p id=6 class=icon_text> BUGATI </p>
+<p id=7 class=icon_text> BENTLEY </p>
+<p id=8 class=icon_text> BMW </p>
+<p id=9 class=icon_text> BYD </p>
+<p id=10 class=icon_text> BUICK </p>
+<p id=11 class=icon_text> CADILLAC </p>
+<p id=12 class=icon_text> CHEVROLET </p>
+<p id=13 class=icon_text> CHRYSLER </p>
+<p id=14 class=icon_text> CITROEN </p>
+<p id=15 class=icon_text> DAEWOO </p>
+<p id=16 class=icon_text> DAIHATSU </p>
+<p id=17 class=icon_text> DODGLE </p>
+<p id=18 class=icon_text> EAGLE </p>
+<p id=19 class=icon_text> FERRARI </p>
+<p id=20 class=icon_text> FIAT </p>
+<p id=21 class=icon_text> FORD </p>
+<p id=22 class=icon_text> GEO </p>
+<p id=23 class=icon_text> GMC </p>
+<p id=24 class=icon_text> HINO </p>
+<p id=25 class=icon_text> HOLDEN </p>
+<p id=26 class=icon_text> HONDA </p>
+<p id=27 class=icon_text> HUMMER </p>
+<p id=28 class=icon_text> HYUNDAI </p>
+<p id=29 class=icon_text> INFINITI </p>
+<p id=30 class=icon_text> ISUZU </p>
+<p id=31 class=icon_text> JAGUAR </p>
+<p id=32 class=icon_text> JEEP </p>
+<p id=33 class=icon_text> KIA </p>
+<p id=34 class=icon_text> LAMBORGHINI </p>
+<p id=35 class=icon_text> LAND ROVER </p>
+<p id=36 class=icon_text> LEXUS </p>
+<div id=37>  </div>
+<div id=38>  </div>
+<div id=39 class=navigationBarBackground>  </div>
+<div id=40 class=statusBarBackground>  </div>
+
+
+Screen 3:
+
+<button id=0 alt="['Open navigation drawer']">  </button>
+<div id=1 class=menuSearch alt="['Search']">  </div>
+<div id=2 class=menuFavorites alt="['Favorites']">  </div>
+<button id=3 alt="['More options']">  </button>
+<img id=4 class=imgRecipeImage>  </img>
+<p id=5 class=txtRecipeName> Greek Lemon Chicken With Potatoes </p>
+<p id=6 class=txtRecipeInfo> Duration 2 hrs  , for  4 persons </p>
+<div id=7>  </div>
+<img id=8 class=imgRecipeImage>  </img>
+<p id=9 class=txtRecipeName> Scalloped Potatoes </p>
+<p id=10 class=txtRecipeInfo> Duration 1 hrs  , for  6 persons </p>
+<div id=11>  </div>
+<img id=12 class=imgRecipeImage>  </img>
+<p id=13 class=txtRecipeName> 10 Layer Meat Veggie and Potato Dish </p>
+<p id=14 class=txtRecipeInfo> Duration 4 hrs  , for  8 persons </p>
+<div id=15>  </div>
+<img id=16 class=imgRecipeImage>  </img>
+<p id=17 class=txtRecipeName> African Meat Potatoes Casserole </p>
+<p id=18 class=txtRecipeInfo> Duration 2 hrs  , for  6 persons </p>
+<div id=19>  </div>
+<img id=20 class=imgRecipeImage>  </img>
+<p id=21 class=txtRecipeName> Baked Fish With Potatoes, Onions, Saffron and Paprika </p>
+<p id=22 class=txtRecipeInfo> Duration 30 mins , for  4 persons </p>
+<div id=23>  </div>
+<img id=24 class=imgRecipeImage>  </img>
+<p id=25 class=txtRecipeName> Barbecue  Potato Kabobs </p>
+<p id=26 class=txtRecipeInfo> Duration 10 mins , for  2 persons </p>
+<div id=27>  </div>
+<div id=28>  </div>
+<img id=29 class=imageView>  </img>
+<p id=30> All Recipes Food </p>
+<p id=31> Menu </p>
+<p id=32 class=design_menu_item_text> Home </p>
+<div id=33 class=design_menu_item_action_area>  </div>
+<p id=34 class=design_menu_item_text> Recipes </p>
+<div id=35 class=design_menu_item_action_area>  </div>
+<p id=36 class=design_menu_item_text> Favorites </p>
+<div id=37 class=design_menu_item_action_area>  </div>
+<div id=38>  </div>
+<p id=39> Other </p>
+<p id=40 class=design_menu_item_text> Rate us </p>
+<div id=41 class=design_menu_item_action_area>  </div>
+<p id=42 class=design_menu_item_text> Other App </p>
+<div id=43 class=design_menu_item_action_area>  </div>
+<p id=44 class=design_menu_item_text> About </p>
+<div id=45 class=design_menu_item_action_area>  </div>
+<div id=46 class=navigationBarBackground>  </div>
+<div id=47 class=statusBarBackground>  </div>
+
+
+Screen 4:
+
+<img id=0 class=image>  </img>
+<div id=1 class=overlay>  </div>
+<button id=2 alt="['Navigate up']">  </button>
+<div id=3 class=menuShare alt="['Share']">  </div>
+<p id=4 class=txtRecipeName> Scalloped Potatoes </p>
+<button id=5 class=fabFavorite>  </button>
+<div id=6>  </div>
+<div id=7>  </div>
+<img id=8>  </img>
+<p id=9 class=person> for  6 persons </p>
+<img id=10>  </img>
+<p id=11 class=duration> Duration 1 hrs  </p>
+<p id=12> INGREDIENTS </p>
+<div id=13>  </div>
+<p id=14 class=txtIngredients> 
+
+4 cups thinly sliced potatoes 
+
+3 tablespoons butter 
+
+3 tablespoons flour 
+
+1 1/2 cups milk 
+
+1 teaspoon salt 
+
+1 dash cayenne pepper 
+
+1 cup grated sharp cheddar cheese 
+
+1/2 cup grated cheese, to sprinkle on top 
+
+paprika 
+
+ </p>
+<p id=15> DIRECTIONS </p>
+<div id=16>  </div>
+<p id=17 class=txtSteps> 
+
+1. In a small sauce pan, melt butter and blend in flour..
+
+2. Let sit for a minute..
+
+3. Add all of cold milk, stirring with a whisk..
+
+4. Season with salt and cayenne..
+
+5. Cook sauce on low until smooth and boiling, stirring occasionally with a whisk..
+
+6. Reduce heat and stir in cheese..
+
+7. Place a half of the sliced potatoes in a lightly greased one quart casserole dish..
+
+8. Pour half of cheese sauce over potatoes..
+
+9. Repeat with second layer of potatoes and cheese sauce..
+
+10. Sprinkle the remaining cheese on top..
+
+11. Top with some paprika for color..
+
+12. Bake uncovered for about 1 hour at 350°F..
+
+ </p>
+<div id=18 class=navigationBarBackground>  </div>
+<div id=19 class=statusBarBackground>  </div>
+
+
+{'0': '52837', '1': '54746', '2': '62085', '3': '65087', '4': '65086'}

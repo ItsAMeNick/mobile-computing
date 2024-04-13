@@ -1,0 +1,251 @@
+Screen 0:
+
+<p id=0 class=header_title> กลรักเกมมายา Love and Lies‬ </p>
+<img id=1>  </img>
+<img id=2 class=alltvsocietyleveld_image>  </img>
+<img id=3 class=alltvsocietyleveld_videoview>  </img>
+<img id=4 class=alltvsocietyleveld_playpausebutton>  </img>
+<div id=5>  </div>
+<p id=6> Loading.. </p>
+<div id=7>  </div>
+<p id=8 class=alltvsocietyleveld_viewtext> view </p>
+<p id=9 class=alltvsocietyleveld_viewnum> (13,943) </p>
+<img id=10 class=alltvsocietyleveld_sharebutton>  </img>
+<img id=11 class=alltvsocietyleveld_infobutton>  </img>
+<img id=12 class=rowchannel_image>  </img>
+<p id=13 class=rowchannel_concurrent>  </p>
+<p id=14 class=rowchannel_name> เรื่องย่อละคร </p>
+<img id=15 class=rowchannel_image>  </img>
+<p id=16 class=rowchannel_concurrent>  </p>
+<p id=17 class=rowchannel_name> อัลบั้มภาพ </p>
+<img id=18 class=rowchannel_image>  </img>
+<p id=19 class=rowchannel_concurrent>  </p>
+<p id=20 class=rowchannel_name> ชมย้อนหลัง </p>
+<img id=21 class=rowchannel_image>  </img>
+<p id=22 class=rowchannel_concurrent>  </p>
+<p id=23 class=rowchannel_name> เกร็ดละคร </p>
+<img id=24 class=rowchannel_image>  </img>
+<p id=25 class=rowchannel_concurrent>  </p>
+<p id=26 class=rowchannel_name> เพลงละคร </p>
+<img id=27 class=rowchannel_image>  </img>
+<p id=28 class=rowchannel_concurrent>  </p>
+<p id=29 class=rowchannel_name> ข่าวละคร </p>
+<p id=30 class=alltvsocietyleveld_titlevideoinfo_land> กลรักเกมมายา Love and Lies‬ </p>
+<p id=31 class=alltvsocietyleveld_textinfo_land> กลรักเกมมายา Love and Lies‬
+ออกอากาศทุกวันจันทร์-อังคาร เวลา 20.00 น.
+ทางช่อง True4U เริ่มตอนแรก 9 มกราคม 2560 นี้ </p>
+<p id=32 class=alltvsocietyleveld_donebutton> Done </p>
+<p id=33 class=alltvsocietyleveld_titlevideoinfo> กลรักเกมมายา Love and Lies‬ </p>
+<p id=34 class=alltvsocietyleveld_textinfo> กลรักเกมมายา Love and Lies‬
+ออกอากาศทุกวันจันทร์-อังคาร เวลา 20.00 น.
+ทางช่อง True4U เริ่มตอนแรก 9 มกราคม 2560 นี้ </p>
+
+
+Screen 1:
+
+<p id=0> Meet </p>
+<div id=1 class=action_filters alt="['Filters']">  </div>
+<button id=2 alt="['More options']">  </button>
+<img id=3>  </img>
+<p id=4> Swipe to dismiss </p>
+<img id=5 class=profileImageView>  </img>
+<p id=6 class=profileNameTextView> Jammie </p>
+<p id=7 class=profileAgeTextView> 34 years old </p>
+<img id=8 class=profileLikeImageView>  </img>
+<img id=9>  </img>
+<p id=10> Swipe to dismiss </p>
+<img id=11 class=profileImageView>  </img>
+<p id=12 class=profileNameTextView> Danielle </p>
+<p id=13 class=profileAgeTextView> 25 years old </p>
+<img id=14 class=profileLikeImageView>  </img>
+<img id=15 class=requestEnterVoucherButton>  </img>
+<img id=16>  </img>
+<p id=17> Premium </p>
+<div id=18>  </div>
+<div id=19 class=premiumFeaturesViewPager>  </div>
+<div id=20>  </div>
+<div id=21 class=purchaseButtonsArea>  </div>
+<p id=22> You already have a subscription with another account. </p>
+<button id=23 class=restoreSubscriptionButton> Restore my subscription here </button>
+<img id=24>  </img>
+<p id=25> Her Premium Special Promotion </p>
+<p id=26> Enter your code below to redeem your Her Premium promotion </p>
+<input id=27 class=voucherCodeEditText>  </input>
+<button id=28 class=redeemVoucherCodeButton> Redeem code </button>
+<div id=29>  </div>
+<img id=30>  </img>
+<p id=31> Swipe to dismiss </p>
+<img id=32 class=profileImageView>  </img>
+<p id=33 class=profileNameTextView> Mick </p>
+<p id=34 class=profileAgeTextView> 25 years old </p>
+<img id=35 class=profileLikeImageView>  </img>
+<p id=36 class=whoLikedMeErrorView> There was an error loading the list of people that like you. Try again. </p>
+<img id=37 class=bb_bottom_bar_shadow>  </img>
+<img id=38 class=bb_bottom_bar_icon>  </img>
+<p id=39 class=bb_bottom_bar_title>  </p>
+<img id=40 class=bb_bottom_bar_icon>  </img>
+<p id=41 class=bb_bottom_bar_title>  </p>
+<img id=42 class=bb_bottom_bar_icon>  </img>
+<p id=43 class=bb_bottom_bar_title>  </p>
+<img id=44 class=bb_bottom_bar_icon>  </img>
+<p id=45 class=bb_bottom_bar_title>  </p>
+<img id=46 class=bb_bottom_bar_icon>  </img>
+<p id=47 class=bb_bottom_bar_title>  </p>
+<div id=48 class=gallery_pager>  </div>
+<button id=49 class=btn_gallery_close>  </button>
+<div id=50 class=navigationBarBackground>  </div>
+<div id=51 class=statusBarBackground>  </div>
+
+
+Screen 2:
+
+<img id=0 class=icon>  </img>
+<p id=1 class=title>  </p>
+<img id=2 class=icon>  </img>
+<p id=3 class=title>  </p>
+<img id=4 class=icon>  </img>
+<p id=5 class=title>  </p>
+<img id=6 class=icon>  </img>
+<p id=7 class=title>  </p>
+<img id=8 class=icon>  </img>
+<p id=9 class=title>  </p>
+<div id=10>  </div>
+<p id=11 class=textView8Diagfr> BATTERY </p>
+<p id=12 class=BATTinfofr> Status: Full charge
+Power source:Plugged to AC
+Health: Good
+Max charge: 100
+Current charge: 100
+Percentage: 100 %
+Technology: Li-ion
+Voltage: 4325
+Temperature: 33.0C° 91.4F°
+
+ </p>
+<div id=13>  </div>
+
+
+Screen 3:
+
+<img id=0 class=icon>  </img>
+<p id=1 class=title>  </p>
+<img id=2 class=icon>  </img>
+<p id=3 class=title>  </p>
+<img id=4 class=icon>  </img>
+<p id=5 class=title>  </p>
+<img id=6 class=icon>  </img>
+<p id=7 class=title>  </p>
+<img id=8 class=icon>  </img>
+<p id=9 class=title>  </p>
+<div id=10>  </div>
+<p id=11 class=textView6Diagfr> SENSORS </p>
+<p id=12 class=Sensorsinfofr> Invensense Accelerometer
+Invensense Magnetometer
+Invensense Magnetometer Uncalibrated
+Invensense Gyroscope
+Invensense Gyroscope Uncalibrated
+Invensense Proximity
+Invensense Light
+Invensense Barometer
+Invensense Accelerometer -Wakeup Secondary
+Invensense Magnetometer -Wakeup Secondary
+Invensense Magnetometer Uncalibrated -Wakeup Secondary
+Invensense Gyroscope -Wakeup Secondary
+Invensense Gyroscope Uncalibrated -Wakeup Secondary
+Invensense Proximity:Non Wakeup Secondary
+Invensense Light -Wakeup Secondary
+Invensense Barometer -Wakeup Secondary
+Invensense Rotation Vector
+Invensense Geomagnetic Rotation Vector
+Invensense Orientation
+Invensense Linear Acceleration
+Invensense Gravity
+Invensense Tilt
+Invensense Rotation Vector-Wakeup Secondary
+Invensense Geomagnetic Rotation Vector-Wakeup Secondary
+Invensense Orientation-Wakeup Secondary
+Invensense Linear Acceleration-Wakeup Secondary
+Invensense Gravity-Wakeup Secondary
+Device Position Classifier
+Invensense Step Detector
+Invensense Step Counter
+Invensense Significant Motion Detector
+Invensense Game Rotation Vector
+Invensense Step Detector-Wakeup Secondary
+Invensense Step Counter-Wakeup Secondary
+Invensense Game Rotation Vector-Wakeup Secondary </p>
+<div id=13>  </div>
+
+
+Screen 4:
+
+<p id=0 class=mute_icon> w </p>
+<p id=1 class=mute_text> Sound on </p>
+<div id=2 class=divider0>  </div>
+<p id=3 class=txtScore> 10 </p>
+<p id=4 class=txtScoreTitle> Score </p>
+<div id=5 class=divider1>  </div>
+<p id=6 class=txtTimeLeft> 0:18 </p>
+<p id=7 class=txtTimeTitle> Time </p>
+<div id=8 class=divider2>  </div>
+<p id=9 class=txtItemIndex> 2/10 </p>
+<p id=10> Question </p>
+<p id=11 class=txtTeaserWord> _____ a good idea to back up your files every week. </p>
+<button id=12 class=btnAnswer> Is </button>
+<button id=13 class=btnAnswer> It's </button>
+<button id=14 class=btnAnswer>  </button>
+<button id=15 class=btnAnswer>  </button>
+<div id=16 class=dummyView>  </div>
+<p id=17 class=feedbackTextView>  </p>
+<p id=18 class=txtExpandOrReduce> more </p>
+<p id=19 class=iconExpendOrReduce> / </p>
+<div id=20 class=bottomBannerLayout>  </div>
+<img id=21 class=nativeAdIcon>  </img>
+<div id=22>  </div>
+<p id=23 class=nativeAdTitle> IT Leadership </p>
+<p id=24 class=nativeAdBody> A study finds that CEOs want their senior IT executives to have the same high-level skills as... </p>
+<div id=25>  </div>
+<div id=26>  </div>
+<p id=27 class=ad_text> Ad </p>
+<img id=28 class=mopub_privacy_info_icon>  </img>
+<div id=29>  </div>
+<p id=30 class=nativeAdCallToAction> Read More </p>
+<div id=31>  </div>
+<div id=32>  </div>
+<p id=33 class=txtIcon> g </p>
+<p id=34 class=txtIconTitle> Home </p>
+<div id=35 class=drawer_list_divider>  </div>
+<p id=36 class=txtIcon> ' </p>
+<p id=37 class=txtIconTitle> Quick Quizzes </p>
+<div id=38 class=drawer_list_divider>  </div>
+<p id=39 class=txtIcon> 8 </p>
+<p id=40 class=txtIconTitle> Learn words </p>
+<div id=41 class=drawer_list_divider>  </div>
+<p id=42 class=txtIcon> 1 </p>
+<p id=43 class=txtIconTitle> My words </p>
+<div id=44 class=drawer_list_divider>  </div>
+<p id=45 class=txtIcon> { </p>
+<p id=46 class=txtIconTitle> Remove ads </p>
+<div id=47 class=drawer_list_divider>  </div>
+<p id=48 class=txtIcon> W </p>
+<p id=49 class=txtIconTitle> Share </p>
+<div id=50 class=drawer_list_divider>  </div>
+<p id=51 class=txtIcon> p </p>
+<p id=52 class=txtIconTitle> Contact us </p>
+<div id=53 class=drawer_list_divider>  </div>
+<p id=54 class=txtIcon> 5 </p>
+<p id=55 class=txtIconTitle> Settings </p>
+<div id=56 class=drawer_list_divider>  </div>
+<p id=57 class=txtIcon> A </p>
+<p id=58 class=txtIconTitle> Sign in </p>
+<img id=59 class=up>  </img>
+<img id=60 class=home>  </img>
+<p id=61 class=action_bar_title> Quick Quizzes </p>
+<p id=62 class=action_bar_subtitle> Common Errors </p>
+<img id=63 class=search_button alt="['Search']">  </img>
+<div id=64 class=search_src_text>  </div>
+<img id=65 class=search_close_btn alt="['Clear query']">  </img>
+<div id=66 class=action_speech alt="['Speech']">  </div>
+
+
+{'0': '23061', '1': '2234', '2': '36645', '3': '36643', '4': '23183'}

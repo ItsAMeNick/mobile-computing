@@ -1,0 +1,471 @@
+Screen 0:
+
+<div id=0 class=statusbar_toolbar_extension>  </div>
+<div id=1 class=player_detail_header_background>  </div>
+<div id=2>  </div>
+<div id=3>  </div>
+<div id=4 class=player_detail_header_player_image alt="['Player image']">  </div>
+<div id=5 class=player_detail_header_player_club_name> Arsenal </div>
+<div id=6 class=player_detail_header_player_jersey_number> 8 </div>
+<div id=7 class=player_detail_header_player_club_logo alt="['Team logo']">  </div>
+<button id=8>  </button>
+<p id=9> Aaron Ramsey </p>
+<div id=10>  </div>
+<div id=11>  </div>
+<div id=12> Profile </div>
+<div id=13> Statistics </div>
+<div id=14> All stories </div>
+<div id=15 class=no_connection_retry alt="['Retry button']">  </div>
+<div id=16 class=no_connection_label> No network connection </div>
+<div id=17 class=no_connection_retry alt="['Retry button']">  </div>
+<div id=18 class=no_connection_label> No network connection </div>
+<p id=19 class=title> Group stage to final </p>
+<div id=20 class=arrow>  </div>
+<div id=21 class=player_stats_matches_title> Matches </div>
+<div id=22 class=player_stats_matches> 2 </div>
+<div id=23 class=player_stats_minutes_title> Minutes </div>
+<div id=24 class=player_stats_minutes> 165 </div>
+<div id=25 class=stats_comp_title> Total attempts </div>
+<div id=26 class=stats_main_number> 4 </div>
+<div id=27 class=stats_comp_progress_text_one> 2 </div>
+<div id=28>  </div>
+<div id=29>  </div>
+<div id=30 class=stats_comp_progress_value_one>  </div>
+<div id=31>  </div>
+<div id=32 class=stats_comp_progress_value_two>  </div>
+<div id=33>  </div>
+<div id=34 class=stats_comp_progress_text_two> 0.9 </div>
+<div id=35 class=stats_average_legend_left> Average per game </div>
+<div id=36 class=stats_average_legend_right> Midfielders average </div>
+<div id=37 class=stats_head_divider>  </div>
+<div id=38 class=stats_table_row_name> Off target </div>
+<div id=39 class=stats_table_row_value> 3 </div>
+<div id=40>  </div>
+<div id=41 class=stats_table_row_name> Blocked </div>
+<div id=42 class=stats_table_row_value> 1 </div>
+<div id=43>  </div>
+<div id=44 class=stats_table_row_name> Against woodwork </div>
+<div id=45 class=stats_table_row_value> 0 </div>
+<div id=46 class=no_connection_retry alt="['Retry button']">  </div>
+<div id=47 class=no_connection_label> No network connection </div>
+<div id=48 class=player_info_position_title> Position </div>
+<div id=49 class=player_info_position> Midfielder </div>
+<div id=50 class=player_info_position_divider>  </div>
+<div id=51 class=player_info_age_title> Age </div>
+<div id=52 class=player_info_age> 25 </div>
+<div id=53 class=player_info_country_title> Country </div>
+<div id=54 class=player_info_country> WAL </div>
+<div id=55 class=player_info_second_divider>  </div>
+<div id=56 class=player_info_weight_title> Weight </div>
+<div id=57 class=player_info_weight> 76 kg </div>
+<div id=58 class=player_info_height_title> Height </div>
+<div id=59 class=player_info_height> 178 cm </div>
+<div id=60>  </div>
+<div id=61> Bio </div>
+<div id=62 class=bio_preview_text> Widely hailed as the future of Welsh football, Ramsey became Cardiff's youngest first-team debutant in April 2007, aged 16 years and 124 days, eclipsing the previous record held by John Toshack.
+ </div>
+<div id=63 class=bio_preview_read_more> Read more </div>
+<div id=64 class=no_connection_retry alt="['Retry button']">  </div>
+<div id=65 class=no_connection_label> No network connection </div>
+<div id=66 class=news_header_text> November </div>
+<div id=67 class=article_image alt="['Video teaser image']">  </div>
+<div id=68 class=article_title> Vote now for the UEFA.com Team of the Year 2016 </div>
+<div id=69 class=article_sharing_button alt="['Share button']">  </div>
+<div id=70 class=article_image alt="['Video teaser image']">  </div>
+<div id=71 class=article_title> Team of the Year by numbers </div>
+<div id=72 class=article_sharing_button alt="['Share button']">  </div>
+<div id=73 class=statusbar_toolbar_extension>  </div>
+<div id=74 class=item_navigation_drawer_title> Home </div>
+<div id=75 class=item_navigation_drawer_title> Matches & Draws </div>
+<div id=76 class=item_navigation_drawer_title> Clubs </div>
+<div id=77 class=item_navigation_drawer_title> Players </div>
+<div id=78 class=item_navigation_drawer_title> Statistics </div>
+<div id=79 class=item_navigation_drawer_title> Standings </div>
+<div id=80 class=item_navigation_drawer_title> Play </div>
+<div id=81 class=item_navigation_drawer_title> All stories </div>
+<div id=82 class=item_navigation_drawer_title> History </div>
+<div id=83 class=item_navigation_drawer_title> Profile </div>
+<div id=84 class=item_navigation_drawer_small_extra_divider>  </div>
+<div id=85 class=item_navigation_drawer_title> Settings </div>
+<div id=86> Presented by </div>
+<div id=87 alt="['Drawer presented by image']">  </div>
+<div id=88 class=navigationBarBackground>  </div>
+
+
+Screen 1:
+
+<div id=0 class=statusbar_toolbar_extension>  </div>
+<p id=1> Pick your favourite club </p>
+<div id=2>  </div>
+<button id=3>  </button>
+<div id=4 class=search_mag_icon>  </div>
+<div id=5 class=search_src_text>  </div>
+<div id=6 class=no_connection_retry alt="['Retry button']">  </div>
+<div id=7 class=no_connection_label> No network connection </div>
+<div id=8 class=item_team_header>  </div>
+<div id=9 class=item_team_icon alt="['Team logo']">  </div>
+<div id=10 class=item_team_name> Tre Penne </div>
+<div id=11 class=item_team_country> SMR </div>
+<div id=12 class=item_team_header>  </div>
+<div id=13 class=item_team_icon alt="['Team logo']">  </div>
+<div id=14 class=item_team_name> Trenčín </div>
+<div id=15 class=item_team_country> SVK </div>
+<div id=16 class=item_team_header> V </div>
+<div id=17 class=item_team_icon alt="['Team logo']">  </div>
+<div id=18 class=item_team_name> Valletta </div>
+<div id=19 class=item_team_country> MLT </div>
+<div id=20 class=item_team_header>  </div>
+<div id=21 class=item_team_icon alt="['Team logo']">  </div>
+<div id=22 class=item_team_name> Vardar </div>
+<div id=23 class=item_team_country> MKD </div>
+<div id=24 class=item_team_header>  </div>
+<div id=25 class=item_team_icon alt="['Team logo']">  </div>
+<div id=26 class=item_team_name> Villarreal </div>
+<div id=27 class=item_team_country> ESP </div>
+<div id=28 class=item_team_header> Y </div>
+<div id=29 class=item_team_icon alt="['Team logo']">  </div>
+<div id=30 class=item_team_name> Young Boys </div>
+<div id=31 class=item_team_country> SUI </div>
+<div id=32 class=item_team_header> Z </div>
+<div id=33 class=item_team_icon alt="['Team logo']">  </div>
+<div id=34 class=item_team_name> Zrinjski </div>
+<div id=35 class=item_team_country> BIH </div>
+<div id=36 class=item_team_header> Ž </div>
+<div id=37 class=item_team_icon alt="['Team logo']">  </div>
+<div id=38 class=item_team_name> Žalgiris </div>
+<div id=39 class=item_team_country> LTU </div>
+<div id=40>  </div>
+<div id=41 class=statusbar_toolbar_extension>  </div>
+<div id=42 class=item_navigation_drawer_title> Home </div>
+<div id=43 class=item_navigation_drawer_title> Matches & Draws </div>
+<div id=44 class=item_navigation_drawer_title> Clubs </div>
+<div id=45 class=item_navigation_drawer_title> Players </div>
+<div id=46 class=item_navigation_drawer_title> Statistics </div>
+<div id=47 class=item_navigation_drawer_title> Standings </div>
+<div id=48 class=item_navigation_drawer_title> Play </div>
+<div id=49 class=item_navigation_drawer_title> All stories </div>
+<div id=50 class=item_navigation_drawer_title> History </div>
+<div id=51 class=item_navigation_drawer_title> Profile </div>
+<div id=52 class=item_navigation_drawer_small_extra_divider>  </div>
+<div id=53 class=item_navigation_drawer_title> Settings </div>
+<div id=54> Presented by </div>
+<div id=55 alt="['Drawer presented by image']">  </div>
+<div id=56 class=navigationBarBackground>  </div>
+
+
+Screen 2:
+
+<div id=0 class=statusbar_toolbar_extension>  </div>
+<div id=1 class=toolbar_logo alt="['UEFA Champions League logo']">  </div>
+<div id=2 alt="['Favourite and followed teams']">  </div>
+<button id=3>  </button>
+<div id=4 alt="['More options']">  </div>
+<div id=5 class=no_connection_retry alt="['Retry button']">  </div>
+<div id=6 class=no_connection_label> No network connection </div>
+<div id=7 class=home_team_logo alt="['Home team logo']">  </div>
+<p id=8 class=home_team_name> Paris </p>
+<div id=9 class=match_home_red_cards_layout>  </div>
+<div id=10 class=match_date> Today </div>
+<div id=11 class=match_date_time_divider>  </div>
+<div id=12 class=match_time> 19:45 </div>
+<div id=13 class=match_score_home>  </div>
+<div id=14 class=match_score_divider>  </div>
+<div id=15 class=match_score_away>  </div>
+<div id=16 class=counter_hours>  </div>
+<div id=17 class=counter_colon_one> : </div>
+<div id=18 class=counter_minutes>  </div>
+<div id=19 class=counter_colon_two> : </div>
+<div id=20 class=counter_seconds>  </div>
+<div id=21 class=counter_until_event> until kick-off </div>
+<div id=22 class=match_away_red_cards_layout>  </div>
+<div id=23 class=away_team_logo alt="['Away team logo']">  </div>
+<p id=24 class=away_team_name> Ludogorets </p>
+<div id=25 class=goals_home>  </div>
+<div id=26 class=goals_away>  </div>
+<div id=27 class=match_penalties_home_1> 1 </div>
+<div id=28 class=match_penalties_home_2> 2 </div>
+<div id=29 class=match_penalties_home_3> 3 </div>
+<div id=30 class=match_penalties_home_4> 4 </div>
+<div id=31 class=match_penalties_home_5> 5 </div>
+<div id=32 class=match_penalties_away_5> 5 </div>
+<div id=33 class=match_penalties_away_4> 4 </div>
+<div id=34 class=match_penalties_away_3> 3 </div>
+<div id=35 class=match_penalties_away_2> 2 </div>
+<div id=36 class=match_penalties_away_1> 1 </div>
+<div id=37 class=card_match_sharing_button alt="['Share button']">  </div>
+<div id=38 class=match_live_home_comment_minute>  </div>
+<div id=39 class=match_live_home_comment_txt>  </div>
+<div id=40 class=match_live_away_comment_txt>  </div>
+<div id=41 class=match_live_away_comment_minute>  </div>
+<div id=42>  </div>
+<div id=43 class=match_divider_pen_result>  </div>
+<div id=44 class=match_score_home_pen_result>  </div>
+<div id=45 class=match_score_divider_pen_result> Penalties </div>
+<div id=46 class=match_score_away_pen_result>  </div>
+<div id=47>  </div>
+<div id=48 class=aggregate_header>  </div>
+<div id=49 class=home_team_logo alt="['Home team logo']">  </div>
+<p id=50 class=home_team_name> Basel </p>
+<div id=51 class=match_home_red_cards_layout>  </div>
+<div id=52 class=match_date> Today </div>
+<div id=53 class=match_date_time_divider>  </div>
+<div id=54 class=match_time> 19:45 </div>
+<div id=55 class=match_score_home>  </div>
+<div id=56 class=match_score_divider>  </div>
+<div id=57 class=match_score_away>  </div>
+<div id=58 class=counter_hours>  </div>
+<div id=59 class=counter_colon_one> : </div>
+<div id=60 class=counter_minutes>  </div>
+<div id=61 class=counter_colon_two> : </div>
+<div id=62 class=counter_seconds>  </div>
+<div id=63 class=counter_until_event> until kick-off </div>
+<div id=64 class=match_away_red_cards_layout>  </div>
+<div id=65 class=away_team_logo alt="['Away team logo']">  </div>
+<p id=66 class=away_team_name> Arsenal </p>
+<div id=67 class=goals_home>  </div>
+<div id=68 class=goals_away>  </div>
+<div id=69 class=match_penalties_home_1> 1 </div>
+<div id=70 class=match_penalties_home_2> 2 </div>
+<div id=71 class=match_penalties_home_3> 3 </div>
+<div id=72 class=match_penalties_home_4> 4 </div>
+<div id=73 class=match_penalties_home_5> 5 </div>
+<div id=74 class=match_penalties_away_5> 5 </div>
+<div id=75 class=match_penalties_away_4> 4 </div>
+<div id=76 class=match_penalties_away_3> 3 </div>
+<div id=77 class=match_penalties_away_2> 2 </div>
+<div id=78 class=match_penalties_away_1> 1 </div>
+<div id=79 class=card_match_sharing_button alt="['Share button']">  </div>
+<div id=80 class=match_live_home_comment_minute>  </div>
+<div id=81 class=match_live_home_comment_txt>  </div>
+<div id=82 class=match_live_away_comment_txt>  </div>
+<div id=83 class=match_live_away_comment_minute>  </div>
+<div id=84>  </div>
+<div id=85 class=match_divider_pen_result>  </div>
+<div id=86 class=match_score_home_pen_result>  </div>
+<div id=87 class=match_score_divider_pen_result> Penalties </div>
+<div id=88 class=match_score_away_pen_result>  </div>
+<div id=89>  </div>
+<div id=90 class=aggregate_header>  </div>
+<div id=91>  </div>
+<div id=92 class=home_team_logo alt="['Home team logo']">  </div>
+<p id=93 class=home_team_name> Dynamo Kyiv </p>
+<div id=94 class=match_home_red_cards_layout>  </div>
+<div id=95 class=match_date> Today </div>
+<div id=96 class=match_date_time_divider>  </div>
+<div id=97 class=match_time> 19:45 </div>
+<div id=98 class=match_score_home>  </div>
+<div id=99 class=match_score_divider>  </div>
+<div id=100 class=match_score_away>  </div>
+<div id=101 class=counter_hours>  </div>
+<div id=102 class=counter_colon_one> : </div>
+<div id=103 class=counter_minutes>  </div>
+<div id=104 class=counter_colon_two> : </div>
+<div id=105 class=counter_seconds>  </div>
+<div id=106 class=counter_until_event> until kick-off </div>
+<div id=107 class=match_away_red_cards_layout>  </div>
+<div id=108 class=away_team_logo alt="['Away team logo']">  </div>
+<p id=109 class=away_team_name> Beşiktaş </p>
+<div id=110 class=goals_home>  </div>
+<div id=111 class=goals_away>  </div>
+<div id=112 class=match_penalties_home_1> 1 </div>
+<div id=113 class=match_penalties_home_2> 2 </div>
+<div id=114 class=match_penalties_home_3> 3 </div>
+<div id=115 class=match_penalties_home_4> 4 </div>
+<div id=116 class=match_penalties_home_5> 5 </div>
+<div id=117 class=match_penalties_away_5> 5 </div>
+<div id=118 class=match_penalties_away_4> 4 </div>
+<div id=119 class=match_penalties_away_3> 3 </div>
+<div id=120 class=match_penalties_away_2> 2 </div>
+<div id=121 class=match_penalties_away_1> 1 </div>
+<div id=122 class=card_match_sharing_button alt="['Share button']">  </div>
+<div id=123 class=match_live_home_comment_minute>  </div>
+<div id=124 class=match_live_home_comment_txt>  </div>
+<div id=125 class=match_live_away_comment_txt>  </div>
+<div id=126 class=match_live_away_comment_minute>  </div>
+<div id=127>  </div>
+<div id=128 class=match_divider_pen_result>  </div>
+<div id=129 class=match_score_home_pen_result>  </div>
+<div id=130 class=match_score_divider_pen_result> Penalties </div>
+<div id=131 class=match_score_away_pen_result>  </div>
+<div id=132>  </div>
+<div id=133 class=aggregate_header>  </div>
+<div id=134 class=home_team_logo alt="['Home team logo']">  </div>
+<p id=135 class=home_team_name> Benfica </p>
+<div id=136 class=match_home_red_cards_layout>  </div>
+<div id=137 class=match_date> Today </div>
+<div id=138 class=match_date_time_divider>  </div>
+<div id=139 class=match_time> 19:45 </div>
+<div id=140 class=match_score_home>  </div>
+<div id=141 class=match_score_divider>  </div>
+<div id=142 class=match_score_away>  </div>
+<div id=143 class=counter_hours>  </div>
+<div id=144 class=counter_colon_one> : </div>
+<div id=145 class=counter_minutes>  </div>
+<div id=146 class=counter_colon_two> : </div>
+<div id=147 class=counter_seconds>  </div>
+<div id=148 class=counter_until_event> until kick-off </div>
+<div id=149 class=match_away_red_cards_layout>  </div>
+<div id=150 class=away_team_logo alt="['Away team logo']">  </div>
+<p id=151 class=away_team_name> Napoli </p>
+<div id=152 class=goals_home>  </div>
+<div id=153 class=goals_away>  </div>
+<div id=154 class=match_penalties_home_1> 1 </div>
+<div id=155 class=match_penalties_home_2> 2 </div>
+<div id=156 class=match_penalties_home_3> 3 </div>
+<div id=157 class=match_penalties_home_4> 4 </div>
+<div id=158 class=match_penalties_home_5> 5 </div>
+<div id=159 class=match_penalties_away_5> 5 </div>
+<div id=160 class=match_penalties_away_4> 4 </div>
+<div id=161 class=match_penalties_away_3> 3 </div>
+<div id=162 class=match_penalties_away_2> 2 </div>
+<div id=163 class=match_penalties_away_1> 1 </div>
+<div id=164 class=card_match_sharing_button alt="['Share button']">  </div>
+<div id=165 class=match_live_home_comment_minute>  </div>
+<div id=166 class=match_live_home_comment_txt>  </div>
+<div id=167 class=match_live_away_comment_txt>  </div>
+<div id=168 class=match_live_away_comment_minute>  </div>
+<div id=169>  </div>
+<div id=170 class=match_divider_pen_result>  </div>
+<div id=171 class=match_score_home_pen_result>  </div>
+<div id=172 class=match_score_divider_pen_result> Penalties </div>
+<div id=173 class=match_score_away_pen_result>  </div>
+<div id=174>  </div>
+<div id=175 class=aggregate_header>  </div>
+<div id=176>  </div>
+<div id=177 class=statusbar_toolbar_extension>  </div>
+<div id=178 class=item_navigation_drawer_title> Home </div>
+<div id=179 class=item_navigation_drawer_title> Matches & Draws </div>
+<div id=180 class=item_navigation_drawer_title> Clubs </div>
+<div id=181 class=item_navigation_drawer_title> Players </div>
+<div id=182 class=item_navigation_drawer_title> Statistics </div>
+<div id=183 class=item_navigation_drawer_title> Standings </div>
+<div id=184 class=item_navigation_drawer_title> Play </div>
+<div id=185 class=item_navigation_drawer_title> All stories </div>
+<div id=186 class=item_navigation_drawer_title> History </div>
+<div id=187 class=item_navigation_drawer_title> Profile </div>
+<div id=188 class=item_navigation_drawer_small_extra_divider>  </div>
+<div id=189 class=item_navigation_drawer_title> Settings </div>
+<div id=190> Presented by </div>
+<div id=191 alt="['Drawer presented by image']">  </div>
+<div id=192 class=navigationBarBackground>  </div>
+
+
+Screen 3:
+
+<div id=0 class=statusbar_toolbar_extension>  </div>
+<div id=1 class=player_detail_header_background>  </div>
+<div id=2>  </div>
+<div id=3>  </div>
+<div id=4 class=player_detail_header_player_image alt="['Player image']">  </div>
+<div id=5 class=player_detail_header_player_club_name> Arsenal </div>
+<div id=6 class=player_detail_header_player_jersey_number> 8 </div>
+<div id=7 class=player_detail_header_player_club_logo alt="['Team logo']">  </div>
+<button id=8>  </button>
+<p id=9> Aaron Ramsey </p>
+<div id=10>  </div>
+<div id=11>  </div>
+<div id=12> Profile </div>
+<div id=13> Statistics </div>
+<div id=14> All stories </div>
+<div id=15 class=no_connection_retry alt="['Retry button']">  </div>
+<div id=16 class=no_connection_label> No network connection </div>
+<div id=17 class=no_connection_retry alt="['Retry button']">  </div>
+<div id=18 class=no_connection_label> No network connection </div>
+<p id=19 class=title> Group stage to final </p>
+<div id=20 class=arrow>  </div>
+<div id=21 class=player_stats_matches_title> Matches </div>
+<div id=22 class=player_stats_matches> 2 </div>
+<div id=23 class=player_stats_minutes_title> Minutes </div>
+<div id=24 class=player_stats_minutes> 165 </div>
+<div id=25 class=stats_comp_title> Total attempts </div>
+<div id=26 class=stats_main_number> 4 </div>
+<div id=27 class=stats_comp_progress_text_one> 2 </div>
+<div id=28>  </div>
+<div id=29>  </div>
+<div id=30 class=stats_comp_progress_value_one>  </div>
+<div id=31>  </div>
+<div id=32 class=stats_comp_progress_value_two>  </div>
+<div id=33>  </div>
+<div id=34 class=stats_comp_progress_text_two> 0.9 </div>
+<div id=35 class=stats_average_legend_left> Average per game </div>
+<div id=36 class=stats_average_legend_right> Midfielders average </div>
+<div id=37 class=stats_head_divider>  </div>
+<div id=38 class=stats_table_row_name> Off target </div>
+<div id=39 class=stats_table_row_value> 3 </div>
+<div id=40>  </div>
+<div id=41 class=stats_table_row_name> Blocked </div>
+<div id=42 class=stats_table_row_value> 1 </div>
+<div id=43>  </div>
+<div id=44 class=stats_table_row_name> Against woodwork </div>
+<div id=45 class=stats_table_row_value> 0 </div>
+<div id=46 class=no_connection_retry alt="['Retry button']">  </div>
+<div id=47 class=no_connection_label> No network connection </div>
+<div id=48 class=player_info_position_title> Position </div>
+<div id=49 class=player_info_position> Midfielder </div>
+<div id=50 class=player_info_position_divider>  </div>
+<div id=51 class=player_info_age_title> Age </div>
+<div id=52 class=player_info_age> 25 </div>
+<div id=53 class=player_info_country_title> Country </div>
+<div id=54 class=player_info_country> WAL </div>
+<div id=55 class=player_info_second_divider>  </div>
+<div id=56 class=player_info_weight_title> Weight </div>
+<div id=57 class=player_info_weight> 76 kg </div>
+<div id=58 class=player_info_height_title> Height </div>
+<div id=59 class=player_info_height> 178 cm </div>
+<div id=60>  </div>
+<div id=61> Bio </div>
+<div id=62 class=bio_preview_text> Widely hailed as the future of Welsh football, Ramsey became Cardiff's youngest first-team debutant in April 2007, aged 16 years and 124 days, eclipsing the previous record held by John Toshack.
+ </div>
+<div id=63 class=bio_preview_read_more> Read more </div>
+<div id=64 class=statusbar_toolbar_extension>  </div>
+<div id=65 class=item_navigation_drawer_title> Home </div>
+<div id=66 class=item_navigation_drawer_title> Matches & Draws </div>
+<div id=67 class=item_navigation_drawer_title> Clubs </div>
+<div id=68 class=item_navigation_drawer_title> Players </div>
+<div id=69 class=item_navigation_drawer_title> Statistics </div>
+<div id=70 class=item_navigation_drawer_title> Standings </div>
+<div id=71 class=item_navigation_drawer_title> Play </div>
+<div id=72 class=item_navigation_drawer_title> All stories </div>
+<div id=73 class=item_navigation_drawer_title> History </div>
+<div id=74 class=item_navigation_drawer_title> Profile </div>
+<div id=75 class=item_navigation_drawer_small_extra_divider>  </div>
+<div id=76 class=item_navigation_drawer_title> Settings </div>
+<div id=77> Presented by </div>
+<div id=78 alt="['Drawer presented by image']">  </div>
+<div id=79 class=navigationBarBackground>  </div>
+
+
+Screen 4:
+
+<div id=0 class=statusbar_toolbar_extension>  </div>
+<div id=1 class=onboarding_title> Favourite club </div>
+<div id=2 class=favourite_star alt="['Favourite team star']">  </div>
+<div id=3 class=fav_team_icon alt="['Favourite team logo']">  </div>
+<div id=4 class=btn_pick_favourite> Valletta </div>
+<div id=5 class=btn_remove_favourite alt="['Remove favourite team icon']">  </div>
+<p id=6 class=action_text_button> Done </p>
+<div id=7>  </div>
+<div id=8> Do you want to follow
+other clubs? </div>
+<div id=9 class=btn_add_teams alt="['Add teams icon']">  </div>
+<div id=10> Add clubs </div>
+<div id=11>  </div>
+<div id=12 class=statusbar_toolbar_extension>  </div>
+<div id=13 class=item_navigation_drawer_title> Home </div>
+<div id=14 class=item_navigation_drawer_title> Matches & Draws </div>
+<div id=15 class=item_navigation_drawer_title> Clubs </div>
+<div id=16 class=item_navigation_drawer_title> Players </div>
+<div id=17 class=item_navigation_drawer_title> Statistics </div>
+<div id=18 class=item_navigation_drawer_title> Standings </div>
+<div id=19 class=item_navigation_drawer_title> Play </div>
+<div id=20 class=item_navigation_drawer_title> All stories </div>
+<div id=21 class=item_navigation_drawer_title> History </div>
+<div id=22 class=item_navigation_drawer_title> Profile </div>
+<div id=23 class=item_navigation_drawer_small_extra_divider>  </div>
+<div id=24 class=item_navigation_drawer_title> Settings </div>
+<div id=25> Presented by </div>
+<div id=26 alt="['Drawer presented by image']">  </div>
+<div id=27 class=navigationBarBackground>  </div>
+
+
+{'0': '43103', '1': '43099', '2': '43105', '3': '43104', '4': '43101'}

@@ -1,0 +1,451 @@
+Screen 0:
+
+<p id=0 class=trickItemName> Ollie </p>
+<p id=1 class=trickItemDescription> A fundamental trick where the rider and board leap into the air without the use of the rider's hands. </p>
+<img id=2 class=trickItemDifficultyIcon>  </img>
+<img id=3 class=trickItemDelimiter>  </img>
+<p id=4 class=trickItemHubTricks> 4 tricks </p>
+<div id=5>  </div>
+<p id=6 class=trickItemName> Ollie 180 </p>
+<p id=7 class=trickItemDescription> An Ollie where the body and the board spins 180° in the same direction after leaving the ground. </p>
+<img id=8 class=trickItemDifficultyIcon>  </img>
+<img id=9 class=trickItemDelimiter>  </img>
+<p id=10 class=trickItemHubTricks> 8 tricks </p>
+<div id=11>  </div>
+<p id=12 class=trickItemName> Ollie 360 </p>
+<p id=13 class=trickItemDescription> Just like the Ollie 180 but done with a full 360° rotation. </p>
+<img id=14 class=trickItemDifficultyIcon>  </img>
+<img id=15 class=trickItemDelimiter>  </img>
+<p id=16 class=trickItemHubTricks> 4 tricks </p>
+<div id=17>  </div>
+<button id=18 class=tabTricks>  </button>
+<button id=19 class=tabFeed>  </button>
+<button id=20 class=tabAdd>  </button>
+<button id=21 class=tabNotifications>  </button>
+<button id=22 class=tabProfile>  </button>
+<p id=23>  </p>
+<p id=24>  </p>
+<img id=25>  </img>
+<p id=26>  </p>
+<button id=27 class=backTriangleIcon>  </button>
+<p id=28 class=abTitle> Basics </p>
+<img id=29>  </img>
+<input id=30 class=searchEt>  </input>
+<button id=31 class=searchCloseCross>  </button>
+<img id=32>  </img>
+<p id=33> FEED </p>
+<p id=34> TRENDING </p>
+<p id=35> EDITORS PICKS </p>
+<p id=36> NEARBY </p>
+<p id=37> Everything </p>
+<p id=38> Skateboard </p>
+<p id=39> BMX </p>
+<p id=40> Snowboard </p>
+<p id=41> Ski </p>
+<p id=42> Wakeboard </p>
+<p id=43> Scooter </p>
+<p id=44> Trampoline </p>
+<p id=45> Surf </p>
+<p id=46> Parkour </p>
+<p id=47> FMX </p>
+<p id=48> Mountain Bike </p>
+<p id=49> Longboard </p>
+<p id=50> Aggressive Inline </p>
+<p id=51> Windsurf </p>
+<p id=52> Kiteboard </p>
+<p id=53> Wakeskate </p>
+<p id=54> Wakesurf </p>
+<p id=55> Fixed Gear </p>
+<p id=56> Trials </p>
+<p id=57> Mountainboard </p>
+<p id=58> Lifestyle </p>
+<button id=59 class=navbarCloseCross>  </button>
+<p id=60> RIDERS </p>
+<div id=61>  </div>
+<div id=62 class=navigationBarBackground>  </div>
+<div id=63 class=statusBarBackground>  </div>
+
+
+Screen 1:
+
+<img id=0 class=welcomeImage>  </img>
+<img id=1 class=nameImage alt="['RIDERS']">  </img>
+<div id=2 class=lowerSpace>  </div>
+<p id=3 class=pretourTv> Log in with </p>
+<button id=4 class=fbButton>  </button>
+<button id=5 class=vkButton>  </button>
+<button id=6 class=emailButton>  </button>
+<p id=7 class=alreadyAMember> Not a member? </p>
+<p id=8 class=pretourTv> Learn new tricks and share
+with riders around the planet! </p>
+<p id=9 class=lgs> LET'S GET STARTED </p>
+<img id=10>  </img>
+<p id=11 class=alreadyAMember> Already a member? </p>
+<p id=12> RIDERS </p>
+<div id=13>  </div>
+<div id=14 class=navigationBarBackground>  </div>
+<div id=15 class=statusBarBackground>  </div>
+
+
+Screen 2:
+
+<p id=0 class=trickDisciplineAndCategory> SKATEBOARD · BASICS </p>
+<p id=1 class=trickName> OLLIE </p>
+<p id=2 class=trickStatValue> 46K </p>
+<p id=3 class=trickStatName> Riders </p>
+<p id=4 class=trickStatValue> 113 </p>
+<p id=5 class=trickStatName> Trick tips </p>
+<p id=6 class=trickStatValue> 8.8K </p>
+<p id=7 class=trickStatName> Replies </p>
+<p id=8 class=trickStatValue> 1.1K </p>
+<p id=9 class=trickStatName> Questions </p>
+<p id=10 class=myExperienceTv> MY EXPERIENCE </p>
+<p id=11 class=startLearning> Start learning </p>
+<img id=12 class=learningCircle>  </img>
+<img id=13 class=proveIv>  </img>
+<p id=14 class=trackYourProgress> Track every trick you learn, to build your profile. Always see how you stack up against friends, locals and pros. </p>
+<div id=15 class=requiredLv>  </div>
+<p id=16 class=usersListHeader> 45989 RIDERS </p>
+<img id=17 class=avatar>  </img>
+<img id=18 class=badge>  </img>
+<img id=19 class=avatar>  </img>
+<img id=20 class=badge>  </img>
+<img id=21 class=avatar>  </img>
+<img id=22 class=badge>  </img>
+<img id=23 class=avatar>  </img>
+<img id=24 class=badge>  </img>
+<img id=25 class=avatar>  </img>
+<img id=26 class=badge>  </img>
+<img id=27 class=avatar>  </img>
+<img id=28 class=badge>  </img>
+<img id=29 class=avatar>  </img>
+<img id=30 class=badge>  </img>
+<img id=31 class=avatar>  </img>
+<img id=32 class=badge>  </img>
+<img id=33 class=avatar>  </img>
+<img id=34 class=badge>  </img>
+<img id=35 class=avatar>  </img>
+<img id=36 class=badge>  </img>
+<img id=37 class=avatar>  </img>
+<img id=38 class=badge>  </img>
+<img id=39 class=avatar>  </img>
+<img id=40 class=badge>  </img>
+<img id=41 class=avatar>  </img>
+<img id=42 class=badge>  </img>
+<img id=43 class=avatar>  </img>
+<img id=44 class=badge>  </img>
+<img id=45 class=avatar>  </img>
+<img id=46 class=badge>  </img>
+<img id=47 class=avatar>  </img>
+<img id=48 class=badge>  </img>
+<img id=49 class=avatar>  </img>
+<img id=50 class=badge>  </img>
+<img id=51 class=avatar>  </img>
+<img id=52 class=badge>  </img>
+<img id=53 class=avatar>  </img>
+<img id=54 class=badge>  </img>
+<img id=55 class=avatar>  </img>
+<img id=56 class=badge>  </img>
+<img id=57 class=avatar>  </img>
+<img id=58 class=badge>  </img>
+<p id=59 class=noRepliesTitle> NO ONE TRIED YET </p>
+<p id=60 class=addReplyNoReplies> Learn </p>
+<p id=61> Be the first to learn this trick </p>
+<p id=62 class=trickRepliesCountText> 113 TRICK TIPS </p>
+<img id=63 class=repliesMoreArrow>  </img>
+<p id=64 class=trickReplyAddButton> Add </p>
+<img id=65 class=backgroundImage>  </img>
+<img id=66 class=tipAvatar>  </img>
+<p id=67 class=tipItemUserName> Riders  </p>
+<img id=68 class=tipItemLikesPercentageIv>  </img>
+<p id=69 class=tipItemLikesPercentageTv> 92% </p>
+<img id=70 class=tipLanguageIv>  </img>
+<p id=71 class=tipLanguageTv> English </p>
+<img id=72 class=tipItemLikesStepsIv>  </img>
+<p id=73 class=tipItemLikesStepsTv> 3 steps </p>
+<p id=74 class=tipMainVideoDuration> 01:21 </p>
+<img id=75 class=backgroundImage>  </img>
+<img id=76 class=tipAvatar>  </img>
+<p id=77 class=tipItemUserName> GoSkate.com  </p>
+<img id=78 class=tipItemLikesPercentageIv>  </img>
+<p id=79 class=tipItemLikesPercentageTv> 89% </p>
+<img id=80 class=tipLanguageIv>  </img>
+<p id=81 class=tipLanguageTv> English </p>
+<img id=82 class=tipItemLikesStepsIv>  </img>
+<p id=83 class=tipItemLikesStepsTv> 5 steps </p>
+<p id=84 class=tipMainVideoDuration> 03:42 </p>
+<img id=85 class=backgroundImage>  </img>
+<img id=86 class=tipAvatar>  </img>
+<p id=87 class=tipItemUserName> JT  </p>
+<img id=88 class=tipItemLikesPercentageIv>  </img>
+<p id=89 class=tipItemLikesPercentageTv> 92% </p>
+<img id=90 class=tipLanguageIv>  </img>
+<p id=91 class=tipLanguageTv> English </p>
+<img id=92 class=tipItemLikesStepsIv>  </img>
+<p id=93 class=tipItemLikesStepsTv> 3 steps </p>
+<p id=94 class=tipMainVideoDuration> 00:08 </p>
+<p id=95 class=trickTipsLayoutFooter> Show all 113 trick tips </p>
+<p id=96 class=noRepliesTitle> NO REPLIES SHARED YET </p>
+<p id=97 class=addReplyNoReplies> Add </p>
+<img id=98 class=noRepliesScull>  </img>
+<p id=99 class=noRepliesText> Be the first, get out and shoot
+your version of this trick. </p>
+<p id=100 class=trickRepliesCountText> 8765 REPLIES </p>
+<img id=101 class=repliesMoreArrow>  </img>
+<p id=102 class=trickReplyAddButton> Add </p>
+<img id=103 class=replicaIv>  </img>
+<img id=104 class=replicaVideoMarker>  </img>
+<img id=105 class=replicaIv>  </img>
+<img id=106 class=replicaVideoMarker>  </img>
+<img id=107 class=replicaIv>  </img>
+<img id=108 class=replicaVideoMarker>  </img>
+<div id=109>  </div>
+<img id=110 class=replicaIv>  </img>
+<img id=111 class=replicaVideoMarker>  </img>
+<img id=112 class=replicaIv>  </img>
+<img id=113 class=replicaVideoMarker>  </img>
+<img id=114 class=replicaIv>  </img>
+<img id=115 class=replicaVideoMarker>  </img>
+<div id=116>  </div>
+<img id=117 class=replicaIv>  </img>
+<img id=118 class=replicaVideoMarker>  </img>
+<img id=119 class=replicaIv>  </img>
+<img id=120 class=replicaVideoMarker>  </img>
+<img id=121 class=replicaIv>  </img>
+<img id=122 class=replicaVideoMarker>  </img>
+<p id=123 class=trickRepliesLayoutFooter> Show all 8765 replies </p>
+<p id=124 class=noRepliesTitle> NO REPLIES SHARED YET </p>
+<p id=125 class=addReplyNoReplies> Add </p>
+<img id=126 class=noRepliesScull>  </img>
+<p id=127 class=noRepliesText> Be the first, get out and shoot
+your version of this trick. </p>
+<p id=128 class=trickRepliesCountText> 1116 QUESTIONS </p>
+<img id=129 class=repliesMoreArrow>  </img>
+<p id=130 class=trickReplyAddButton> Ask </p>
+<img id=131 class=upvoteQuestionHeaderImage>  </img>
+<p id=132 class=trickQuestionHeaderUpvotesTv> 97 </p>
+<p id=133 class=question_name> I have my ollie down but I can't do it while moving. And when I practice like Ollieing over a brick I do it late. Any tips? 😁 </p>
+<p id=134 class=answersCountTv> 219 answers </p>
+<img id=135 class=questionAvatar>  </img>
+<img id=136 class=upvoteQuestionHeaderImage>  </img>
+<p id=137 class=trickQuestionHeaderUpvotesTv> 33 </p>
+<p id=138 class=question_name> How to do you really get height in your ollies? My ollies barely come off the ground </p>
+<p id=139 class=answersCountTv> 161 answers </p>
+<img id=140 class=questionAvatar>  </img>
+<img id=141 class=upvoteQuestionHeaderImage>  </img>
+<p id=142 class=trickQuestionHeaderUpvotesTv> 24 </p>
+<p id=143 class=question_name> When I do the Ollie everything is fine but I come down to the ground on my board the board tips forward and I don't land it. </p>
+<p id=144 class=answersCountTv> 57 answers </p>
+<img id=145 class=questionAvatar>  </img>
+<img id=146 class=upvoteQuestionHeaderImage>  </img>
+<p id=147 class=trickQuestionHeaderUpvotesTv> 20 </p>
+<p id=148 class=question_name> On average, how long did it take you guys to learn an Ollie? </p>
+<p id=149 class=answersCountTv> 110 answers </p>
+<img id=150 class=questionAvatar>  </img>
+<img id=151 class=upvoteQuestionHeaderImage>  </img>
+<p id=152 class=trickQuestionHeaderUpvotesTv> 17 </p>
+<p id=153 class=question_name> How do you jump? Which leg takes the majority of your weight? How do you get the tail to pop correctly? Any help is great. New slayer here. </p>
+<p id=154 class=answersCountTv> 18 answers </p>
+<img id=155 class=questionAvatar>  </img>
+<img id=156 class=upvoteQuestionHeaderImage>  </img>
+<p id=157 class=trickQuestionHeaderUpvotesTv> 14 </p>
+<p id=158 class=question_name> My Ollie started off landing crooked. I kept adjusting the placement of my feet and now I can land straight. Its not perfect but it's better </p>
+<p id=159 class=answersCountTv> 17 answers </p>
+<img id=160 class=questionAvatar>  </img>
+<img id=161 class=upvoteQuestionHeaderImage>  </img>
+<p id=162 class=trickQuestionHeaderUpvotesTv> 12 </p>
+<p id=163 class=question_name> Any tips on moving ollies. Please do not say it's the same thing </p>
+<p id=164 class=answersCountTv> 43 answers </p>
+<img id=165 class=questionAvatar>  </img>
+<p id=166 class=trickQuestionsLayoutFooter> Show all 1116 questions </p>
+<p id=167 class=noRepliesTitle> NO REPLIES SHARED YET </p>
+<p id=168 class=addReplyNoReplies> Add </p>
+<img id=169 class=noRepliesScull>  </img>
+<p id=170 class=noRepliesText> Be the first, get out and shoot
+your version of this trick. </p>
+<button id=171 class=tabTricks>  </button>
+<button id=172 class=tabFeed>  </button>
+<button id=173 class=tabAdd>  </button>
+<button id=174 class=tabNotifications>  </button>
+<button id=175 class=tabProfile>  </button>
+<p id=176>  </p>
+<p id=177>  </p>
+<img id=178>  </img>
+<p id=179>  </p>
+<button id=180 class=backTriangleIcon>  </button>
+<p id=181 class=abTitle> Ollie </p>
+<img id=182>  </img>
+<p id=183> FEED </p>
+<p id=184> TRENDING </p>
+<p id=185> EDITORS PICKS </p>
+<p id=186> NEARBY </p>
+<p id=187> Everything </p>
+<p id=188> Skateboard </p>
+<p id=189> BMX </p>
+<p id=190> Snowboard </p>
+<p id=191> Ski </p>
+<p id=192> Wakeboard </p>
+<p id=193> Scooter </p>
+<p id=194> Trampoline </p>
+<p id=195> Surf </p>
+<p id=196> Parkour </p>
+<p id=197> FMX </p>
+<p id=198> Mountain Bike </p>
+<p id=199> Longboard </p>
+<p id=200> Aggressive Inline </p>
+<p id=201> Windsurf </p>
+<p id=202> Kiteboard </p>
+<p id=203> Wakeskate </p>
+<p id=204> Wakesurf </p>
+<p id=205> Fixed Gear </p>
+<p id=206> Trials </p>
+<p id=207> Mountainboard </p>
+<p id=208> Lifestyle </p>
+<button id=209 class=navbarCloseCross>  </button>
+<p id=210> RIDERS </p>
+<div id=211>  </div>
+<div id=212 class=navigationBarBackground>  </div>
+<div id=213 class=statusBarBackground>  </div>
+
+
+Screen 3:
+
+<div id=0>  </div>
+<p id=1 class=term> Skateboard </p>
+<p id=2 class=trickCount> 162 </p>
+<p id=3 class=term> BMX </p>
+<p id=4 class=trickCount> 151 </p>
+<p id=5 class=term> Snowboard </p>
+<p id=6 class=trickCount> 104 </p>
+<p id=7 class=term> Ski </p>
+<p id=8 class=trickCount> 92 </p>
+<p id=9 class=term> Wakeboard </p>
+<p id=10 class=trickCount> 136 </p>
+<p id=11 class=term> Scooter </p>
+<p id=12 class=trickCount> 49 </p>
+<p id=13 class=term> Trampoline </p>
+<p id=14 class=trickCount> 37 </p>
+<p id=15 class=term> Surf </p>
+<p id=16 class=trickCount> 21 </p>
+<p id=17 class=term> Parkour </p>
+<p id=18 class=trickCount> 78 </p>
+<p id=19 class=term> FMX </p>
+<p id=20 class=trickCount> 18 </p>
+<p id=21 class=term> Mountain Bike </p>
+<p id=22 class=trickCount> 79 </p>
+<p id=23 class=term> Longboard </p>
+<p id=24 class=trickCount> 63 </p>
+<p id=25 class=term> Aggressive Inline </p>
+<p id=26 class=trickCount> 32 </p>
+<button id=27 class=tabTricks>  </button>
+<button id=28 class=tabFeed>  </button>
+<button id=29 class=tabAdd>  </button>
+<button id=30 class=tabNotifications>  </button>
+<button id=31 class=tabProfile>  </button>
+<p id=32>  </p>
+<p id=33>  </p>
+<img id=34>  </img>
+<p id=35>  </p>
+<p id=36 class=abTitle> Tricks </p>
+<img id=37>  </img>
+<p id=38> FEED </p>
+<p id=39> TRENDING </p>
+<p id=40> EDITORS PICKS </p>
+<p id=41> NEARBY </p>
+<p id=42> Everything </p>
+<p id=43> Skateboard </p>
+<p id=44> BMX </p>
+<p id=45> Snowboard </p>
+<p id=46> Ski </p>
+<p id=47> Wakeboard </p>
+<p id=48> Scooter </p>
+<p id=49> Trampoline </p>
+<p id=50> Surf </p>
+<p id=51> Parkour </p>
+<p id=52> FMX </p>
+<p id=53> Mountain Bike </p>
+<p id=54> Longboard </p>
+<p id=55> Aggressive Inline </p>
+<p id=56> Windsurf </p>
+<p id=57> Kiteboard </p>
+<p id=58> Wakeskate </p>
+<p id=59> Wakesurf </p>
+<p id=60> Fixed Gear </p>
+<p id=61> Trials </p>
+<p id=62> Mountainboard </p>
+<p id=63> Lifestyle </p>
+<button id=64 class=navbarCloseCross>  </button>
+<p id=65> RIDERS </p>
+<div id=66>  </div>
+<div id=67 class=navigationBarBackground>  </div>
+<div id=68 class=statusBarBackground>  </div>
+
+
+Screen 4:
+
+<button id=0 class=profileTrickDetailsBackTriangleIcon>  </button>
+<img id=1 class=profileTrickDetailsAvatar>  </img>
+<p id=2 class=profileTrickDetailsUserName> Evgenii Potapov </p>
+<p id=3 class=profileTrickDetailsHeaderName> BAR KIP   </p>
+<img id=4 class=profileTrickDetailsHeaderItemIcon>  </img>
+<p id=5 class=profileTrickDetailsHeaderItemName> Learned </p>
+<p id=6 class=profileTrickDetailsHeaderItemData> 6 hours ago </p>
+<div id=7 class=profileTrickDetailsHeaderDelimiter1>  </div>
+<img id=8 class=profileTrickDetailsHeaderItemIcon>  </img>
+<p id=9 class=profileTrickDetailsHeaderItemName> Replies </p>
+<p id=10 class=profileTrickDetailsHeaderItemData> 0 </p>
+<div id=11 class=profileTrickDetailsHeaderDelimiter2>  </div>
+<img id=12 class=profileTrickDetailsHeaderItemIcon>  </img>
+<p id=13 class=profileTrickDetailsHeaderItemName> Time spent </p>
+<p id=14 class=profileTrickDetailsHeaderItemData> soon </p>
+<div id=15 class=profileTrickDetailsHeaderDelimiter3>  </div>
+<img id=16 class=profileTrickDetailsHeaderItemIcon>  </img>
+<p id=17 class=profileTrickDetailsHeaderItemName> Difficulty </p>
+<p id=18 class=profileTrickDetailsHeaderItemData> soon </p>
+<p id=19 class=profileTrickDetailsShowTrick> Show global statistics </p>
+<button id=20 class=tabTricks>  </button>
+<button id=21 class=tabFeed>  </button>
+<button id=22 class=tabAdd>  </button>
+<button id=23 class=tabNotifications>  </button>
+<button id=24 class=tabProfile>  </button>
+<p id=25>  </p>
+<p id=26>  </p>
+<img id=27>  </img>
+<p id=28>  </p>
+<button id=29 class=backTriangleIcon>  </button>
+<p id=30 class=abTitle>  </p>
+<div id=31 class=abOptions>  </div>
+<p id=32> FEED </p>
+<p id=33> TRENDING </p>
+<p id=34> EDITORS PICKS </p>
+<p id=35> NEARBY </p>
+<p id=36> Everything </p>
+<p id=37> Skateboard </p>
+<p id=38> BMX </p>
+<p id=39> Snowboard </p>
+<p id=40> Ski </p>
+<p id=41> Wakeboard </p>
+<p id=42> Scooter </p>
+<p id=43> Trampoline </p>
+<p id=44> Surf </p>
+<p id=45> Parkour </p>
+<p id=46> FMX </p>
+<p id=47> Mountain Bike </p>
+<p id=48> Longboard </p>
+<p id=49> Aggressive Inline </p>
+<p id=50> Windsurf </p>
+<p id=51> Kiteboard </p>
+<p id=52> Wakeskate </p>
+<p id=53> Wakesurf </p>
+<p id=54> Fixed Gear </p>
+<p id=55> Trials </p>
+<p id=56> Mountainboard </p>
+<p id=57> Lifestyle </p>
+<button id=58 class=navbarCloseCross>  </button>
+<p id=59> RIDERS </p>
+<div id=60>  </div>
+<div id=61 class=navigationBarBackground>  </div>
+<div id=62 class=statusBarBackground>  </div>
+
+
+{'0': '21159', '1': '21148', '2': '21144', '3': '21170', '4': '21146'}
